@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§68/1984 SJÖLANDA 3:5 OMBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS">
+
+      <container id="843901" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OMBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SJÖLANDA 3:5</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1984-01-25</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>15404</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§68/1984 SJÖLANDA 3:5 OMBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§68/1984 SJÖLANDA 3:5 OMBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 574271 FAS">
+
+      <container id="843910" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 574271 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§68/1984 SJÖLANDA 3:5 OMBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 574261 SITPL PL SEKT">
+
+      <container id="843908" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 574261 SITPL PL SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§68/1984 SJÖLANDA 3:5 OMBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 574271 FAS|57774.tif">
+
+      <document id="843911" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:3d61399b399f8466d711c8e8ae2750ab0d06f5b3</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>91F410A2F61367AFBCF972D58D40004A</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:3d61399b399f8466d711c8e8ae2750ab0d06f5b3</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>106116</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>57774.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§68/1984 SJÖLANDA 3:5 OMBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 574241 PL UPPMÄTN-RITN">
+
+      <container id="843904" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 574241 PL UPPMÄTN-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§68/1984 SJÖLANDA 3:5 OMBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 574251 FAS UPPMÄTN-RITN">
+
+      <container id="843906" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 574251 FAS UPPMÄTN-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§68/1984 SJÖLANDA 3:5 OMBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 574231 KÄLLARPL UPPMÄTN-RITN">
+
+      <container id="843902" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 574231 KÄLLARPL UPPMÄTN-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§68/1984 SJÖLANDA 3:5 OMBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 574261 SITPL PL SEKT|57773.tif">
+
+      <document id="843909" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:991da8224f433d1e6e948ad4ef058821423ddb01</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>195FA05640A846266BA33E8051F522CC</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:991da8224f433d1e6e948ad4ef058821423ddb01</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>102388</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>57773.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§68/1984 SJÖLANDA 3:5 OMBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 574241 PL UPPMÄTN-RITN|57771.tif">
+
+      <document id="843905" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:248f7435a3be689573766368f0bb320bfba76e81</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>5089CEB47ADFB5E15C7AD77EE5512E95</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:248f7435a3be689573766368f0bb320bfba76e81</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>110064</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>57771.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§68/1984 SJÖLANDA 3:5 OMBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 574251 FAS UPPMÄTN-RITN|57772.tif">
+
+      <document id="843907" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:faefb58c9e39004874a45822a2f4c85d7556050c</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>F7E4313277729CA12AC20F4E40726E95</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:faefb58c9e39004874a45822a2f4c85d7556050c</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>120846</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>57772.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§68/1984 SJÖLANDA 3:5 OMBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 574231 KÄLLARPL UPPMÄTN-RITN|57770.tif">
+
+      <document id="843903" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:74df32e26ec4b467ec33901305428870807c690a</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>8220D106E0554F99B44B14A9BAD6768A</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:74df32e26ec4b467ec33901305428870807c690a</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>106872</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>57770.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§592/1978 TORPA 3:40 TILLBYGGNAD OCH FASADBEKLÄDNAD">
+
+      <container id="757853" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD OCH FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>TORPA 3:40</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1978-05-24</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>20435</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§592/1978 TORPA 3:40 TILLBYGGNAD OCH FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§592/1978 TORPA 3:40 TILLBYGGNAD OCH FASADBEKLÄDNAD|A 247151 SIT BOTTENPL FAS SEKT">
+
+      <container id="757854" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 247151 SIT BOTTENPL FAS SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§592/1978 TORPA 3:40 TILLBYGGNAD OCH FASADBEKLÄDNAD|A 247151 SIT BOTTENPL FAS SEKT|24840.tif">
+
+      <document id="757855" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:abe5a3b04139762f8c71ea7960be21c7bbcbb71d</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>91642F63DFE62F007298CE9817D0FBB3</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:abe5a3b04139762f8c71ea7960be21c7bbcbb71d</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>258974</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>24840.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

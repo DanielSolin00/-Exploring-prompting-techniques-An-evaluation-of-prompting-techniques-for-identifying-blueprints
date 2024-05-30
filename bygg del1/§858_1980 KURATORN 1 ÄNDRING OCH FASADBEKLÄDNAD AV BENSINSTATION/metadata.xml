@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§858/1980 KURATORN 1 ÄNDRING OCH FASADBEKLÄDNAD AV BENSINSTATION">
+
+      <container id="497501" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING OCH FASADBEKLÄDNAD AV BENSINSTATION</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>KURATORN 1</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1980-08-27</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>8077</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§858/1980 KURATORN 1 ÄNDRING OCH FASADBEKLÄDNAD AV BENSINSTATION</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§858/1980 KURATORN 1 ÄNDRING OCH FASADBEKLÄDNAD AV BENSINSTATION|A 460301 PL">
+
+      <container id="497502" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 460301 PL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§858/1980 KURATORN 1 ÄNDRING OCH FASADBEKLÄDNAD AV BENSINSTATION|A 460311 FAS SIT">
+
+      <container id="497504" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 460311 FAS SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§858/1980 KURATORN 1 ÄNDRING OCH FASADBEKLÄDNAD AV BENSINSTATION|A 460301 PL|46256.tif">
+
+      <document id="497503" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:e0dd3828b61d6ad037acb8bc7755ea3559c94395</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>B9B138A247B56053C91A9A6A54174909</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:e0dd3828b61d6ad037acb8bc7755ea3559c94395</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>43626</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>46256.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§858/1980 KURATORN 1 ÄNDRING OCH FASADBEKLÄDNAD AV BENSINSTATION|A 460311 FAS SIT|46257.tif">
+
+      <document id="497505" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:416746e02dbcaae3f3804ba98368311d5a6a9fc9</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>AC64629EF5E8F6D28B455E35867516CF</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:416746e02dbcaae3f3804ba98368311d5a6a9fc9</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>132948</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>46257.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

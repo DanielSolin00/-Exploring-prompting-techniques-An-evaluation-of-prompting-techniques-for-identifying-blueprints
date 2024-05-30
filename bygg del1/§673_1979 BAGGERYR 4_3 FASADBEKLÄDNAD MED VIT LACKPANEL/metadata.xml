@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§673/1979 BAGGERYR 4:3 FASADBEKLÄDNAD MED VIT LACKPANEL">
+
+      <container id="535925" type="building_case">
+         <attribute type="Ärendemening">
+            <value>FASADBEKLÄDNAD MED VIT LACKPANEL</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>BAGGERYR 4:3</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1979-05-22</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>736</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§673/1979 BAGGERYR 4:3 FASADBEKLÄDNAD MED VIT LACKPANEL</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§673/1979 BAGGERYR 4:3 FASADBEKLÄDNAD MED VIT LACKPANEL|A 358931 FAS">
+
+      <container id="535926" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 358931 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§673/1979 BAGGERYR 4:3 FASADBEKLÄDNAD MED VIT LACKPANEL|A 358941 FAS">
+
+      <container id="535928" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 358941 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§673/1979 BAGGERYR 4:3 FASADBEKLÄDNAD MED VIT LACKPANEL|A 358951 FAS">
+
+      <container id="535930" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 358951 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§673/1979 BAGGERYR 4:3 FASADBEKLÄDNAD MED VIT LACKPANEL|A 358961 FAS">
+
+      <container id="535932" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 358961 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§673/1979 BAGGERYR 4:3 FASADBEKLÄDNAD MED VIT LACKPANEL|A 358931 FAS|36083.tif">
+
+      <document id="535927" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:4e92ccb8b9ff7210a79165d492d53186baaa5c5b</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>4CBBCF4FF58203181676D27BB720C634</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:4e92ccb8b9ff7210a79165d492d53186baaa5c5b</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>317160</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>36083.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§673/1979 BAGGERYR 4:3 FASADBEKLÄDNAD MED VIT LACKPANEL|A 358941 FAS|36084.tif">
+
+      <document id="535929" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:565c53ea15bf41e80488e82ad944d27a7a89d025</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>921E2B4F501D9470E55E10935B24E7B6</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:565c53ea15bf41e80488e82ad944d27a7a89d025</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>246234</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>36084.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§673/1979 BAGGERYR 4:3 FASADBEKLÄDNAD MED VIT LACKPANEL|A 358951 FAS|36085.tif">
+
+      <document id="535931" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:6bbc68a2e412f72c2cf6179481b7cc2117a2f1e8</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>6EB95CFEA70F568EDECF0D7412EB2DFA</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:6bbc68a2e412f72c2cf6179481b7cc2117a2f1e8</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>266648</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>36085.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§673/1979 BAGGERYR 4:3 FASADBEKLÄDNAD MED VIT LACKPANEL|A 358961 FAS|36086.tif">
+
+      <document id="535933" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:6382b4849d2524445d303a4afc502136c9606b5c</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>8DF394A7FCD5EF6240B2829B75CF7755</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:6382b4849d2524445d303a4afc502136c9606b5c</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>248602</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>36086.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

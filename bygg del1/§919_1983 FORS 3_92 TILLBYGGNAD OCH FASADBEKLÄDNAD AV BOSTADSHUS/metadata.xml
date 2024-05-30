@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§919/1983 FORS 3:92 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS">
+
+      <container id="617804" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>FORS 3:92</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1983-10-26</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>53230</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§919/1983 FORS 3:92 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§919/1983 FORS 3:92 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 569131 UTDR UR EK KARTA">
+
+      <container id="617805" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 569131 UTDR UR EK KARTA</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§919/1983 FORS 3:92 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 569141 BOTTENPL FAS SEKT">
+
+      <container id="617807" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 569141 BOTTENPL FAS SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§919/1983 FORS 3:92 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 569131 UTDR UR EK KARTA|57255.tif">
+
+      <document id="617806" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:6a2d9ceed0bfec173fe5a6440b6263c1b0af4611</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>D269610914B1C8A630ADDA5EA02CEBAD</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:6a2d9ceed0bfec173fe5a6440b6263c1b0af4611</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>177336</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>57255.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§919/1983 FORS 3:92 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 569141 BOTTENPL FAS SEKT|57256.tif">
+
+      <document id="617808" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:f44409775fa60bc9b25254ff72de50a2c06cddb8</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>5ECA8AB275F5BDA06D5A2A7F2605AB31</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:f44409775fa60bc9b25254ff72de50a2c06cddb8</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>381666</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>57256.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

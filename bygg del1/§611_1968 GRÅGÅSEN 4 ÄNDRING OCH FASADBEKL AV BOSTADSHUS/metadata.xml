@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§611/1968 GRÅGÅSEN 4 ÄNDRING OCH FASADBEKL AV BOSTADSHUS">
+
+      <container id="475753" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING OCH FASADBEKL AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>GRÅGÅSEN 4</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1968-06-12</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>54257</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§611/1968 GRÅGÅSEN 4 ÄNDRING OCH FASADBEKL AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§611/1968 GRÅGÅSEN 4 ÄNDRING OCH FASADBEKL AV BOSTADSHUS|VA 1014091 VA-RITN">
+
+      <container id="475756" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1014091 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§611/1968 GRÅGÅSEN 4 ÄNDRING OCH FASADBEKL AV BOSTADSHUS|A 274671 KOMPL RITN">
+
+      <container id="475754" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 274671 KOMPL RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§611/1968 GRÅGÅSEN 4 ÄNDRING OCH FASADBEKL AV BOSTADSHUS|VA 1014091 VA-RITN|93610.tif">
+
+      <document id="475757" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:8ad77957fe27696b336a466df13e5b6abaa7b1f2</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>36616B6D04663A53E09BC40B920629E1</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:8ad77957fe27696b336a466df13e5b6abaa7b1f2</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>89206</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>93610.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§611/1968 GRÅGÅSEN 4 ÄNDRING OCH FASADBEKL AV BOSTADSHUS|A 274671 KOMPL RITN|27600.tif">
+
+      <document id="475755" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:ced15e77d7d84a9b3fefa481bc0f381f314ac357</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>FDB71A0A4F68C52BCF61143B16F2B446</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:ced15e77d7d84a9b3fefa481bc0f381f314ac357</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>133164</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>27600.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

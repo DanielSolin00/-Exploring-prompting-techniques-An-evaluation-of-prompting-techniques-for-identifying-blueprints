@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§957/1978 STORSPOVEN 11 TILLBYGGNAD AV UTEPLATS SAMT ÄNDRING AV FASADM ATERIAL">
+
+      <container id="803016" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD AV UTEPLATS SAMT ÄNDRING AV FASADM ATERIAL</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>STORSPOVEN 11</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1978-08-23</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>18070</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§957/1978 STORSPOVEN 11 TILLBYGGNAD AV UTEPLATS SAMT ÄNDRING AV FASADM ATERIAL</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§957/1978 STORSPOVEN 11 TILLBYGGNAD AV UTEPLATS SAMT ÄNDRING AV FASADM ATERIAL|A 259961 SIT">
+
+      <container id="803017" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 259961 SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§957/1978 STORSPOVEN 11 TILLBYGGNAD AV UTEPLATS SAMT ÄNDRING AV FASADM ATERIAL|A 259961 SIT|26126.tif">
+
+      <document id="803018" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:3ac230b73e2fb9bccc98d48036f666142ff541c6</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>0BFED7ED534AFACF0FA769B73DD8C82F</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:3ac230b73e2fb9bccc98d48036f666142ff541c6</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>349384</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>26126.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§957/1978 STORSPOVEN 11 TILLBYGGNAD AV UTEPLATS SAMT ÄNDRING AV FASADM ATERIAL|A 259971 SIT FAS PL SEKT A-A">
+
+      <container id="803019" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 259971 SIT FAS PL SEKT A-A</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§957/1978 STORSPOVEN 11 TILLBYGGNAD AV UTEPLATS SAMT ÄNDRING AV FASADM ATERIAL|A 259971 SIT FAS PL SEKT A-A|26127.tif">
+
+      <document id="803020" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:8587db8bf49da8299d91fe3b44e6bb4ad13b9644</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>A0CFE14F00AFF769C6B650FB0AD863E0</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:8587db8bf49da8299d91fe3b44e6bb4ad13b9644</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>176106</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>26127.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

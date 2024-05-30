@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§642/1968 ÅSAKA 5:12 FASADBEKLÄDNAD">
+
+      <container id="797579" type="building_case">
+         <attribute type="Ärendemening">
+            <value>FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>ÅSAKA 5:12</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1968-06-12</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>23220</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§642/1968 ÅSAKA 5:12 FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§642/1968 ÅSAKA 5:12 FASADBEKLÄDNAD|A 492491 FAS">
+
+      <container id="797582" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 492491 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§642/1968 ÅSAKA 5:12 FASADBEKLÄDNAD|A 492491 FAS|49487.tif">
+
+      <document id="797583" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:d0104f76cfc43539a26f5dd4cdbaee0f600baa83</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>1A695833536BEBBC6C8783877F63B43A</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:d0104f76cfc43539a26f5dd4cdbaee0f600baa83</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>109972</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>49487.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§642/1968 ÅSAKA 5:12 FASADBEKLÄDNAD|A 492481 UTDR UR EK KARTA">
+
+      <container id="797580" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 492481 UTDR UR EK KARTA</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§642/1968 ÅSAKA 5:12 FASADBEKLÄDNAD|A 492481 UTDR UR EK KARTA|49486.tif">
+
+      <document id="797581" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:fcfae331279a8c572e0fa3fbd7b15d4f7df0f4f4</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>3846A5D8C0A07279339611C521D4448B</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:fcfae331279a8c572e0fa3fbd7b15d4f7df0f4f4</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>214048</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>49486.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

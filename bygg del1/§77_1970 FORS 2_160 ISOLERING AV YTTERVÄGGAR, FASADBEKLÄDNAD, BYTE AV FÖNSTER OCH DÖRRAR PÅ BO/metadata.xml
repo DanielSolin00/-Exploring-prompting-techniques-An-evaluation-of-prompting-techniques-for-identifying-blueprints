@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§77/1970 FORS 2:160 ISOLERING AV YTTERVÄGGAR, FASADBEKLÄDNAD, BYTE AV FÖNSTER OCH DÖRRAR PÅ BOSTADSHUS">
+
+      <container id="546773" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ISOLERING AV YTTERVÄGGAR, FASADBEKLÄDNAD, BYTE AV FÖNSTER OCH DÖRRAR PÅ BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>FORS 2:160</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1970-05-11</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>53012</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§77/1970 FORS 2:160 ISOLERING AV YTTERVÄGGAR, FASADBEKLÄDNAD, BYTE AV FÖNSTER OCH DÖRRAR PÅ BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§77/1970 FORS 2:160 ISOLERING AV YTTERVÄGGAR, FASADBEKLÄDNAD, BYTE AV FÖNSTER OCH DÖRRAR PÅ BOSTADSHUS|A 492091 SIT BOTTEN- OCH VINDSPL FAS">
+
+      <container id="546774" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 492091 SIT BOTTEN- OCH VINDSPL FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§77/1970 FORS 2:160 ISOLERING AV YTTERVÄGGAR, FASADBEKLÄDNAD, BYTE AV FÖNSTER OCH DÖRRAR PÅ BOSTADSHUS|A 492091 SIT BOTTEN- OCH VINDSPL FAS|49447.tif">
+
+      <document id="546775" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:52886c4297aac1edb881629a38f8f40a47022e82</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>0A228781DB3B9AA82CB70B44ABE1C56A</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:52886c4297aac1edb881629a38f8f40a47022e82</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>174590</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>49447.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

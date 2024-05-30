@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§716/1978 GROSSHANDLAREN 1 FASADBEKLÄDNAD OCH OMBYGGNAD AV BOSTADSHUS">
+
+      <container id="646726" type="building_case">
+         <attribute type="Ärendemening">
+            <value>FASADBEKLÄDNAD OCH OMBYGGNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>GROSSHANDLAREN 1</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1978-06-28</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>54170</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§716/1978 GROSSHANDLAREN 1 FASADBEKLÄDNAD OCH OMBYGGNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§716/1978 GROSSHANDLAREN 1 FASADBEKLÄDNAD OCH OMBYGGNAD AV BOSTADSHUS|A 255581 FAS PL SEKT SIT">
+
+      <container id="646727" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 255581 FAS PL SEKT SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§716/1978 GROSSHANDLAREN 1 FASADBEKLÄDNAD OCH OMBYGGNAD AV BOSTADSHUS|A 255581 FAS PL SEKT SIT|25686.tif">
+
+      <document id="646728" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:b985cab7a655334bc7ef82e1346147ec84670fbb</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>A09849432F28530233762CD27257673C</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:b985cab7a655334bc7ef82e1346147ec84670fbb</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>406016</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>25686.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

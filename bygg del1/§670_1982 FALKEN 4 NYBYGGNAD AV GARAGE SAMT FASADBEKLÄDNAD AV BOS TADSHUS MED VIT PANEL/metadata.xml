@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§670/1982 FALKEN 4 NYBYGGNAD AV GARAGE SAMT FASADBEKLÄDNAD AV BOS TADSHUS MED VIT PANEL">
+
+      <container id="520603" type="building_case">
+         <attribute type="Ärendemening">
+            <value>NYBYGGNAD AV GARAGE SAMT FASADBEKLÄDNAD AV BOS TADSHUS MED VIT PANEL</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>FALKEN 4</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1982-06-23</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>3001</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§670/1982 FALKEN 4 NYBYGGNAD AV GARAGE SAMT FASADBEKLÄDNAD AV BOS TADSHUS MED VIT PANEL</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§670/1982 FALKEN 4 NYBYGGNAD AV GARAGE SAMT FASADBEKLÄDNAD AV BOS TADSHUS MED VIT PANEL|A 515181 SIT PL FAS SEKT">
+
+      <container id="520604" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 515181 SIT PL FAS SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§670/1982 FALKEN 4 NYBYGGNAD AV GARAGE SAMT FASADBEKLÄDNAD AV BOS TADSHUS MED VIT PANEL|A 515181 SIT PL FAS SEKT|51780.tif">
+
+      <document id="520605" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:c374a0f99830e0bea5cf31acbfe2b8156438e602</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>EEE2979027578B9E253E9F10DF2E2E83</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:c374a0f99830e0bea5cf31acbfe2b8156438e602</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>88426</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>51780.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

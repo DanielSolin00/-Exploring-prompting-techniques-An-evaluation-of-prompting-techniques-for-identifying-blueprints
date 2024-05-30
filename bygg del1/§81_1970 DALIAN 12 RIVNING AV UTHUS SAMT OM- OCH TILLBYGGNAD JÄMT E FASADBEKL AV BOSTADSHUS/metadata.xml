@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§81/1970 DALIAN 12 RIVNING AV UTHUS SAMT OM- OCH TILLBYGGNAD JÄMT E FASADBEKL AV BOSTADSHUS">
+
+      <container id="572031" type="building_case">
+         <attribute type="Ärendemening">
+            <value>RIVNING AV UTHUS SAMT OM- OCH TILLBYGGNAD JÄMT E FASADBEKL AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>DALIAN 12</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1970-02-18</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>1633</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§81/1970 DALIAN 12 RIVNING AV UTHUS SAMT OM- OCH TILLBYGGNAD JÄMT E FASADBEKL AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§81/1970 DALIAN 12 RIVNING AV UTHUS SAMT OM- OCH TILLBYGGNAD JÄMT E FASADBEKL AV BOSTADSHUS|A 106801 FAS PL SEKT">
+
+      <container id="572032" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 106801 FAS PL SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§81/1970 DALIAN 12 RIVNING AV UTHUS SAMT OM- OCH TILLBYGGNAD JÄMT E FASADBEKL AV BOSTADSHUS|A 106801 FAS PL SEKT|10735.tif">
+
+      <document id="572033" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:61de0aeb0365f131aac4b735d0f362b385d32152</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>CE82D26DB36C92ED13A288A5EAFC84AC</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:61de0aeb0365f131aac4b735d0f362b385d32152</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>260352</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>10735.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

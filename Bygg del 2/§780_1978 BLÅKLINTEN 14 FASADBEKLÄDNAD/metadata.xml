@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§780/1978 BLÅKLINTEN 14 FASADBEKLÄDNAD">
+
+      <container id="519421" type="building_case">
+         <attribute type="Ärendemening">
+            <value>FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>BLÅKLINTEN 14</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1978-06-28</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>51797</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§780/1978 BLÅKLINTEN 14 FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§780/1978 BLÅKLINTEN 14 FASADBEKLÄDNAD|A 257621 FAS">
+
+      <container id="519422" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 257621 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§780/1978 BLÅKLINTEN 14 FASADBEKLÄDNAD|VA 1004201 VA-RITN">
+
+      <container id="519424" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1004201 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§780/1978 BLÅKLINTEN 14 FASADBEKLÄDNAD|A 257621 FAS|25891.tif">
+
+      <document id="519423" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:f346234abe0b019a58bd15f9500fbd62848625ea</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>6E7F6DC055FA322E0F8ADC6B83A78FAA</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:f346234abe0b019a58bd15f9500fbd62848625ea</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>236714</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>25891.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§780/1978 BLÅKLINTEN 14 FASADBEKLÄDNAD|VA 1004201 VA-RITN|92615.tif">
+
+      <document id="519425" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:91e49e274642ea97b96e5c685cd76e071f9ecf44</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>92962EB9EDF8E8B8DDF212A06515132E</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:91e49e274642ea97b96e5c685cd76e071f9ecf44</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>122158</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>92615.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

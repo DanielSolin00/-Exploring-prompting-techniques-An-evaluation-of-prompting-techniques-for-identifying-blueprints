@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§371/1969 SPARVEN 1 RIVNING AV UTHUS SAMT TILLBYGGNAD OCH FASADBEK LÄDNAD AV BOSTADSHUS">
+
+      <container id="730216" type="building_case">
+         <attribute type="Ärendemening">
+            <value>RIVNING AV UTHUS SAMT TILLBYGGNAD OCH FASADBEK LÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SPARVEN 1</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1969-05-21</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>17015</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§371/1969 SPARVEN 1 RIVNING AV UTHUS SAMT TILLBYGGNAD OCH FASADBEK LÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§371/1969 SPARVEN 1 RIVNING AV UTHUS SAMT TILLBYGGNAD OCH FASADBEK LÄDNAD AV BOSTADSHUS|VA 1040551 VA-RITN">
+
+      <container id="730219" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1040551 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§371/1969 SPARVEN 1 RIVNING AV UTHUS SAMT TILLBYGGNAD OCH FASADBEK LÄDNAD AV BOSTADSHUS|A 388261 FAS PL SIT">
+
+      <container id="730217" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 388261 FAS PL SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§371/1969 SPARVEN 1 RIVNING AV UTHUS SAMT TILLBYGGNAD OCH FASADBEK LÄDNAD AV BOSTADSHUS|VA 1040551 VA-RITN|96295.tif">
+
+      <document id="730220" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:691021dfe5a23d5fc29fabc3e7e1842ef4c04259</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>9D110BDF9C3F777FE55D5392267B8BAF</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:691021dfe5a23d5fc29fabc3e7e1842ef4c04259</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>319088</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>96295.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§371/1969 SPARVEN 1 RIVNING AV UTHUS SAMT TILLBYGGNAD OCH FASADBEK LÄDNAD AV BOSTADSHUS|A 388261 FAS PL SIT|39024.tif">
+
+      <document id="730218" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:053803f698e0ecffe8d6e5e41f41d6dcfb78d765</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>66167C441176DEB62FEAE9D96BAF627A</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:053803f698e0ecffe8d6e5e41f41d6dcfb78d765</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>452886</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>39024.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

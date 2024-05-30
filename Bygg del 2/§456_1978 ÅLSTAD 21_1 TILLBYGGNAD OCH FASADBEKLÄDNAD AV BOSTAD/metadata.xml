@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§456/1978 ÅLSTAD 21:1 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS">
+
+      <container id="799028" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>ÅLSTAD 21:1</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1978-04-26</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>23126</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§456/1978 ÅLSTAD 21:1 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§456/1978 ÅLSTAD 21:1 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 248001 FAS">
+
+      <container id="799031" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 248001 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§456/1978 ÅLSTAD 21:1 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 248001 FAS|24925.tif">
+
+      <document id="799032" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:373c1f5e1ee236742b6ca42e1301134643f0153a</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>9E0A60979EE14DA625D47B0187DE94AD</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:373c1f5e1ee236742b6ca42e1301134643f0153a</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>200432</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>24925.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§456/1978 ÅLSTAD 21:1 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 247991 SIT-PL PL SEKT">
+
+      <container id="799029" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 247991 SIT-PL PL SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§456/1978 ÅLSTAD 21:1 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 248011 FAS (UPPMÄTN RITN)">
+
+      <container id="799033" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 248011 FAS (UPPMÄTN RITN)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§456/1978 ÅLSTAD 21:1 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 247991 SIT-PL PL SEKT|24924.tif">
+
+      <document id="799030" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:c0b383d37d1536ce57e3fd0172a5ce5fe8a71987</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>248335777F9420A03F7F884AC75B24C0</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:c0b383d37d1536ce57e3fd0172a5ce5fe8a71987</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>135562</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>24924.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§456/1978 ÅLSTAD 21:1 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 248011 FAS (UPPMÄTN RITN)|24926.tif">
+
+      <document id="799034" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:83071879dd3114c691a7d3fc947787ff712bf913</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>4CA533BD6504194956E97B4B7F729821</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:83071879dd3114c691a7d3fc947787ff712bf913</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>198288</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>24926.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§392/1965 ÅKERGYLLEN 8 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS">
+
+      <container id="677567" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>ÅKERGYLLEN 8</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1965-05-05</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>22883</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§392/1965 ÅKERGYLLEN 8 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§392/1965 ÅKERGYLLEN 8 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 359261 SIT">
+
+      <container id="677568" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 359261 SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§392/1965 ÅKERGYLLEN 8 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 359271 PL FAS SEKT">
+
+      <container id="677570" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 359271 PL FAS SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§392/1965 ÅKERGYLLEN 8 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 359261 SIT|36116.tif">
+
+      <document id="677569" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:842e6d8b845d5af2604e454fc500d0b6ac0e41ca</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>8C14A4D1C5F45E88F980716B2F22BCB8</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:842e6d8b845d5af2604e454fc500d0b6ac0e41ca</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>583848</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>36116.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§392/1965 ÅKERGYLLEN 8 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 359271 PL FAS SEKT|36117.tif">
+
+      <document id="677571" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:9203176438a59976ad647e9b7b6be871485f07b8</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>0608AFC50FF52A00A61E1C88DA1CD7DD</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:9203176438a59976ad647e9b7b6be871485f07b8</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>648236</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>36117.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

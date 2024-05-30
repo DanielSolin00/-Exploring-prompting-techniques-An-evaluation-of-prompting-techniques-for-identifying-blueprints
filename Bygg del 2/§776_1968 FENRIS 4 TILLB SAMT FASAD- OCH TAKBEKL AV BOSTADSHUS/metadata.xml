@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§776/1968 FENRIS 4 TILLB SAMT FASAD- OCH TAKBEKL AV BOSTADSHUS">
+
+      <container id="521456" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLB SAMT FASAD- OCH TAKBEKL AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>FENRIS 4</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1968-08-14</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>3093</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§776/1968 FENRIS 4 TILLB SAMT FASAD- OCH TAKBEKL AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§776/1968 FENRIS 4 TILLB SAMT FASAD- OCH TAKBEKL AV BOSTADSHUS|VA 1010751 VA-RITN">
+
+      <container id="521459" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1010751 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§776/1968 FENRIS 4 TILLB SAMT FASAD- OCH TAKBEKL AV BOSTADSHUS|VA 1010751 VA-RITN|93276.tif">
+
+      <document id="521460" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:712e0f5fab620c6c1faab9ad3a9673f74b234022</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>BA2E75CD031432F8F13FDCE7CBB29A7C</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:712e0f5fab620c6c1faab9ad3a9673f74b234022</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>112630</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>93276.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§776/1968 FENRIS 4 TILLB SAMT FASAD- OCH TAKBEKL AV BOSTADSHUS|A 288471 SIT BOTTENPL SEKT A-A FAS">
+
+      <container id="521457" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 288471 SIT BOTTENPL SEKT A-A FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§776/1968 FENRIS 4 TILLB SAMT FASAD- OCH TAKBEKL AV BOSTADSHUS|A 288471 SIT BOTTENPL SEKT A-A FAS|28981.tif">
+
+      <document id="521458" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:74009724f0051d90b742c103340b332c7015f276</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>58D5960564D634E4A509C7C4FD924D20</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:74009724f0051d90b742c103340b332c7015f276</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>106252</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>28981.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1928|§89/1928 CERES 2 ÄNDRING PÅ FASAD">
+
+      <container id="535238" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING PÅ FASAD</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>CERES 2</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1928-11-01</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>1387</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§89/1928 CERES 2 ÄNDRING PÅ FASAD</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1928|§89/1928 CERES 2 ÄNDRING PÅ FASAD|A 240671 FAS">
+
+      <container id="535239" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 240671 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1928|§89/1928 CERES 2 ÄNDRING PÅ FASAD|A 240671 FAS|24192.tif">
+
+      <document id="535240" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:194db07328ff40a5820a646ddc940b8b942ecd7a</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>240516981D8DAAB16F1D5508F799E517</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:194db07328ff40a5820a646ddc940b8b942ecd7a</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>98614</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>24192.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

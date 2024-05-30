@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§375/1983 FORS 3:121 IGENSÄTTNING AV FÖNSTER OCH ÄNDRING AV FASADBE KLÄDNAD PÅ SIMHALLEN, CENTRALSKOLAN">
+
+      <container id="483442" type="building_case">
+         <attribute type="Ärendemening">
+            <value>IGENSÄTTNING AV FÖNSTER OCH ÄNDRING AV FASADBE KLÄDNAD PÅ SIMHALLEN, CENTRALSKOLAN</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>FORS 3:121</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1983-04-27</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>53290</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§375/1983 FORS 3:121 IGENSÄTTNING AV FÖNSTER OCH ÄNDRING AV FASADBE KLÄDNAD PÅ SIMHALLEN, CENTRALSKOLAN</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§375/1983 FORS 3:121 IGENSÄTTNING AV FÖNSTER OCH ÄNDRING AV FASADBE KLÄDNAD PÅ SIMHALLEN, CENTRALSKOLAN|A 553741 FAS MOT S">
+
+      <container id="483443" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 553741 FAS MOT S</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§375/1983 FORS 3:121 IGENSÄTTNING AV FÖNSTER OCH ÄNDRING AV FASADBE KLÄDNAD PÅ SIMHALLEN, CENTRALSKOLAN|A 553741 FAS MOT S|55711.tif">
+
+      <document id="483444" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:d4904675a4bc2888e7990ba3fe59c7342ea4174a</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>B6A8F603CB616602F660ABE6E02FC0BC</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:d4904675a4bc2888e7990ba3fe59c7342ea4174a</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>235846</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>55711.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§375/1983 FORS 3:121 IGENSÄTTNING AV FÖNSTER OCH ÄNDRING AV FASADBE KLÄDNAD PÅ SIMHALLEN, CENTRALSKOLAN|K 9100051 K-BERÄKN FINNS I ARKIVET">
+
+      <container id="483445" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>K 9100051 K-BERÄKN FINNS I ARKIVET</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>K</value>
+         </attribute>
+      </container>
+   </objects>
+</data>

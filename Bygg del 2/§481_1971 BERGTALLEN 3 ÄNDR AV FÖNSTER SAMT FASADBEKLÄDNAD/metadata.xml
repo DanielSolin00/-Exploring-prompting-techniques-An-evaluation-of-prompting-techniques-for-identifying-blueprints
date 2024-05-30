@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1971|§481/1971 BERGTALLEN 3 ÄNDR AV FÖNSTER SAMT FASADBEKLÄDNAD">
+
+      <container id="488911" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDR AV FÖNSTER SAMT FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>BERGTALLEN 3</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1971-06-05</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>51048</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§481/1971 BERGTALLEN 3 ÄNDR AV FÖNSTER SAMT FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1971|§481/1971 BERGTALLEN 3 ÄNDR AV FÖNSTER SAMT FASADBEKLÄDNAD|A 251381 FASADER">
+
+      <container id="488912" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 251381 FASADER</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1971|§481/1971 BERGTALLEN 3 ÄNDR AV FÖNSTER SAMT FASADBEKLÄDNAD|VA 1002711 VA-RITN">
+
+      <container id="488914" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1002711 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1971|§481/1971 BERGTALLEN 3 ÄNDR AV FÖNSTER SAMT FASADBEKLÄDNAD|A 251381 FASADER|25263.tif">
+
+      <document id="488913" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:3d37ebd64f83331b44d35b4f846b42d622dba139</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>F4532C9C56C955EF143467B737DF076A</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:3d37ebd64f83331b44d35b4f846b42d622dba139</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>80892</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>25263.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1971|§481/1971 BERGTALLEN 3 ÄNDR AV FÖNSTER SAMT FASADBEKLÄDNAD|VA 1002711 VA-RITN|92466.tif">
+
+      <document id="488915" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:adc55b97b9bae18f2424b791010882fd2c0400d5</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>EC8E55CDF09E9215BF374079CB92C94C</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:adc55b97b9bae18f2424b791010882fd2c0400d5</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>89092</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>92466.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

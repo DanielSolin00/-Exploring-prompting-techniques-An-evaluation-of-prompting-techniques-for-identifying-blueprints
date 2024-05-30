@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§717/1968 SPOVEN 1 INB AV ALTAN, UTBYTE AV FÖNSTER SAMT FASADBEKL ÄDNAD MED VIT KALKSANDSTEN AV BOSTADSHUS">
+
+      <container id="768914" type="building_case">
+         <attribute type="Ärendemening">
+            <value>INB AV ALTAN, UTBYTE AV FÖNSTER SAMT FASADBEKL ÄDNAD MED VIT KALKSANDSTEN AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SPOVEN 1</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1968-07-10</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>17199</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§717/1968 SPOVEN 1 INB AV ALTAN, UTBYTE AV FÖNSTER SAMT FASADBEKL ÄDNAD MED VIT KALKSANDSTEN AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§717/1968 SPOVEN 1 INB AV ALTAN, UTBYTE AV FÖNSTER SAMT FASADBEKL ÄDNAD MED VIT KALKSANDSTEN AV BOSTADSHUS|A 216131 KOMPL RITN">
+
+      <container id="768915" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 216131 KOMPL RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§717/1968 SPOVEN 1 INB AV ALTAN, UTBYTE AV FÖNSTER SAMT FASADBEKL ÄDNAD MED VIT KALKSANDSTEN AV BOSTADSHUS|A 216131 KOMPL RITN|21737.tif">
+
+      <document id="768916" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:2c1644b921dd1bc51209921c537e421abd1b6b96</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>2D61ECF8C58FF6EEA68FE78EB86FFC0F</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:2c1644b921dd1bc51209921c537e421abd1b6b96</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>78074</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>21737.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

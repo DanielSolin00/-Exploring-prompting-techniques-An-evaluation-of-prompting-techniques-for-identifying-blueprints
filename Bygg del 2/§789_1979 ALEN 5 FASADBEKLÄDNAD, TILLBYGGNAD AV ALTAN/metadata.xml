@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§789/1979 ALEN 5 FASADBEKLÄDNAD, TILLBYGGNAD AV ALTAN">
+
+      <container id="468651" type="building_case">
+         <attribute type="Ärendemening">
+            <value>FASADBEKLÄDNAD, TILLBYGGNAD AV ALTAN</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>ALEN 5</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1979-06-27</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>102</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§789/1979 ALEN 5 FASADBEKLÄDNAD, TILLBYGGNAD AV ALTAN</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§789/1979 ALEN 5 FASADBEKLÄDNAD, TILLBYGGNAD AV ALTAN|A 357841 PL FAS V S">
+
+      <container id="468652" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 357841 PL FAS V S</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§789/1979 ALEN 5 FASADBEKLÄDNAD, TILLBYGGNAD AV ALTAN|A 357841 PL FAS V S|35973.tif">
+
+      <document id="468653" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:a25bf39f81666bc77dfbbec24d9acaef41440ea5</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>AB1E010F9F791424D8E427F0BB523EF4</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:a25bf39f81666bc77dfbbec24d9acaef41440ea5</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>294894</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35973.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

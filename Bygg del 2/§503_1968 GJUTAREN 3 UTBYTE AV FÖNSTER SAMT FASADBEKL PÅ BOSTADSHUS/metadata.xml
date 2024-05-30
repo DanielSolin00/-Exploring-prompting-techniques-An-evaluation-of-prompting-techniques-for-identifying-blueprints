@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§503/1968 GJUTAREN 3 UTBYTE AV FÖNSTER SAMT FASADBEKL PÅ BOSTADSHUS">
+
+      <container id="606921" type="building_case">
+         <attribute type="Ärendemening">
+            <value>UTBYTE AV FÖNSTER SAMT FASADBEKL PÅ BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>GJUTAREN 3</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1968-05-08</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>53782</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§503/1968 GJUTAREN 3 UTBYTE AV FÖNSTER SAMT FASADBEKL PÅ BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§503/1968 GJUTAREN 3 UTBYTE AV FÖNSTER SAMT FASADBEKL PÅ BOSTADSHUS|A 302151 FAS">
+
+      <container id="606922" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 302151 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§503/1968 GJUTAREN 3 UTBYTE AV FÖNSTER SAMT FASADBEKL PÅ BOSTADSHUS|VA 1012971 VA-RITN">
+
+      <container id="606924" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1012971 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§503/1968 GJUTAREN 3 UTBYTE AV FÖNSTER SAMT FASADBEKL PÅ BOSTADSHUS|A 302151 FAS|30365.tif">
+
+      <document id="606923" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:c43e938994c882b0267835b57f62ec77c9c502e0</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>DBD93ED99F1FF910119A109C445F1E69</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:c43e938994c882b0267835b57f62ec77c9c502e0</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>212096</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>30365.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§503/1968 GJUTAREN 3 UTBYTE AV FÖNSTER SAMT FASADBEKL PÅ BOSTADSHUS|VA 1012971 VA-RITN|93498.tif">
+
+      <document id="606925" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:e1e3b9d44a962c345f96098d7f3309b0f9c379e7</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>C00692B732E7169FD0F8CB52EE72A25B</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:e1e3b9d44a962c345f96098d7f3309b0f9c379e7</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>103248</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>93498.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

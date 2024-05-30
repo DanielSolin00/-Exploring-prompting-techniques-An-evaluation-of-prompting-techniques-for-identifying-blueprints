@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§404/1977 SPARVEN 5 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV ENB OSTADSHUS">
+
+      <container id="811260" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV ENB OSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SPARVEN 5</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1977-04-20</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>17038</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§404/1977 SPARVEN 5 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV ENB OSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§404/1977 SPARVEN 5 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV ENB OSTADSHUS|A 159511 FAS">
+
+      <container id="811261" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 159511 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§404/1977 SPARVEN 5 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV ENB OSTADSHUS|A 159521 PL SEKT SIT">
+
+      <container id="811263" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 159521 PL SEKT SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§404/1977 SPARVEN 5 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV ENB OSTADSHUS|A 159511 FAS|16031.tif">
+
+      <document id="811262" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:2acbdd2d8684743a13e377b4308dc668d275cf3a</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>2D36C906D4C00F401C4E881F2782FE8F</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:2acbdd2d8684743a13e377b4308dc668d275cf3a</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>750136</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>16031.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§404/1977 SPARVEN 5 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV ENB OSTADSHUS|A 159521 PL SEKT SIT|16032.tif">
+
+      <document id="811264" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:19e9e0c44f838d128a0da0c24f1cdac4ab91c77b</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>70C31F20D5A3C021B82800F917888238</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:19e9e0c44f838d128a0da0c24f1cdac4ab91c77b</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>593996</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>16032.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

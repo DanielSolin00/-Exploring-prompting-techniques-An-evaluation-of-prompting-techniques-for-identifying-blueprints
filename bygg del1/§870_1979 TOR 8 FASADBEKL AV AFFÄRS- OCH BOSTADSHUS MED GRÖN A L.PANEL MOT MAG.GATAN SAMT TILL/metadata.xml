@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§870/1979 TOR 8 FASADBEKL AV AFFÄRS- OCH BOSTADSHUS MED GRÖN A L.PANEL MOT MAG.GATAN SAMT TILLÄGGSISOLERING">
+
+      <container id="734925" type="building_case">
+         <attribute type="Ärendemening">
+            <value>FASADBEKL AV AFFÄRS- OCH BOSTADSHUS MED GRÖN A L.PANEL MOT MAG.GATAN SAMT TILLÄGGSISOLERING</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>TOR 8</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1979-06-27</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>20368</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§870/1979 TOR 8 FASADBEKL AV AFFÄRS- OCH BOSTADSHUS MED GRÖN A L.PANEL MOT MAG.GATAN SAMT TILLÄGGSISOLERING</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§870/1979 TOR 8 FASADBEKL AV AFFÄRS- OCH BOSTADSHUS MED GRÖN A L.PANEL MOT MAG.GATAN SAMT TILLÄGGSISOLERING|A 357211 FAS MOT MAGASINSGATAN">
+
+      <container id="734926" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 357211 FAS MOT MAGASINSGATAN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§870/1979 TOR 8 FASADBEKL AV AFFÄRS- OCH BOSTADSHUS MED GRÖN A L.PANEL MOT MAG.GATAN SAMT TILLÄGGSISOLERING|A 357211 FAS MOT MAGASINSGATAN|35910.tif">
+
+      <document id="734927" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:f18f82297a673b88127bdb5d279e4300fd6b2708</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>D401ACE31D29A28619F1D905B54D6A77</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:f18f82297a673b88127bdb5d279e4300fd6b2708</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>121016</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35910.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

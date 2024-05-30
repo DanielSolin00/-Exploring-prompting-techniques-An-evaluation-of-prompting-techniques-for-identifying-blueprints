@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§961/1978 TUVAN 6 FASADBEKL SAMT 5 CM TILLÄGGSISOLERING, ÄNDRING AV FÖNSTER SAMT INSÄTTNING AV BALKONGDÖRR">
+
+      <container id="839027" type="building_case">
+         <attribute type="Ärendemening">
+            <value>FASADBEKL SAMT 5 CM TILLÄGGSISOLERING, ÄNDRING AV FÖNSTER SAMT INSÄTTNING AV BALKONGDÖRR</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>TUVAN 6</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1978-08-23</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>21088</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§961/1978 TUVAN 6 FASADBEKL SAMT 5 CM TILLÄGGSISOLERING, ÄNDRING AV FÖNSTER SAMT INSÄTTNING AV BALKONGDÖRR</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§961/1978 TUVAN 6 FASADBEKL SAMT 5 CM TILLÄGGSISOLERING, ÄNDRING AV FÖNSTER SAMT INSÄTTNING AV BALKONGDÖRR|A 262661 FAS">
+
+      <container id="839030" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 262661 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§961/1978 TUVAN 6 FASADBEKL SAMT 5 CM TILLÄGGSISOLERING, ÄNDRING AV FÖNSTER SAMT INSÄTTNING AV BALKONGDÖRR|A 262651 SEKT PL">
+
+      <container id="839028" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 262651 SEKT PL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§961/1978 TUVAN 6 FASADBEKL SAMT 5 CM TILLÄGGSISOLERING, ÄNDRING AV FÖNSTER SAMT INSÄTTNING AV BALKONGDÖRR|VA 1049531 VA-RITN">
+
+      <container id="839032" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1049531 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§961/1978 TUVAN 6 FASADBEKL SAMT 5 CM TILLÄGGSISOLERING, ÄNDRING AV FÖNSTER SAMT INSÄTTNING AV BALKONGDÖRR|A 262661 FAS|26396.tif">
+
+      <document id="839031" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:f27969f519f67c8fdb80e9164541e62eca28b080</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>798FC6A14EEBA7CDAF2E418F1AEFA025</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:f27969f519f67c8fdb80e9164541e62eca28b080</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>318020</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>26396.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§961/1978 TUVAN 6 FASADBEKL SAMT 5 CM TILLÄGGSISOLERING, ÄNDRING AV FÖNSTER SAMT INSÄTTNING AV BALKONGDÖRR|A 262651 SEKT PL|26395.tif">
+
+      <document id="839029" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:39997bcc70afe3a03f7eb65358889094ede7cb4e</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>20C1CDB3CA5A8FA48DF1FCA124A08B82</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:39997bcc70afe3a03f7eb65358889094ede7cb4e</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>349636</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>26395.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§961/1978 TUVAN 6 FASADBEKL SAMT 5 CM TILLÄGGSISOLERING, ÄNDRING AV FÖNSTER SAMT INSÄTTNING AV BALKONGDÖRR|VA 1049531 VA-RITN|97195.tif">
+
+      <document id="839033" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:2e930bffb01a915b29017ba43fcb6cf243448798</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>CDDBA78661571807FB58CDA8A9952CA6</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:2e930bffb01a915b29017ba43fcb6cf243448798</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>109942</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>97195.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

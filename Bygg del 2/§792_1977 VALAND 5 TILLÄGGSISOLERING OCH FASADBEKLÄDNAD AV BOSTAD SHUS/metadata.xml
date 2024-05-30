@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§792/1977 VALAND 5 TILLÄGGSISOLERING OCH FASADBEKLÄDNAD AV BOSTAD SHUS">
+
+      <container id="794147" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLÄGGSISOLERING OCH FASADBEKLÄDNAD AV BOSTAD SHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>VALAND 5</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1977-06-15</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>21551</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§792/1977 VALAND 5 TILLÄGGSISOLERING OCH FASADBEKLÄDNAD AV BOSTAD SHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§792/1977 VALAND 5 TILLÄGGSISOLERING OCH FASADBEKLÄDNAD AV BOSTAD SHUS|A 158441 FAS">
+
+      <container id="794148" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 158441 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§792/1977 VALAND 5 TILLÄGGSISOLERING OCH FASADBEKLÄDNAD AV BOSTAD SHUS|A 158441 FAS|15924.tif">
+
+      <document id="794149" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:db7754ba5a212c93313794811797300eb7a583b5</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>CABEA63FE1FAED60CEB85FDB36324E14</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:db7754ba5a212c93313794811797300eb7a583b5</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>158866</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>15924.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

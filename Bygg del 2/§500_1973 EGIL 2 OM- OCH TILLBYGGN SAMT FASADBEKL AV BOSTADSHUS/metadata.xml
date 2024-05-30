@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1973|§500/1973 EGIL 2 OM- OCH TILLBYGGN SAMT FASADBEKL AV BOSTADSHUS">
+
+      <container id="527810" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OM- OCH TILLBYGGN SAMT FASADBEKL AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>EGIL 2</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1973-11-04</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>2413</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§500/1973 EGIL 2 OM- OCH TILLBYGGN SAMT FASADBEKL AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1973|§500/1973 EGIL 2 OM- OCH TILLBYGGN SAMT FASADBEKL AV BOSTADSHUS|VA 1008351 VA-RITN">
+
+      <container id="527815" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1008351 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1973|§500/1973 EGIL 2 OM- OCH TILLBYGGN SAMT FASADBEKL AV BOSTADSHUS|A 285511 FAS MOT NO,SV PL">
+
+      <container id="527813" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 285511 FAS MOT NO,SV PL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1973|§500/1973 EGIL 2 OM- OCH TILLBYGGN SAMT FASADBEKL AV BOSTADSHUS|A 285501 FAS MOT SO,NV SIT">
+
+      <container id="527811" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 285501 FAS MOT SO,NV SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1973|§500/1973 EGIL 2 OM- OCH TILLBYGGN SAMT FASADBEKL AV BOSTADSHUS|VA 1008351 VA-RITN|93036.tif">
+
+      <document id="527816" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:565ad95209793f5a04c23fea855f7b7afb60c2d9</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>E7A80C9A502F86F0B813F680DD52FFA3</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:565ad95209793f5a04c23fea855f7b7afb60c2d9</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>115712</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>93036.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1973|§500/1973 EGIL 2 OM- OCH TILLBYGGN SAMT FASADBEKL AV BOSTADSHUS|A 285511 FAS MOT NO,SV PL|28685.tif">
+
+      <document id="527814" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:92261ef5abfc4328998a81868be443caa7251097</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>385AA2897C6BC511E68FA8BA3737C282</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:92261ef5abfc4328998a81868be443caa7251097</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>73790</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>28685.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1973|§500/1973 EGIL 2 OM- OCH TILLBYGGN SAMT FASADBEKL AV BOSTADSHUS|A 285501 FAS MOT SO,NV SIT|28684.tif">
+
+      <document id="527812" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:b6f9a5d8e79e2df03fa9dc86203ee8916510c53c</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>C6C7BDDB6B9733061795F96A0155368A</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:b6f9a5d8e79e2df03fa9dc86203ee8916510c53c</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>69940</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>28684.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

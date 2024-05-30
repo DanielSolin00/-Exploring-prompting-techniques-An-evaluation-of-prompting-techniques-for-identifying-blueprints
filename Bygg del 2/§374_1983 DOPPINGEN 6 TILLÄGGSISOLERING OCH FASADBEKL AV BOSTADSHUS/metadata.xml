@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§374/1983 DOPPINGEN 6 TILLÄGGSISOLERING OCH FASADBEKL AV BOSTADSHUS">
+
+      <container id="517848" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLÄGGSISOLERING OCH FASADBEKL AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>DOPPINGEN 6</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1983-04-27</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>1890</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§374/1983 DOPPINGEN 6 TILLÄGGSISOLERING OCH FASADBEKL AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§374/1983 DOPPINGEN 6 TILLÄGGSISOLERING OCH FASADBEKL AV BOSTADSHUS|VA 1007621 VA-RITN">
+
+      <container id="517849" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1007621 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§374/1983 DOPPINGEN 6 TILLÄGGSISOLERING OCH FASADBEKL AV BOSTADSHUS|VA 1007621 VA-RITN|92963.tif">
+
+      <document id="517850" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:cebe63e4043edd6780278e4e98bf084d34ae0e2e</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>278FCB8E85CEC3E902D692F538969AFC</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:cebe63e4043edd6780278e4e98bf084d34ae0e2e</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>188760</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>92963.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

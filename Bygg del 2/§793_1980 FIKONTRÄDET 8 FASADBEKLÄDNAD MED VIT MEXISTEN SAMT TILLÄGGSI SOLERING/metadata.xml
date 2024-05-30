@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§793/1980 FIKONTRÄDET 8 FASADBEKLÄDNAD MED VIT MEXISTEN SAMT TILLÄGGSI SOLERING">
+
+      <container id="529375" type="building_case">
+         <attribute type="Ärendemening">
+            <value>FASADBEKLÄDNAD MED VIT MEXISTEN SAMT TILLÄGGSI SOLERING</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>FIKONTRÄDET 8</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1980-08-27</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>3140</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§793/1980 FIKONTRÄDET 8 FASADBEKLÄDNAD MED VIT MEXISTEN SAMT TILLÄGGSI SOLERING</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§793/1980 FIKONTRÄDET 8 FASADBEKLÄDNAD MED VIT MEXISTEN SAMT TILLÄGGSI SOLERING|A 459561 SEKT">
+
+      <container id="529386" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 459561 SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§793/1980 FIKONTRÄDET 8 FASADBEKLÄDNAD MED VIT MEXISTEN SAMT TILLÄGGSI SOLERING|A 459541 FAS MOT SO,NV">
+
+      <container id="529382" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 459541 FAS MOT SO,NV</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§793/1980 FIKONTRÄDET 8 FASADBEKLÄDNAD MED VIT MEXISTEN SAMT TILLÄGGSI SOLERING|A 459551 FAS MOT NO,SV">
+
+      <container id="529384" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 459551 FAS MOT NO,SV</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§793/1980 FIKONTRÄDET 8 FASADBEKLÄDNAD MED VIT MEXISTEN SAMT TILLÄGGSI SOLERING|A 459561 SEKT|46182.tif">
+
+      <document id="529387" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:3ab08e5609a69965b2e47d09e526f4f603580e96</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>1D1D4BBD26E9E4AA769987BF90872484</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:3ab08e5609a69965b2e47d09e526f4f603580e96</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>66112</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>46182.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§793/1980 FIKONTRÄDET 8 FASADBEKLÄDNAD MED VIT MEXISTEN SAMT TILLÄGGSI SOLERING|A 459531 BOTTEN- OCH ÖVERPL">
+
+      <container id="529380" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 459531 BOTTEN- OCH ÖVERPL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§793/1980 FIKONTRÄDET 8 FASADBEKLÄDNAD MED VIT MEXISTEN SAMT TILLÄGGSI SOLERING|A 459541 FAS MOT SO,NV|46180.tif">
+
+      <document id="529383" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:bf83f0ad27e80f18e1b00baa5e394d416f40eee0</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>05007CC715BCB1FDDC39AFCE8E864BD0</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:bf83f0ad27e80f18e1b00baa5e394d416f40eee0</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>86398</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>46180.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§793/1980 FIKONTRÄDET 8 FASADBEKLÄDNAD MED VIT MEXISTEN SAMT TILLÄGGSI SOLERING|A 459551 FAS MOT NO,SV|46181.tif">
+
+      <document id="529385" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:5597b7c3ed170818c9bd484067fce8dde0d01232</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>79E0091E48B879014853FB039C963537</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:5597b7c3ed170818c9bd484067fce8dde0d01232</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>109216</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>46181.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§793/1980 FIKONTRÄDET 8 FASADBEKLÄDNAD MED VIT MEXISTEN SAMT TILLÄGGSI SOLERING|A 459511 FAS MOT SO,NV  UPPMÄTN.RITN">
+
+      <container id="529376" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 459511 FAS MOT SO,NV  UPPMÄTN.RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§793/1980 FIKONTRÄDET 8 FASADBEKLÄDNAD MED VIT MEXISTEN SAMT TILLÄGGSI SOLERING|A 459521 FAS MOT NO,SV  UPPMÄTN.RITN">
+
+      <container id="529378" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 459521 FAS MOT NO,SV  UPPMÄTN.RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§793/1980 FIKONTRÄDET 8 FASADBEKLÄDNAD MED VIT MEXISTEN SAMT TILLÄGGSI SOLERING|A 459531 BOTTEN- OCH ÖVERPL|46179.tif">
+
+      <document id="529381" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:9e658477b2c35711a061722057c14c03475430b7</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>E117370C545C46549342EC54B4DA593B</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:9e658477b2c35711a061722057c14c03475430b7</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>79000</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>46179.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§793/1980 FIKONTRÄDET 8 FASADBEKLÄDNAD MED VIT MEXISTEN SAMT TILLÄGGSI SOLERING|A 459511 FAS MOT SO,NV  UPPMÄTN.RITN|46177.tif">
+
+      <document id="529377" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:28750a5ff5a5e59005e59303a7cbb69377d46619</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>97ADFE16F7DF807DC3FEBBD35B705E6A</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:28750a5ff5a5e59005e59303a7cbb69377d46619</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>92990</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>46177.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§793/1980 FIKONTRÄDET 8 FASADBEKLÄDNAD MED VIT MEXISTEN SAMT TILLÄGGSI SOLERING|A 459521 FAS MOT NO,SV  UPPMÄTN.RITN|46178.tif">
+
+      <document id="529379" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:3f2432098d20127ecd1fdcd4a77831eb80f3671d</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>DB424D8F92B21B123AE13AD74B909220</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:3f2432098d20127ecd1fdcd4a77831eb80f3671d</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>95734</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>46178.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

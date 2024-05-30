@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1966|§39/1966 SKYFFELJÄRNET 5 UPPMURNING AV FASADTEGEL">
+
+      <container id="736642" type="building_case">
+         <attribute type="Ärendemening">
+            <value>UPPMURNING AV FASADTEGEL</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SKYFFELJÄRNET 5</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1966-08-19</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>16268</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§39/1966 SKYFFELJÄRNET 5 UPPMURNING AV FASADTEGEL</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1966|§39/1966 SKYFFELJÄRNET 5 UPPMURNING AV FASADTEGEL|A 473461 FAS">
+
+      <container id="736643" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 473461 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1966|§39/1966 SKYFFELJÄRNET 5 UPPMURNING AV FASADTEGEL|A 473461 FAS|47578.tif">
+
+      <document id="736644" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:38e37c036a3712126efd2cc27ca514043c3ac468</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>AC5B54AE7E2785D6A732F201F927CB97</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:38e37c036a3712126efd2cc27ca514043c3ac468</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>83258</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>47578.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

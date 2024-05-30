@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1973|§663/1973 BLACKSTORP 1:40 ÄNDR OCH FASADBEKLÄDNAD AV ENFAM HUS">
+
+      <container id="621720" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDR OCH FASADBEKLÄDNAD AV ENFAM HUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>BLACKSTORP 1:40</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1973-05-16</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>51516</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§663/1973 BLACKSTORP 1:40 ÄNDR OCH FASADBEKLÄDNAD AV ENFAM HUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1973|§663/1973 BLACKSTORP 1:40 ÄNDR OCH FASADBEKLÄDNAD AV ENFAM HUS|A 516931 FAS MOT N,S,V">
+
+      <container id="621721" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 516931 FAS MOT N,S,V</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1973|§663/1973 BLACKSTORP 1:40 ÄNDR OCH FASADBEKLÄDNAD AV ENFAM HUS|A 516931 FAS MOT N,S,V|51955.tif">
+
+      <document id="621722" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:b679a6d19c34d1ac1b60304c164a2de7211010df</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>EBF007D84C4B60C525229F87EE3B227B</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:b679a6d19c34d1ac1b60304c164a2de7211010df</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>171544</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>51955.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

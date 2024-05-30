@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§822/1983 STRANDPIPAREN 17 FASADBEKLÄDNAD MED VIT PLÅT">
+
+      <container id="771785" type="building_case">
+         <attribute type="Ärendemening">
+            <value>FASADBEKLÄDNAD MED VIT PLÅT</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>STRANDPIPAREN 17</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1983-09-28</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>18308</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§822/1983 STRANDPIPAREN 17 FASADBEKLÄDNAD MED VIT PLÅT</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§822/1983 STRANDPIPAREN 17 FASADBEKLÄDNAD MED VIT PLÅT|A 565321 FAS SEKT FAS">
+
+      <container id="771786" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 565321 FAS SEKT FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§822/1983 STRANDPIPAREN 17 FASADBEKLÄDNAD MED VIT PLÅT|A 565321 FAS SEKT FAS|56872.tif">
+
+      <document id="771787" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:cd1e5d09c9fbef626030eeb973a9b265b20949d5</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>B5CE285755A5DB6E334A864A5179AAB3</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:cd1e5d09c9fbef626030eeb973a9b265b20949d5</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>196526</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>56872.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

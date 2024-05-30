@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§591/1978 SJUNTORP 1:66 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS S AMT NYBYGGNAD AV LEKSTUGA">
+
+      <container id="743309" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS S AMT NYBYGGNAD AV LEKSTUGA</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SJUNTORP 1:66</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1978-05-24</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>15287</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§591/1978 SJUNTORP 1:66 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS S AMT NYBYGGNAD AV LEKSTUGA</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§591/1978 SJUNTORP 1:66 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS S AMT NYBYGGNAD AV LEKSTUGA|A 248101 PL FAS SEKT">
+
+      <container id="743312" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 248101 PL FAS SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§591/1978 SJUNTORP 1:66 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS S AMT NYBYGGNAD AV LEKSTUGA|A 248091 SITPL PL FAS SEKT">
+
+      <container id="743310" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 248091 SITPL PL FAS SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§591/1978 SJUNTORP 1:66 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS S AMT NYBYGGNAD AV LEKSTUGA|A 248101 PL FAS SEKT|24935.tif">
+
+      <document id="743313" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:8becbef95f012debb7264acfe07649d6319eb7c9</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>DB1B53B2B8E421384AE78249DA3A497A</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:8becbef95f012debb7264acfe07649d6319eb7c9</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>380874</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>24935.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§591/1978 SJUNTORP 1:66 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS S AMT NYBYGGNAD AV LEKSTUGA|A 248091 SITPL PL FAS SEKT|24934.tif">
+
+      <document id="743311" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:2c4d31c632a79b757efc584a4ec3620864817b37</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>589198981668A74EB4BEA447FB4A5017</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:2c4d31c632a79b757efc584a4ec3620864817b37</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>136280</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>24934.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

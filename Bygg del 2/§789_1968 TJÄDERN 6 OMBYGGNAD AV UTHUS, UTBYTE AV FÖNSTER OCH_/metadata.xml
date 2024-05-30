@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§789/1968 TJÄDERN 6 OMBYGGNAD AV UTHUS, UTBYTE AV FÖNSTER OCH DÖRR AR, NY FASADBEKLÄDNAD Å BOTTENVÅNING">
+
+      <container id="841778" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OMBYGGNAD AV UTHUS, UTBYTE AV FÖNSTER OCH DÖRR AR, NY FASADBEKLÄDNAD Å BOTTENVÅNING</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>TJÄDERN 6</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1968-08-14</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>20061</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§789/1968 TJÄDERN 6 OMBYGGNAD AV UTHUS, UTBYTE AV FÖNSTER OCH DÖRR AR, NY FASADBEKLÄDNAD Å BOTTENVÅNING</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§789/1968 TJÄDERN 6 OMBYGGNAD AV UTHUS, UTBYTE AV FÖNSTER OCH DÖRR AR, NY FASADBEKLÄDNAD Å BOTTENVÅNING|A 326451 FAS PL SIT">
+
+      <container id="841779" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 326451 FAS PL SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§789/1968 TJÄDERN 6 OMBYGGNAD AV UTHUS, UTBYTE AV FÖNSTER OCH DÖRR AR, NY FASADBEKLÄDNAD Å BOTTENVÅNING|A 326451 FAS PL SIT|32827.tif">
+
+      <document id="841780" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:86137c43a11ff4a55f9ec6aef682a69916bed81d</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>03BC1498FA15634BF86D154ABD1DA535</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:86137c43a11ff4a55f9ec6aef682a69916bed81d</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>88452</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>32827.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§789/1968 TJÄDERN 6 OMBYGGNAD AV UTHUS, UTBYTE AV FÖNSTER OCH DÖRR AR, NY FASADBEKLÄDNAD Å BOTTENVÅNING|VA 47851 VA-INSTALLATION (REDAN MIKROFILMAD)">
+
+      <container id="841781" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 47851 VA-INSTALLATION (REDAN MIKROFILMAD)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§789/1968 TJÄDERN 6 OMBYGGNAD AV UTHUS, UTBYTE AV FÖNSTER OCH DÖRR AR, NY FASADBEKLÄDNAD Å BOTTENVÅNING|VA 47851 VA-INSTALLATION (REDAN MIKROFILMAD)|4817.tif">
+
+      <document id="841782" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:a3a7df6f6857d6c5fe4f1cc7b05c2929141890e2</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>25B4E052D210104FE9BBEAA4C90B639A</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:a3a7df6f6857d6c5fe4f1cc7b05c2929141890e2</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>128578</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>4817.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

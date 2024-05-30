@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1971|§575/1971 TALLTITAN 1 OM- OCH TILLBYGGN SAMT FASADBEKL AV BOSTADSHUS">
+
+      <container id="798666" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OM- OCH TILLBYGGN SAMT FASADBEKL AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>TALLTITAN 1</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1971-06-16</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>19737</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§575/1971 TALLTITAN 1 OM- OCH TILLBYGGN SAMT FASADBEKL AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1971|§575/1971 TALLTITAN 1 OM- OCH TILLBYGGN SAMT FASADBEKL AV BOSTADSHUS|A 354721 KOMPL RITN">
+
+      <container id="798667" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 354721 KOMPL RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1971|§575/1971 TALLTITAN 1 OM- OCH TILLBYGGN SAMT FASADBEKL AV BOSTADSHUS|A 354721 KOMPL RITN|35661.tif">
+
+      <document id="798668" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:447c71376338e0951c26892c1aee1281ec8a8b52</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>0FE62E8E8B1E18D894650A0F6618E646</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:447c71376338e0951c26892c1aee1281ec8a8b52</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>66070</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35661.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

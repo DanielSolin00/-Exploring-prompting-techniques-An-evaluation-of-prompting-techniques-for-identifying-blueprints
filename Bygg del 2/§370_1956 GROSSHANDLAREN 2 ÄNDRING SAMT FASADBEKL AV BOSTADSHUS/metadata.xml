@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1956|§370/1956 GROSSHANDLAREN 2 ÄNDRING SAMT FASADBEKL AV BOSTADSHUS">
+
+      <container id="472455" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING SAMT FASADBEKL AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>GROSSHANDLAREN 2</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1956-06-06</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>54173</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§370/1956 GROSSHANDLAREN 2 ÄNDRING SAMT FASADBEKL AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1956|§370/1956 GROSSHANDLAREN 2 ÄNDRING SAMT FASADBEKL AV BOSTADSHUS|A 274341 PL">
+
+      <container id="472456" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 274341 PL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1956|§370/1956 GROSSHANDLAREN 2 ÄNDRING SAMT FASADBEKL AV BOSTADSHUS|A 274341 PL|27567.tif">
+
+      <document id="472457" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:53c60d97b86eff57f9aaee56c1c045e74accc269</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>7A6044A7DAD6783FF662839820107FD8</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:53c60d97b86eff57f9aaee56c1c045e74accc269</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>61874</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>27567.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1956|§370/1956 GROSSHANDLAREN 2 ÄNDRING SAMT FASADBEKL AV BOSTADSHUS|A 274351 FAS MOT SV,SO">
+
+      <container id="472458" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 274351 FAS MOT SV,SO</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1956|§370/1956 GROSSHANDLAREN 2 ÄNDRING SAMT FASADBEKL AV BOSTADSHUS|A 274361 FAS MOT NO,NV">
+
+      <container id="472460" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 274361 FAS MOT NO,NV</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1956|§370/1956 GROSSHANDLAREN 2 ÄNDRING SAMT FASADBEKL AV BOSTADSHUS|A 274351 FAS MOT SV,SO|27568.tif">
+
+      <document id="472459" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:188ad92b73b1b57c278b14f470282ce856f292ca</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>1C5D4E2B22CF6F3C4F9EF88232D65D77</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:188ad92b73b1b57c278b14f470282ce856f292ca</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>69450</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>27568.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1956|§370/1956 GROSSHANDLAREN 2 ÄNDRING SAMT FASADBEKL AV BOSTADSHUS|A 274361 FAS MOT NO,NV|27569.tif">
+
+      <document id="472461" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:58834d00347d436a87f0a2b5f316eef3c0887c11</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>EBC7D1DE1EEC2333CF3D6EF325085565</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:58834d00347d436a87f0a2b5f316eef3c0887c11</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>69546</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>27569.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

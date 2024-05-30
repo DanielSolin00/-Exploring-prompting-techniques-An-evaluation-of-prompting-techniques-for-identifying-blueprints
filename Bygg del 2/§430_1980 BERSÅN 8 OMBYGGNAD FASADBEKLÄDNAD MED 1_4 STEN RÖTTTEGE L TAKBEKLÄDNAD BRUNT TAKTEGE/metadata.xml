@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§430/1980 BERSÅN 8 OMBYGGNAD FASADBEKLÄDNAD MED 1/4 STEN RÖTTTEGE L TAKBEKLÄDNAD BRUNT TAKTEGEL">
+
+      <container id="476220" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OMBYGGNAD FASADBEKLÄDNAD MED 1/4 STEN RÖTTTEGE L TAKBEKLÄDNAD BRUNT TAKTEGEL</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>BERSÅN 8</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1980-04-23</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>51090</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§430/1980 BERSÅN 8 OMBYGGNAD FASADBEKLÄDNAD MED 1/4 STEN RÖTTTEGE L TAKBEKLÄDNAD BRUNT TAKTEGEL</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§430/1980 BERSÅN 8 OMBYGGNAD FASADBEKLÄDNAD MED 1/4 STEN RÖTTTEGE L TAKBEKLÄDNAD BRUNT TAKTEGEL|K 467601 SEKT GRUNDMUR TILLHÖR §430/1980">
+
+      <container id="476223" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>K 467601 SEKT GRUNDMUR TILLHÖR §430/1980</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>K</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§430/1980 BERSÅN 8 OMBYGGNAD FASADBEKLÄDNAD MED 1/4 STEN RÖTTTEGE L TAKBEKLÄDNAD BRUNT TAKTEGEL|A 447151 SIT PLAN BOTTEN-OCH VINDSPLAN FAS">
+
+      <container id="476221" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 447151 SIT PLAN BOTTEN-OCH VINDSPLAN FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§430/1980 BERSÅN 8 OMBYGGNAD FASADBEKLÄDNAD MED 1/4 STEN RÖTTTEGE L TAKBEKLÄDNAD BRUNT TAKTEGEL|K 467601 SEKT GRUNDMUR TILLHÖR §430/1980|46991.tif">
+
+      <document id="476224" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:8599a0360ec315cfc7563f84d4971c1389b860a9</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>F9B5CCFAA4C4726B1585A9D2A06AC36F</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:8599a0360ec315cfc7563f84d4971c1389b860a9</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>77336</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>46991.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§430/1980 BERSÅN 8 OMBYGGNAD FASADBEKLÄDNAD MED 1/4 STEN RÖTTTEGE L TAKBEKLÄDNAD BRUNT TAKTEGEL|A 447151 SIT PLAN BOTTEN-OCH VINDSPLAN FAS|44928.tif">
+
+      <document id="476222" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:d0c2ca4e72312efe8160755b8ec6e778702022e6</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>A1703D6D1AF2B205A88EEC02D17726BE</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:d0c2ca4e72312efe8160755b8ec6e778702022e6</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>293066</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>44928.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

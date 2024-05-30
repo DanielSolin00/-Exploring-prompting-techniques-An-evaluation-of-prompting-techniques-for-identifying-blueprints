@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§891/1978 FORS 3:111 FASADBEKLÄDNAD AV BOSTADSHUS MED BRUNT TEGEL">
+
+      <container id="480869" type="building_case">
+         <attribute type="Ärendemening">
+            <value>FASADBEKLÄDNAD AV BOSTADSHUS MED BRUNT TEGEL</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>FORS 3:111</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1978-08-23</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>53269</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§891/1978 FORS 3:111 FASADBEKLÄDNAD AV BOSTADSHUS MED BRUNT TEGEL</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§891/1978 FORS 3:111 FASADBEKLÄDNAD AV BOSTADSHUS MED BRUNT TEGEL|K 262781 DETALJBESKRIVN TEGEL-FASAD">
+
+      <container id="480870" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>K 262781 DETALJBESKRIVN TEGEL-FASAD</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>K</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§891/1978 FORS 3:111 FASADBEKLÄDNAD AV BOSTADSHUS MED BRUNT TEGEL|K 262781 DETALJBESKRIVN TEGEL-FASAD|26408.tif">
+
+      <document id="480871" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:996d6d5436b9452216bba8e633108c2267793305</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>D7CC800B6B32CB921099679E28BD188E</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:996d6d5436b9452216bba8e633108c2267793305</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>214436</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>26408.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

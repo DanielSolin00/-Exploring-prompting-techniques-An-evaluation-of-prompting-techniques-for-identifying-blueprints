@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§559/1982 ÄRLAN 3 FASADÄNDRING">
+
+      <container id="802925" type="building_case">
+         <attribute type="Ärendemening">
+            <value>FASADÄNDRING</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>ÄRLAN 3</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1982-05-26</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>23754</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§559/1982 ÄRLAN 3 FASADÄNDRING</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§559/1982 ÄRLAN 3 FASADÄNDRING|A 512051 FAS">
+
+      <container id="802926" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 512051 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§559/1982 ÄRLAN 3 FASADÄNDRING|A 512051 FAS|51467.tif">
+
+      <document id="802927" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:5d4a3a5210c410e33167d1406d0da648b31ebb0a</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>D996129084AA415740DA749C81332CE1</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:5d4a3a5210c410e33167d1406d0da648b31ebb0a</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>259786</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>51467.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§559/1982 ÄRLAN 3 FASADÄNDRING|A 9100051 BROSCHYR ANG FAS FINNS I HANDL">
+
+      <container id="802928" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 9100051 BROSCHYR ANG FAS FINNS I HANDL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+</data>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§83/1980 FORS 2:182 FASADBEKLÄDNAD MED STENI FASADSKIVA, BRUN SAMT BURSPRÅK">
+
+      <container id="536216" type="building_case">
+         <attribute type="Ärendemening">
+            <value>FASADBEKLÄDNAD MED STENI FASADSKIVA, BRUN SAMT BURSPRÅK</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>FORS 2:182</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1980-01-23</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>53046</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§83/1980 FORS 2:182 FASADBEKLÄDNAD MED STENI FASADSKIVA, BRUN SAMT BURSPRÅK</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§83/1980 FORS 2:182 FASADBEKLÄDNAD MED STENI FASADSKIVA, BRUN SAMT BURSPRÅK|K 450731 K-RITN">
+
+      <container id="536219" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>K 450731 K-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>K</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§83/1980 FORS 2:182 FASADBEKLÄDNAD MED STENI FASADSKIVA, BRUN SAMT BURSPRÅK|A 450721 KOMPL RITN">
+
+      <container id="536217" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 450721 KOMPL RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§83/1980 FORS 2:182 FASADBEKLÄDNAD MED STENI FASADSKIVA, BRUN SAMT BURSPRÅK|K 450731 K-RITN|45289.tif">
+
+      <document id="536220" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:e0f4ec92ad0b9b140d5534cfa4b817c1ad033cb7</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>9AB083C488DD47561955A30CBDCE3A2F</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:e0f4ec92ad0b9b140d5534cfa4b817c1ad033cb7</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>122604</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>45289.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§83/1980 FORS 2:182 FASADBEKLÄDNAD MED STENI FASADSKIVA, BRUN SAMT BURSPRÅK|A 450721 KOMPL RITN|45288.tif">
+
+      <document id="536218" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:719dadbfc206665f201281afc5996f0feef21648</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>DC8579E9DBDA7FEB9003D2E5812CD828</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:719dadbfc206665f201281afc5996f0feef21648</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>86984</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>45288.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

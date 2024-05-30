@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1956|§214/1956 VALHALL 9 ÄNDRING SAMT FASADBEKL AV BOSTADSHUS">
+
+      <container id="802347" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING SAMT FASADBEKL AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>VALHALL 9</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1956-04-04</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>21613</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§214/1956 VALHALL 9 ÄNDRING SAMT FASADBEKL AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1956|§214/1956 VALHALL 9 ÄNDRING SAMT FASADBEKL AV BOSTADSHUS|A 384571 FAS">
+
+      <container id="802350" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 384571 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1956|§214/1956 VALHALL 9 ÄNDRING SAMT FASADBEKL AV BOSTADSHUS|A 384561 PL SEKT">
+
+      <container id="802348" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 384561 PL SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1956|§214/1956 VALHALL 9 ÄNDRING SAMT FASADBEKL AV BOSTADSHUS|A 384571 FAS|38653.tif">
+
+      <document id="802351" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:be13cc8c09c332fe1070fed53f7afd43ea940ce8</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>F78FB7E4237B7D1718C522CF2896CDFF</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:be13cc8c09c332fe1070fed53f7afd43ea940ce8</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>84626</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>38653.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1956|§214/1956 VALHALL 9 ÄNDRING SAMT FASADBEKL AV BOSTADSHUS|A 384561 PL SEKT|38652.tif">
+
+      <document id="802349" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:fc16233de4d9d225d7c0099f594849f9d58aacca</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>8DA349457891D5BC1E9136D8F67EFFE9</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:fc16233de4d9d225d7c0099f594849f9d58aacca</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>88928</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>38652.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

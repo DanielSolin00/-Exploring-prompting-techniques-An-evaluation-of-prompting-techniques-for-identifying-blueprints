@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§649/1980 BOTHULT 1:17 TILLB AV GARAGE, VINDSKUPA, BALKONG, ALTAN, BY TE AV FÖNSTER SAMT FASADBEKL">
+
+      <container id="614791" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLB AV GARAGE, VINDSKUPA, BALKONG, ALTAN, BY TE AV FÖNSTER SAMT FASADBEKL</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>BOTHULT 1:17</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1980-06-25</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>52219</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§649/1980 BOTHULT 1:17 TILLB AV GARAGE, VINDSKUPA, BALKONG, ALTAN, BY TE AV FÖNSTER SAMT FASADBEKL</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§649/1980 BOTHULT 1:17 TILLB AV GARAGE, VINDSKUPA, BALKONG, ALTAN, BY TE AV FÖNSTER SAMT FASADBEKL|A 453651 KOMPL RITN">
+
+      <container id="614794" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 453651 KOMPL RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§649/1980 BOTHULT 1:17 TILLB AV GARAGE, VINDSKUPA, BALKONG, ALTAN, BY TE AV FÖNSTER SAMT FASADBEKL|A 453641 UTDR UT EK KARTA">
+
+      <container id="614792" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 453641 UTDR UT EK KARTA</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§649/1980 BOTHULT 1:17 TILLB AV GARAGE, VINDSKUPA, BALKONG, ALTAN, BY TE AV FÖNSTER SAMT FASADBEKL|A 453651 KOMPL RITN|45584.tif">
+
+      <document id="614795" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:47a19257227cb900f9627f7cc981b3a880a10cea</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>74EB95EE75C73FDFEA79ED660ADDEC45</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:47a19257227cb900f9627f7cc981b3a880a10cea</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>79720</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>45584.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§649/1980 BOTHULT 1:17 TILLB AV GARAGE, VINDSKUPA, BALKONG, ALTAN, BY TE AV FÖNSTER SAMT FASADBEKL|A 453641 UTDR UT EK KARTA|45583.tif">
+
+      <document id="614793" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:293fb5f88463fe612671ef832c97290aee732d64</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>710A1C3EA430EA8065387B20F43E4717</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:293fb5f88463fe612671ef832c97290aee732d64</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>164874</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>45583.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

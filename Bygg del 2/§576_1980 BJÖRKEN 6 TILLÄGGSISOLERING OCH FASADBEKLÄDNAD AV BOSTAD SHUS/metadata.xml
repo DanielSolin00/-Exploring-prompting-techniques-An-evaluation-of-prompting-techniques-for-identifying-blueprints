@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§576/1980 BJÖRKEN 6 TILLÄGGSISOLERING OCH FASADBEKLÄDNAD AV BOSTAD SHUS">
+
+      <container id="549093" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLÄGGSISOLERING OCH FASADBEKLÄDNAD AV BOSTAD SHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>BJÖRKEN 6</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1980-05-28</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>51248</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§576/1980 BJÖRKEN 6 TILLÄGGSISOLERING OCH FASADBEKLÄDNAD AV BOSTAD SHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§576/1980 BJÖRKEN 6 TILLÄGGSISOLERING OCH FASADBEKLÄDNAD AV BOSTAD SHUS|A 452181 ÖVERPL FAS SEKT">
+
+      <container id="549094" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 452181 ÖVERPL FAS SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§576/1980 BJÖRKEN 6 TILLÄGGSISOLERING OCH FASADBEKLÄDNAD AV BOSTAD SHUS|A 452181 ÖVERPL FAS SEKT|45435.tif">
+
+      <document id="549095" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:b1671d8cb9480212ae7faefd8e6ad77be6f31c4e</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>21DE385355273CF26ED11C5EA41D6D29</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:b1671d8cb9480212ae7faefd8e6ad77be6f31c4e</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>93404</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>45435.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§576/1980 BJÖRKEN 6 TILLÄGGSISOLERING OCH FASADBEKLÄDNAD AV BOSTAD SHUS|K 452191 K-RITN KOMPL TILL TEKN BESKRIVN">
+
+      <container id="549096" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>K 452191 K-RITN KOMPL TILL TEKN BESKRIVN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>K</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§576/1980 BJÖRKEN 6 TILLÄGGSISOLERING OCH FASADBEKLÄDNAD AV BOSTAD SHUS|K 452191 K-RITN KOMPL TILL TEKN BESKRIVN|45436.tif">
+
+      <document id="549097" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:e8a026a4ec9466be9e8d247f62d053ce1d927ca5</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>D17B929264830105851EBD06C77BB924</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:e8a026a4ec9466be9e8d247f62d053ce1d927ca5</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>421236</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>45436.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

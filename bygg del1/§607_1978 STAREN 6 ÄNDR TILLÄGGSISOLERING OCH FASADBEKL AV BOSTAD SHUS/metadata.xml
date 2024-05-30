@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§607/1978 STAREN 6 ÄNDR TILLÄGGSISOLERING OCH FASADBEKL AV BOSTAD SHUS">
+
+      <container id="765959" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDR TILLÄGGSISOLERING OCH FASADBEKL AV BOSTAD SHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>STAREN 6</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1978-05-24</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>17492</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§607/1978 STAREN 6 ÄNDR TILLÄGGSISOLERING OCH FASADBEKL AV BOSTAD SHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§607/1978 STAREN 6 ÄNDR TILLÄGGSISOLERING OCH FASADBEKL AV BOSTAD SHUS|A 247311 FAS MOT S,Ö">
+
+      <container id="765960" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 247311 FAS MOT S,Ö</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§607/1978 STAREN 6 ÄNDR TILLÄGGSISOLERING OCH FASADBEKL AV BOSTAD SHUS|A 247321 FAS SAMTLIGA">
+
+      <container id="765962" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 247321 FAS SAMTLIGA</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§607/1978 STAREN 6 ÄNDR TILLÄGGSISOLERING OCH FASADBEKL AV BOSTAD SHUS|A 247311 FAS MOT S,Ö|24856.tif">
+
+      <document id="765961" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:a800bfbeb73adcbed2a1109114875be6c5aa9021</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>753F71D81D8D9661004801ED6C680042</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:a800bfbeb73adcbed2a1109114875be6c5aa9021</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>137094</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>24856.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§607/1978 STAREN 6 ÄNDR TILLÄGGSISOLERING OCH FASADBEKL AV BOSTAD SHUS|A 247321 FAS SAMTLIGA|24857.tif">
+
+      <document id="765963" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:96876aa1816ffb0183f42a56330de7f487069fce</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>73A7B3DDC5949810BF7354CD3450C011</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:96876aa1816ffb0183f42a56330de7f487069fce</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>88852</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>24857.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

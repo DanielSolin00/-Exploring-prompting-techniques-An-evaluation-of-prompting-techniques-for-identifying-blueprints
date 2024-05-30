@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§622/1979 GJUTAREN 9 TILLBYGGNAD AV BALKONG, FASADBEKL MED STÅENDE LOCKPANEL OCH TILLÄGGSISOLERING">
+
+      <container id="513151" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD AV BALKONG, FASADBEKL MED STÅENDE LOCKPANEL OCH TILLÄGGSISOLERING</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>GJUTAREN 9</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1979-05-22</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>53807</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§622/1979 GJUTAREN 9 TILLBYGGNAD AV BALKONG, FASADBEKL MED STÅENDE LOCKPANEL OCH TILLÄGGSISOLERING</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§622/1979 GJUTAREN 9 TILLBYGGNAD AV BALKONG, FASADBEKL MED STÅENDE LOCKPANEL OCH TILLÄGGSISOLERING|A 358641 PL SEKT VID BALKONG FAS">
+
+      <container id="513152" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 358641 PL SEKT VID BALKONG FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§622/1979 GJUTAREN 9 TILLBYGGNAD AV BALKONG, FASADBEKL MED STÅENDE LOCKPANEL OCH TILLÄGGSISOLERING|A 358641 PL SEKT VID BALKONG FAS|36054.tif">
+
+      <document id="513153" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:00cec46779892fb6ced270c7a0002cf636f3dfcc</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>FC4E57CFA94E0402D5A0E0B20A3CDF86</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:00cec46779892fb6ced270c7a0002cf636f3dfcc</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>403760</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>36054.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

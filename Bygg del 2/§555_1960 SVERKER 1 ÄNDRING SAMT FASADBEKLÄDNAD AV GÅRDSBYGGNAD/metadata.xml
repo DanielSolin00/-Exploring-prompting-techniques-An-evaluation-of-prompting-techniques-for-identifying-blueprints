@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1960|§555/1960 SVERKER 1 ÄNDRING SAMT FASADBEKLÄDNAD AV GÅRDSBYGGNAD">
+
+      <container id="783084" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING SAMT FASADBEKLÄDNAD AV GÅRDSBYGGNAD</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SVERKER 1</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1960-10-05</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>19201</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§555/1960 SVERKER 1 ÄNDRING SAMT FASADBEKLÄDNAD AV GÅRDSBYGGNAD</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1960|§555/1960 SVERKER 1 ÄNDRING SAMT FASADBEKLÄDNAD AV GÅRDSBYGGNAD|VA 1045481 VA-RITN">
+
+      <container id="783087" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1045481 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1960|§555/1960 SVERKER 1 ÄNDRING SAMT FASADBEKLÄDNAD AV GÅRDSBYGGNAD|VA 1045521 VA-RITN">
+
+      <container id="783089" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1045521 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1960|§555/1960 SVERKER 1 ÄNDRING SAMT FASADBEKLÄDNAD AV GÅRDSBYGGNAD|A 398441 PL FAS MOT Ö,N">
+
+      <container id="783085" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 398441 PL FAS MOT Ö,N</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1960|§555/1960 SVERKER 1 ÄNDRING SAMT FASADBEKLÄDNAD AV GÅRDSBYGGNAD|VA 1045481 VA-RITN|96790.tif">
+
+      <document id="783088" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:36e574d7c8576ac3e01eaebc9bb011c882192ac6</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>439BF4A3F7EADDB5B7A5A8CCF528780C</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:36e574d7c8576ac3e01eaebc9bb011c882192ac6</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>61322</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>96790.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1960|§555/1960 SVERKER 1 ÄNDRING SAMT FASADBEKLÄDNAD AV GÅRDSBYGGNAD|VA 1045521 VA-RITN|96794.tif">
+
+      <document id="783090" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:ae05c46ce3339ca524bd0af2b26f12bb18c22847</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>687D7315E88D8E36EFCD379C21A1D1F6</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:ae05c46ce3339ca524bd0af2b26f12bb18c22847</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>84714</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>96794.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1960|§555/1960 SVERKER 1 ÄNDRING SAMT FASADBEKLÄDNAD AV GÅRDSBYGGNAD|A 398441 PL FAS MOT Ö,N|40044.tif">
+
+      <document id="783086" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:c7bce64d33091612826057571b497778e4951463</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>5A25064C56293C9A0E2FCB0749F71C74</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:c7bce64d33091612826057571b497778e4951463</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>87412</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>40044.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

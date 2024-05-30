@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§426/1977 FALKEN 9 ÄNDRING OCH FASADBEKLÄDNAD AV GARAGE">
+
+      <container id="466331" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING OCH FASADBEKLÄDNAD AV GARAGE</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>FALKEN 9</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1977-04-20</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>3018</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§426/1977 FALKEN 9 ÄNDRING OCH FASADBEKLÄDNAD AV GARAGE</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§426/1977 FALKEN 9 ÄNDRING OCH FASADBEKLÄDNAD AV GARAGE|VA 1010671 VA-RITN">
+
+      <container id="466334" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1010671 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§426/1977 FALKEN 9 ÄNDRING OCH FASADBEKLÄDNAD AV GARAGE|A 160591 FAS PL SIT">
+
+      <container id="466332" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 160591 FAS PL SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§426/1977 FALKEN 9 ÄNDRING OCH FASADBEKLÄDNAD AV GARAGE|VA 1010671 VA-RITN|93268.tif">
+
+      <document id="466335" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:aa34eb719100e742fca46db00ac6b7543bf2749d</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>162E59C4B97ECE2E18B679775B763D28</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:aa34eb719100e742fca46db00ac6b7543bf2749d</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>97360</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>93268.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§426/1977 FALKEN 9 ÄNDRING OCH FASADBEKLÄDNAD AV GARAGE|A 160591 FAS PL SIT|16140.tif">
+
+      <document id="466333" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:9cb8e49e80153a33c467db6b9c99e7fe0e7e340f</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>D263852FDE4172D2895743F2ABC7AF19</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:9cb8e49e80153a33c467db6b9c99e7fe0e7e340f</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>105016</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>16140.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

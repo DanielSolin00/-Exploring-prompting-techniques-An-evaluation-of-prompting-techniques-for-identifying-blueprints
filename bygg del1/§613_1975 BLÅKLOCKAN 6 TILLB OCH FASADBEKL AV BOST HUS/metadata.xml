@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1975|§613/1975 BLÅKLOCKAN 6 TILLB OCH FASADBEKL AV BOST HUS">
+
+      <container id="622836" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLB OCH FASADBEKL AV BOST HUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>BLÅKLOCKAN 6</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1975-05-20</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>51830</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§613/1975 BLÅKLOCKAN 6 TILLB OCH FASADBEKL AV BOST HUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1975|§613/1975 BLÅKLOCKAN 6 TILLB OCH FASADBEKL AV BOST HUS|A 68411 FAS PL">
+
+      <container id="622837" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 68411 FAS PL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1975|§613/1975 BLÅKLOCKAN 6 TILLB OCH FASADBEKL AV BOST HUS|A 68411 FAS PL|6880.tif">
+
+      <document id="622838" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:4542ccd1f07ecebf47c95221e0e64dc793467f00</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>08C8125590DA547D6C02F91348219DDF</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:4542ccd1f07ecebf47c95221e0e64dc793467f00</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>109920</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>6880.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

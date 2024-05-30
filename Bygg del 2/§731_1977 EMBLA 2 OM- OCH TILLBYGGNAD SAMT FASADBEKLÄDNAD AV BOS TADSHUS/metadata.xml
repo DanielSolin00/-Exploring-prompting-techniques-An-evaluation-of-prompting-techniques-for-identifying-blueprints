@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§731/1977 EMBLA 2 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS">
+
+      <container id="526069" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>EMBLA 2</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1977-06-15</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>2871</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§731/1977 EMBLA 2 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§731/1977 EMBLA 2 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 156241 SIT">
+
+      <container id="526074" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 156241 SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§731/1977 EMBLA 2 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 156221 FAS PL SEKT">
+
+      <container id="526070" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 156221 FAS PL SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§731/1977 EMBLA 2 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 156231 FAS PL SEKT">
+
+      <container id="526072" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 156231 FAS PL SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§731/1977 EMBLA 2 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 156241 SIT|15704.tif">
+
+      <document id="526075" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:f56b924c53688a1e3e7f43636de200dbf0475a4e</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>4EFBEC537D46BA491796C654099395C7</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:f56b924c53688a1e3e7f43636de200dbf0475a4e</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>69018</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>15704.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§731/1977 EMBLA 2 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 156221 FAS PL SEKT|15702.tif">
+
+      <document id="526071" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:18c6cc7f97d392558766392c03925fd262a7872d</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>251E50939B8FA49AF4C55DBB2A9DB0DF</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:18c6cc7f97d392558766392c03925fd262a7872d</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>589338</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>15702.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§731/1977 EMBLA 2 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 156231 FAS PL SEKT|15703.tif">
+
+      <document id="526073" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:bffcb77e2a4db7fd4ebebfc625dd41424da8022b</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>B50199DE7696DB0AAB4BFC64D4A10FF7</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:bffcb77e2a4db7fd4ebebfc625dd41424da8022b</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>300232</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>15703.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§518/1970 SPARVHÖKEN 1 NYBYGGNAD AV GARAGE, FASADBEKLÄDNAD">
+
+      <container id="842269" type="building_case">
+         <attribute type="Ärendemening">
+            <value>NYBYGGNAD AV GARAGE, FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SPARVHÖKEN 1</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1970-06-24</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>17048</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§518/1970 SPARVHÖKEN 1 NYBYGGNAD AV GARAGE, FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§518/1970 SPARVHÖKEN 1 NYBYGGNAD AV GARAGE, FASADBEKLÄDNAD|A 389251 PL SEKT FAS">
+
+      <container id="842270" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 389251 PL SEKT FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§518/1970 SPARVHÖKEN 1 NYBYGGNAD AV GARAGE, FASADBEKLÄDNAD|A 389251 PL SEKT FAS|39123.tif">
+
+      <document id="842271" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:f1a91498cb89d1f1a3c8dbe5d527913632d4ffb8</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>AEE3D5C9C5328A1658CCC1FCB82F7DA9</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:f1a91498cb89d1f1a3c8dbe5d527913632d4ffb8</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>77798</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>39123.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

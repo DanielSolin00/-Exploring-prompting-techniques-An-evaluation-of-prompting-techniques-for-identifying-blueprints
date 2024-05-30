@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§32/1984 TJÄDERN 7 BYTE AV FÖNSTER, VÄRMEISOLERING OCH FASADBEKLÄ DNAD">
+
+      <container id="797999" type="building_case">
+         <attribute type="Ärendemening">
+            <value>BYTE AV FÖNSTER, VÄRMEISOLERING OCH FASADBEKLÄ DNAD</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>TJÄDERN 7</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1984-03-14</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>20065</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§32/1984 TJÄDERN 7 BYTE AV FÖNSTER, VÄRMEISOLERING OCH FASADBEKLÄ DNAD</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§32/1984 TJÄDERN 7 BYTE AV FÖNSTER, VÄRMEISOLERING OCH FASADBEKLÄ DNAD|A 577551 FAS MOT STAAFSGATAN OCH GÅRDSPL">
+
+      <container id="798000" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 577551 FAS MOT STAAFSGATAN OCH GÅRDSPL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§32/1984 TJÄDERN 7 BYTE AV FÖNSTER, VÄRMEISOLERING OCH FASADBEKLÄ DNAD|A 577561 FAS MOT GÅRDSPL OCH HULLSJÖGATAN">
+
+      <container id="799102" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 577561 FAS MOT GÅRDSPL OCH HULLSJÖGATAN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§32/1984 TJÄDERN 7 BYTE AV FÖNSTER, VÄRMEISOLERING OCH FASADBEKLÄ DNAD|A 577551 FAS MOT STAAFSGATAN OCH GÅRDSPL|58103.tif">
+
+      <document id="799101" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:92e283719a3dc4a3534b0ba5cbc81c17a8edec15</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>827E1C36F4FDD17B3517D407EE2B247D</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:92e283719a3dc4a3534b0ba5cbc81c17a8edec15</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>69066</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>58103.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§32/1984 TJÄDERN 7 BYTE AV FÖNSTER, VÄRMEISOLERING OCH FASADBEKLÄ DNAD|A 577561 FAS MOT GÅRDSPL OCH HULLSJÖGATAN|58104.tif">
+
+      <document id="799103" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:9214781b271fcf82835d7407b9ead95b857500f6</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>A8467C17A8FB7B8A54CC7517AAA9B7E2</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:9214781b271fcf82835d7407b9ead95b857500f6</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>59256</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>58104.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

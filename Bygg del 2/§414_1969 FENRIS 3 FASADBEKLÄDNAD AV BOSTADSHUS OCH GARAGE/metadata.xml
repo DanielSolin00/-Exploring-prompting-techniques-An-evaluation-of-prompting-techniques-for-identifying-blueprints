@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§414/1969 FENRIS 3 FASADBEKLÄDNAD AV BOSTADSHUS OCH GARAGE">
+
+      <container id="466471" type="building_case">
+         <attribute type="Ärendemening">
+            <value>FASADBEKLÄDNAD AV BOSTADSHUS OCH GARAGE</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>FENRIS 3</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1969-05-21</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>3085</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§414/1969 FENRIS 3 FASADBEKLÄDNAD AV BOSTADSHUS OCH GARAGE</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§414/1969 FENRIS 3 FASADBEKLÄDNAD AV BOSTADSHUS OCH GARAGE|A 288391 FAS">
+
+      <container id="466472" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 288391 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§414/1969 FENRIS 3 FASADBEKLÄDNAD AV BOSTADSHUS OCH GARAGE|VA 1010761 VA-RITN">
+
+      <container id="466474" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1010761 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§414/1969 FENRIS 3 FASADBEKLÄDNAD AV BOSTADSHUS OCH GARAGE|A 288391 FAS|28973.tif">
+
+      <document id="466473" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:81f95d5af232b4ce7fd5821b3763464f746349e3</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>27B68682EC5107FA41D5583A7449AE31</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:81f95d5af232b4ce7fd5821b3763464f746349e3</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>27876</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>28973.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§414/1969 FENRIS 3 FASADBEKLÄDNAD AV BOSTADSHUS OCH GARAGE|VA 1010761 VA-RITN|93277.tif">
+
+      <document id="466475" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:c3ad892a48c43886103f8383ace14bd46a69ee82</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>F4AB027F77BCEB179CB0089AE07DD9E6</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:c3ad892a48c43886103f8383ace14bd46a69ee82</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>127984</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>93277.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

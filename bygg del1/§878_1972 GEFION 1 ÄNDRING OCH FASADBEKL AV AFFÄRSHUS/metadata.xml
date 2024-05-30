@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§878/1972 GEFION 1 ÄNDRING OCH FASADBEKL AV AFFÄRSHUS">
+
+      <container id="533602" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING OCH FASADBEKL AV AFFÄRSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>GEFION 1</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1972-08-23</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>53572</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§878/1972 GEFION 1 ÄNDRING OCH FASADBEKL AV AFFÄRSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§878/1972 GEFION 1 ÄNDRING OCH FASADBEKL AV AFFÄRSHUS|A 368661 SIT PL PL FAS MOT V,Ö,N">
+
+      <container id="533603" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 368661 SIT PL PL FAS MOT V,Ö,N</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§878/1972 GEFION 1 ÄNDRING OCH FASADBEKL AV AFFÄRSHUS|A 368661 SIT PL PL FAS MOT V,Ö,N|37058.tif">
+
+      <document id="533604" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:a07692a00168245cef892c2befcbc113f39d2ce5</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>FC9B20DFFD7F81B4CA77A0830A9C0FD9</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:a07692a00168245cef892c2befcbc113f39d2ce5</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>99584</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>37058.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

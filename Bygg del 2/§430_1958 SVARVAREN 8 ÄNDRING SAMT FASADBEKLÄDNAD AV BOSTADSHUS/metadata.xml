@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1958|§430/1958 SVARVAREN 8 ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS">
+
+      <container id="679240" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SVARVAREN 8</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1958-06-04</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>19077</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§430/1958 SVARVAREN 8 ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1958|§430/1958 SVARVAREN 8 ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 398301 FAS SEKT">
+
+      <container id="679243" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 398301 FAS SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1958|§430/1958 SVARVAREN 8 ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 398291 SIT-PL PL">
+
+      <container id="679241" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 398291 SIT-PL PL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1958|§430/1958 SVARVAREN 8 ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS|VA 1045261 VA-RITN">
+
+      <container id="679245" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1045261 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1958|§430/1958 SVARVAREN 8 ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 398301 FAS SEKT|40030.tif">
+
+      <document id="679244" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:7dc4de5d0c0b3f2e1e4d009a7dd3adada13bf809</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>9FC7C1C741F909B6D558BE85206672F2</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:7dc4de5d0c0b3f2e1e4d009a7dd3adada13bf809</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>152608</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>40030.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1958|§430/1958 SVARVAREN 8 ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 398291 SIT-PL PL|40029.tif">
+
+      <document id="679242" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:dbddf32b1286ef6e0c110eaf640046896789ec61</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>62B9EC1A31C4D9749A7B69F2A8218B7A</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:dbddf32b1286ef6e0c110eaf640046896789ec61</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>111976</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>40029.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1958|§430/1958 SVARVAREN 8 ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS|VA 1045261 VA-RITN|96768.tif">
+
+      <document id="679246" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:a4fd9ac663acda5b861b7b7ce2d2bcd8ef9ea326</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>DEDB0812DF0849D3CABBA8D58EB78998</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:a4fd9ac663acda5b861b7b7ce2d2bcd8ef9ea326</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>98084</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>96768.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

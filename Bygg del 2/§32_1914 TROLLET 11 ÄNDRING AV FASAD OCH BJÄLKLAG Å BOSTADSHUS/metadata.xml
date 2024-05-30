@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1914|§32/1914 TROLLET 11 ÄNDRING AV FASAD OCH BJÄLKLAG Å BOSTADSHUS">
+
+      <container id="783793" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING AV FASAD OCH BJÄLKLAG Å BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>TROLLET 11</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1914-03-27</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>20822</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§32/1914 TROLLET 11 ÄNDRING AV FASAD OCH BJÄLKLAG Å BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1914|§32/1914 TROLLET 11 ÄNDRING AV FASAD OCH BJÄLKLAG Å BOSTADSHUS|A 402761 PL">
+
+      <container id="783794" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 402761 PL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1914|§32/1914 TROLLET 11 ÄNDRING AV FASAD OCH BJÄLKLAG Å BOSTADSHUS|A 402761 PL|40480.tif">
+
+      <document id="783795" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:e0fbf382cbd6a9e95b184e33b54ff87b47156d43</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>44066D2229383F5C697C6319EF93A0DC</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:e0fbf382cbd6a9e95b184e33b54ff87b47156d43</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>240528</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>40480.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1914|§32/1914 TROLLET 11 ÄNDRING AV FASAD OCH BJÄLKLAG Å BOSTADSHUS|A 402771 FAS MOT ÖSTERLÅNGG TROLLG">
+
+      <container id="783796" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 402771 FAS MOT ÖSTERLÅNGG TROLLG</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1914|§32/1914 TROLLET 11 ÄNDRING AV FASAD OCH BJÄLKLAG Å BOSTADSHUS|A 402771 FAS MOT ÖSTERLÅNGG TROLLG|40481.tif">
+
+      <document id="783797" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:03e7add2f5638daab89f386c3cd5522f64913cf0</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>E691464D656195197CFC8A11809C83D6</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:03e7add2f5638daab89f386c3cd5522f64913cf0</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>381880</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>40481.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

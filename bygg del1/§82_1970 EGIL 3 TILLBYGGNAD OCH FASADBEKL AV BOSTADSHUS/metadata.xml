@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§82/1970 EGIL 3 TILLBYGGNAD OCH FASADBEKL AV BOSTADSHUS">
+
+      <container id="657849" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD OCH FASADBEKL AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>EGIL 3</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1970-02-18</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>2416</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§82/1970 EGIL 3 TILLBYGGNAD OCH FASADBEKL AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§82/1970 EGIL 3 TILLBYGGNAD OCH FASADBEKL AV BOSTADSHUS|VA 1008361 VA-RITN">
+
+      <container id="657854" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1008361 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§82/1970 EGIL 3 TILLBYGGNAD OCH FASADBEKL AV BOSTADSHUS|A 285531 FAS PL SEKT SIT">
+
+      <container id="657850" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 285531 FAS PL SEKT SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§82/1970 EGIL 3 TILLBYGGNAD OCH FASADBEKL AV BOSTADSHUS|VA 1008361 VA-RITN|93037.tif">
+
+      <document id="657855" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:579915bd773e2fae1aa45513ad14c9cf78953df5</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>DCD7CD46A632548B42B69E06DBBB67B9</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:579915bd773e2fae1aa45513ad14c9cf78953df5</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>111548</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>93037.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§82/1970 EGIL 3 TILLBYGGNAD OCH FASADBEKL AV BOSTADSHUS|BER  BETONGPLATTA  ÖVER  KÄLLARE">
+
+      <container id="657852" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>BER  BETONGPLATTA  ÖVER  KÄLLARE</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>BER</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§82/1970 EGIL 3 TILLBYGGNAD OCH FASADBEKL AV BOSTADSHUS|A 285531 FAS PL SEKT SIT|28687.tif">
+
+      <document id="657851" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:0ce9e529e41b5f1612d7f2cf0410e221824faab7</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>A87B5DE6F890DD279F3A96982FCC9B73</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:0ce9e529e41b5f1612d7f2cf0410e221824faab7</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>76418</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>28687.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§82/1970 EGIL 3 TILLBYGGNAD OCH FASADBEKL AV BOSTADSHUS|BER  BETONGPLATTA  ÖVER  KÄLLARE|egil 3-1.tif">
+
+      <document id="657853" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:dda4645cd65c52470b4207fe0ef248b835a6d7cd</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>BC482695BF1DC9F6D80B93058A5879C1</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:dda4645cd65c52470b4207fe0ef248b835a6d7cd</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>3708650</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>egil 3-1.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

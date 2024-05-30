@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§607/1983 TROLLET 9 ÄNDRING AV FASAD SAMT OMBYGGNAD I APOTEKSLOKAL">
+
+      <container id="775238" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING AV FASAD SAMT OMBYGGNAD I APOTEKSLOKAL</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>TROLLET 9</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1983-08-24</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>20803</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§607/1983 TROLLET 9 ÄNDRING AV FASAD SAMT OMBYGGNAD I APOTEKSLOKAL</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§607/1983 TROLLET 9 ÄNDRING AV FASAD SAMT OMBYGGNAD I APOTEKSLOKAL|A 571761 PL">
+
+      <container id="775239" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 571761 PL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§607/1983 TROLLET 9 ÄNDRING AV FASAD SAMT OMBYGGNAD I APOTEKSLOKAL|A 571771 FAS">
+
+      <container id="775241" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 571771 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§607/1983 TROLLET 9 ÄNDRING AV FASAD SAMT OMBYGGNAD I APOTEKSLOKAL|A 571761 PL|57518.tif">
+
+      <document id="775240" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:cc6458f16739e407cc6b05104e27d498046fe39d</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>4346B0BE935AEB3831AFC8B605BAA70D</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:cc6458f16739e407cc6b05104e27d498046fe39d</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>158478</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>57518.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§607/1983 TROLLET 9 ÄNDRING AV FASAD SAMT OMBYGGNAD I APOTEKSLOKAL|A 571771 FAS|57519.tif">
+
+      <document id="775242" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:1128655ec5fc2be12b443637aa881dff3d3201b0</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>11DFA4FEC8A0A65ED4408ECFEC37DC13</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:1128655ec5fc2be12b443637aa881dff3d3201b0</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>149688</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>57519.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

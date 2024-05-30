@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§496/1979 ÅSAKA 5:7 TILLÄGGSISOLERING SAMT FASADBEKLÄDNAD MED TRÄP ANEL, ÄNDRING AV FÖNSTER">
+
+      <container id="801206" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLÄGGSISOLERING SAMT FASADBEKLÄDNAD MED TRÄP ANEL, ÄNDRING AV FÖNSTER</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>ÅSAKA 5:7</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1979-04-25</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>23208</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§496/1979 ÅSAKA 5:7 TILLÄGGSISOLERING SAMT FASADBEKLÄDNAD MED TRÄP ANEL, ÄNDRING AV FÖNSTER</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§496/1979 ÅSAKA 5:7 TILLÄGGSISOLERING SAMT FASADBEKLÄDNAD MED TRÄP ANEL, ÄNDRING AV FÖNSTER|A 353851 SIT">
+
+      <container id="801207" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 353851 SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§496/1979 ÅSAKA 5:7 TILLÄGGSISOLERING SAMT FASADBEKLÄDNAD MED TRÄP ANEL, ÄNDRING AV FÖNSTER|A 353861 FAS MOT S">
+
+      <container id="801209" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 353861 FAS MOT S</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§496/1979 ÅSAKA 5:7 TILLÄGGSISOLERING SAMT FASADBEKLÄDNAD MED TRÄP ANEL, ÄNDRING AV FÖNSTER|A 353871 FAS MOT Ö">
+
+      <container id="801211" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 353871 FAS MOT Ö</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§496/1979 ÅSAKA 5:7 TILLÄGGSISOLERING SAMT FASADBEKLÄDNAD MED TRÄP ANEL, ÄNDRING AV FÖNSTER|A 353881 FAS MOT N">
+
+      <container id="801213" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 353881 FAS MOT N</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§496/1979 ÅSAKA 5:7 TILLÄGGSISOLERING SAMT FASADBEKLÄDNAD MED TRÄP ANEL, ÄNDRING AV FÖNSTER|A 353851 SIT|35574.tif">
+
+      <document id="801208" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:d1432a70ba68c87ab5ba751c649361a016785e9c</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>937E5A9013041B098F6FE94A1941D2BE</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:d1432a70ba68c87ab5ba751c649361a016785e9c</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>488978</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35574.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§496/1979 ÅSAKA 5:7 TILLÄGGSISOLERING SAMT FASADBEKLÄDNAD MED TRÄP ANEL, ÄNDRING AV FÖNSTER|A 353861 FAS MOT S|35575.tif">
+
+      <document id="801210" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:0463c1681dad65e249faea51702a0b3e018420aa</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>9864FF759EE4FBAED67C88F303158B71</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:0463c1681dad65e249faea51702a0b3e018420aa</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>393952</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35575.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§496/1979 ÅSAKA 5:7 TILLÄGGSISOLERING SAMT FASADBEKLÄDNAD MED TRÄP ANEL, ÄNDRING AV FÖNSTER|A 353871 FAS MOT Ö|35576.tif">
+
+      <document id="801212" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:e61190e2500cf7243d6e5e8d06e469e5d77c4b66</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>B48AAF0FC3B158CBB9D23DC07137492D</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:e61190e2500cf7243d6e5e8d06e469e5d77c4b66</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>401656</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35576.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§496/1979 ÅSAKA 5:7 TILLÄGGSISOLERING SAMT FASADBEKLÄDNAD MED TRÄP ANEL, ÄNDRING AV FÖNSTER|A 353881 FAS MOT N|35577.tif">
+
+      <document id="801214" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:e844775a2c752b1a29e992fe36d196e93e9e5efe</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>24A4EF05D58DFC64927C8D4222F4FED7</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:e844775a2c752b1a29e992fe36d196e93e9e5efe</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>391730</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35577.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

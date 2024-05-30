@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1955|§703/1955 SVARVAREN 6 FASADBEKLÄDNAD">
+
+      <container id="772374" type="building_case">
+         <attribute type="Ärendemening">
+            <value>FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SVARVAREN 6</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1955-10-05</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>19074</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§703/1955 SVARVAREN 6 FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1955|§703/1955 SVARVAREN 6 FASADBEKLÄDNAD|A 398261 BOTTENPL">
+
+      <container id="772375" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 398261 BOTTENPL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1955|§703/1955 SVARVAREN 6 FASADBEKLÄDNAD|VA 1045271 VA-RITN">
+
+      <container id="772377" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1045271 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1955|§703/1955 SVARVAREN 6 FASADBEKLÄDNAD|VA 1045281 VA-RITN">
+
+      <container id="772379" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1045281 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1955|§703/1955 SVARVAREN 6 FASADBEKLÄDNAD|A 398261 BOTTENPL|40026.tif">
+
+      <document id="772376" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:82754f9f935997f8044b8bc9e77f9515f0711d76</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>C36D20A37DFE619E404C7BE49DF6CD2D</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:82754f9f935997f8044b8bc9e77f9515f0711d76</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>142144</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>40026.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1955|§703/1955 SVARVAREN 6 FASADBEKLÄDNAD|VA 1045271 VA-RITN|96769.tif">
+
+      <document id="772378" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:810e6caa38039f9dd73764c463b614aaafd91bb4</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>2D55228911542E45FBAC3844875CC2A8</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:810e6caa38039f9dd73764c463b614aaafd91bb4</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>66508</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>96769.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1955|§703/1955 SVARVAREN 6 FASADBEKLÄDNAD|VA 1045281 VA-RITN|96770.tif">
+
+      <document id="772380" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:6713560267ab43a98348563de0bc1c96a1608318</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>1E68DCBD4907D6A9974CD80C50F76E57</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:6713560267ab43a98348563de0bc1c96a1608318</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>128366</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>96770.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

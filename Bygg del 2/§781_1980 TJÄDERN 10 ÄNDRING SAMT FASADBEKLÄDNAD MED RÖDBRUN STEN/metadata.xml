@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§781/1980 TJÄDERN 10 ÄNDRING SAMT FASADBEKLÄDNAD MED RÖDBRUN STEN">
+
+      <container id="773586" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING SAMT FASADBEKLÄDNAD MED RÖDBRUN STEN</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>TJÄDERN 10</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1980-08-27</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>20077</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§781/1980 TJÄDERN 10 ÄNDRING SAMT FASADBEKLÄDNAD MED RÖDBRUN STEN</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§781/1980 TJÄDERN 10 ÄNDRING SAMT FASADBEKLÄDNAD MED RÖDBRUN STEN|A 460531 FAS">
+
+      <container id="773587" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 460531 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§781/1980 TJÄDERN 10 ÄNDRING SAMT FASADBEKLÄDNAD MED RÖDBRUN STEN|A 460531 FAS|46279.tif">
+
+      <document id="773588" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:a1abd293ddfacd878ab89e16cb03d35a6b6aabe5</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>3F5FCA36344BF3128D527541CA89C20F</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:a1abd293ddfacd878ab89e16cb03d35a6b6aabe5</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>122478</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>46279.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

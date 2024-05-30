@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§414/1977 SÖRBY 6:16 OM- OCH TILLBYGGN SAMT FASADBEKL AV BOSTADSHUS">
+
+      <container id="783451" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OM- OCH TILLBYGGN SAMT FASADBEKL AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SÖRBY 6:16</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1977-04-20</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>19590</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§414/1977 SÖRBY 6:16 OM- OCH TILLBYGGN SAMT FASADBEKL AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§414/1977 SÖRBY 6:16 OM- OCH TILLBYGGN SAMT FASADBEKL AV BOSTADSHUS|A 158881 SIT">
+
+      <container id="783456" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 158881 SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§414/1977 SÖRBY 6:16 OM- OCH TILLBYGGN SAMT FASADBEKL AV BOSTADSHUS|A 158871 SEKT PL FAS">
+
+      <container id="783454" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 158871 SEKT PL FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§414/1977 SÖRBY 6:16 OM- OCH TILLBYGGN SAMT FASADBEKL AV BOSTADSHUS|A 158881 SIT|15968.tif">
+
+      <document id="783457" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:0b8c7d60543135d96bfa86498eff97e8c8ce8927</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>2438767B968E0CFC2C1B82FD26835058</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:0b8c7d60543135d96bfa86498eff97e8c8ce8927</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>111348</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>15968.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§414/1977 SÖRBY 6:16 OM- OCH TILLBYGGN SAMT FASADBEKL AV BOSTADSHUS|A 158871 SEKT PL FAS|15967.tif">
+
+      <document id="783455" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:f8934da73370b096d4a70b35ea5d25f21d45a33f</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>C0B2A0CA2AA9C134AFE1DD7F3025C755</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:f8934da73370b096d4a70b35ea5d25f21d45a33f</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>633020</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>15967.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§414/1977 SÖRBY 6:16 OM- OCH TILLBYGGN SAMT FASADBEKL AV BOSTADSHUS|A 158861 UTMÄTN.RITN FAS PL SEKT">
+
+      <container id="783452" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 158861 UTMÄTN.RITN FAS PL SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§414/1977 SÖRBY 6:16 OM- OCH TILLBYGGN SAMT FASADBEKL AV BOSTADSHUS|A 158861 UTMÄTN.RITN FAS PL SEKT|15966.tif">
+
+      <document id="783453" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:dfe5cf0412eed73cde8b1b6e53dcdc4de34e97ae</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>B836F015194A7D3FB26B8192E6826102</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:dfe5cf0412eed73cde8b1b6e53dcdc4de34e97ae</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>620786</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>15966.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

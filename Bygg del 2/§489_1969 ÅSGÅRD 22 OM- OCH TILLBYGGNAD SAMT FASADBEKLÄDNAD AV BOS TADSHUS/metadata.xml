@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§489/1969 ÅSGÅRD 22 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS">
+
+      <container id="761878" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>ÅSGÅRD 22</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1969-06-11</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>23553</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§489/1969 ÅSGÅRD 22 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§489/1969 ÅSGÅRD 22 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 322371 PL">
+
+      <container id="761881" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 322371 PL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§489/1969 ÅSGÅRD 22 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|VA 1053551 VA-RITN">
+
+      <container id="761883" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1053551 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§489/1969 ÅSGÅRD 22 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 322361 FAS SIT SEKT">
+
+      <container id="761879" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 322361 FAS SIT SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§489/1969 ÅSGÅRD 22 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 322371 PL|32418.tif">
+
+      <document id="761882" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:df4a24c31245042f3c21807a2e565744a3a4d9bf</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>F1BDE17FF5AD49B8CD63D1CCF36BB971</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:df4a24c31245042f3c21807a2e565744a3a4d9bf</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>80914</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>32418.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§489/1969 ÅSGÅRD 22 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|VA 1053551 VA-RITN|97603.tif">
+
+      <document id="761884" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:14cb87ac8c702eec570030afea37b6e473b248c7</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>19C3327D2951A44503AFE3FBB994F97D</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:14cb87ac8c702eec570030afea37b6e473b248c7</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>92678</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>97603.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§489/1969 ÅSGÅRD 22 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 322361 FAS SIT SEKT|32417.tif">
+
+      <document id="761880" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:a10237f46e86cef3538f2c458b5a9132fb2d1869</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>85276C17A0B26D9145F0A000E8834D71</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:a10237f46e86cef3538f2c458b5a9132fb2d1869</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>185706</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>32417.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

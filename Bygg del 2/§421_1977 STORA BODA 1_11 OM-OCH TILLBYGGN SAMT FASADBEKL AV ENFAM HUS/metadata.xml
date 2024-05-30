@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§421/1977 STORA BODA 1:11 OM-OCH TILLBYGGN SAMT FASADBEKL AV ENFAM HUS">
+
+      <container id="771161" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OM-OCH TILLBYGGN SAMT FASADBEKL AV ENFAM HUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>STORA BODA 1:11</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1977-04-20</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>51918</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§421/1977 STORA BODA 1:11 OM-OCH TILLBYGGN SAMT FASADBEKL AV ENFAM HUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§421/1977 STORA BODA 1:11 OM-OCH TILLBYGGN SAMT FASADBEKL AV ENFAM HUS|A 158891 FAS">
+
+      <container id="771162" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 158891 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§421/1977 STORA BODA 1:11 OM-OCH TILLBYGGN SAMT FASADBEKL AV ENFAM HUS|A 158911 PL SEKT">
+
+      <container id="771166" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 158911 PL SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§421/1977 STORA BODA 1:11 OM-OCH TILLBYGGN SAMT FASADBEKL AV ENFAM HUS|A 158901 PL SIT PL">
+
+      <container id="771164" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 158901 PL SIT PL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§421/1977 STORA BODA 1:11 OM-OCH TILLBYGGN SAMT FASADBEKL AV ENFAM HUS|A 158891 FAS|15969.tif">
+
+      <document id="771163" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:12add15e5d10ad5f86a5ef297257af18aa8ae883</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>A07C42CD6CE0B17AA62F2AB460197D1D</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:12add15e5d10ad5f86a5ef297257af18aa8ae883</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>163766</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>15969.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§421/1977 STORA BODA 1:11 OM-OCH TILLBYGGN SAMT FASADBEKL AV ENFAM HUS|A 158911 PL SEKT|15971.tif">
+
+      <document id="771167" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:43f9f2e830bf00b19013b12030966ce040348891</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>396BF400AE73059B2ED054024628C135</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:43f9f2e830bf00b19013b12030966ce040348891</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>87750</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>15971.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§421/1977 STORA BODA 1:11 OM-OCH TILLBYGGN SAMT FASADBEKL AV ENFAM HUS|A 158901 PL SIT PL|15970.tif">
+
+      <document id="771165" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:3d4ddd7b2235812bbfce6a8d7a4e28b60cc0f9b5</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>162BB3B65C2F711E43BB83D2BCB8E416</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:3d4ddd7b2235812bbfce6a8d7a4e28b60cc0f9b5</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>70618</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>15970.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

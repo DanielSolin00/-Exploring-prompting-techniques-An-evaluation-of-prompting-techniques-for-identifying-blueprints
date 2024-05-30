@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1927|§32/1927 ELEKTRODEN 1 GODKÄNNANDE AV KARTA OCH FASADRITNING ÖVER PL AN. NYBYGGN.">
+
+      <container id="551844" type="building_case">
+         <attribute type="Ärendemening">
+            <value>GODKÄNNANDE AV KARTA OCH FASADRITNING ÖVER PL AN. NYBYGGN.</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>ELEKTRODEN 1</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1927-04-01</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>2783</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§32/1927 ELEKTRODEN 1 GODKÄNNANDE AV KARTA OCH FASADRITNING ÖVER PL AN. NYBYGGN.</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1927|§32/1927 ELEKTRODEN 1 GODKÄNNANDE AV KARTA OCH FASADRITNING ÖVER PL AN. NYBYGGN.|A 660191 FAS M VÄG (SMÄLTV. MAT- O OMKLÄ.R KROSSV.GA.)">
+
+      <container id="551845" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 660191 FAS M VÄG (SMÄLTV. MAT- O OMKLÄ.R KROSSV.GA.)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1927|§32/1927 ELEKTRODEN 1 GODKÄNNANDE AV KARTA OCH FASADRITNING ÖVER PL AN. NYBYGGN.|A 660191 FAS M VÄG (SMÄLTV. MAT- O OMKLÄ.R KROSSV.GA.)|66406.tif">
+
+      <document id="551846" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:d35c0064a7a8a90e8bd1d01f70fce3aa9a2f7517</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>6A12E4BAD0301AB8A52FB84D23AD8B56</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:d35c0064a7a8a90e8bd1d01f70fce3aa9a2f7517</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>68802</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>66406.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

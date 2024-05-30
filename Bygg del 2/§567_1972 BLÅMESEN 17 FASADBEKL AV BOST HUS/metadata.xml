@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§567/1972 BLÅMESEN 17 FASADBEKL AV BOST HUS">
+
+      <container id="563411" type="building_case">
+         <attribute type="Ärendemening">
+            <value>FASADBEKL AV BOST HUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>BLÅMESEN 17</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1972-05-17</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>51894</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§567/1972 BLÅMESEN 17 FASADBEKL AV BOST HUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§567/1972 BLÅMESEN 17 FASADBEKL AV BOST HUS|A 266401 FAS">
+
+      <container id="563412" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 266401 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§567/1972 BLÅMESEN 17 FASADBEKL AV BOST HUS|VA 1004471 VA-RITN">
+
+      <container id="563414" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1004471 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§567/1972 BLÅMESEN 17 FASADBEKL AV BOST HUS|A 266401 FAS|26773.tif">
+
+      <document id="563413" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:dd9061f3b5fbcb2f3a517d90ab536a5c5a66bf93</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>8B825EF8FE6CB32EE1AA251E10106284</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:dd9061f3b5fbcb2f3a517d90ab536a5c5a66bf93</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>143862</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>26773.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§567/1972 BLÅMESEN 17 FASADBEKL AV BOST HUS|VA 1004471 VA-RITN|92642.tif">
+
+      <document id="563415" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:4c7fab57e2f09c19f7f8a2a68034080d72c75741</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>B3C82411313C04DB76918DCA13E7E897</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:4c7fab57e2f09c19f7f8a2a68034080d72c75741</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>101394</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>92642.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§699/1972 BLACKSTORP 1:30 TILLB AV GARAGE SAMT RENOVERING AV FASADERÅ BO STADSHUS">
+
+      <container id="628414" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLB AV GARAGE SAMT RENOVERING AV FASADERÅ BO STADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>BLACKSTORP 1:30</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1972-06-28</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>51506</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§699/1972 BLACKSTORP 1:30 TILLB AV GARAGE SAMT RENOVERING AV FASADERÅ BO STADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§699/1972 BLACKSTORP 1:30 TILLB AV GARAGE SAMT RENOVERING AV FASADERÅ BO STADSHUS|A 158281 FAS SEKT PL">
+
+      <container id="628417" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 158281 FAS SEKT PL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§699/1972 BLACKSTORP 1:30 TILLB AV GARAGE SAMT RENOVERING AV FASADERÅ BO STADSHUS|A 158271 FAS PL SIT PL">
+
+      <container id="628415" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 158271 FAS PL SIT PL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§699/1972 BLACKSTORP 1:30 TILLB AV GARAGE SAMT RENOVERING AV FASADERÅ BO STADSHUS|A 158281 FAS SEKT PL|15908.tif">
+
+      <document id="628418" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:2e28677b115c64a72fc9b777897a864624ce9fe8</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>6098E677B782399BC9C7661B6FA9A5AA</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:2e28677b115c64a72fc9b777897a864624ce9fe8</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>135650</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>15908.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§699/1972 BLACKSTORP 1:30 TILLB AV GARAGE SAMT RENOVERING AV FASADERÅ BO STADSHUS|A 158271 FAS PL SIT PL|15907.tif">
+
+      <document id="628416" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:dd97fb6be780d39ed6d0cc026bcd25eca97e0666</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>0C6F23B6A23068397598694F0C21ABE6</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:dd97fb6be780d39ed6d0cc026bcd25eca97e0666</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>82240</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>15907.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

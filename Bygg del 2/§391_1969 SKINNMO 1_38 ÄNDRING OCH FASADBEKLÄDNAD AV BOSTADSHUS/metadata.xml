@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§391/1969 SKINNMO 1:38 ÄNDRING OCH FASADBEKLÄDNAD AV BOSTADSHUS">
+
+      <container id="691029" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING OCH FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SKINNMO 1:38</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1969-05-21</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>15637</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§391/1969 SKINNMO 1:38 ÄNDRING OCH FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§391/1969 SKINNMO 1:38 ÄNDRING OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 533231 PL">
+
+      <container id="691032" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 533231 PL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§391/1969 SKINNMO 1:38 ÄNDRING OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 533231 PL|53627.tif">
+
+      <document id="691033" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:15831a6e4ada7ba7a6ac17d7e4037420ad2adf15</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>3D1645385CB62C236D28D91DB81F9B94</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:15831a6e4ada7ba7a6ac17d7e4037420ad2adf15</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>71732</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>53627.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§391/1969 SKINNMO 1:38 ÄNDRING OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 507251 SITPL PL FAS MOT Ö,N">
+
+      <container id="691030" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 507251 SITPL PL FAS MOT Ö,N</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§391/1969 SKINNMO 1:38 ÄNDRING OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 507251 SITPL PL FAS MOT Ö,N|50988.tif">
+
+      <document id="691031" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:3f16867d9d1e2a3a97284c3bb04082dd3e5e3787</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>8D76340161F7E6B41ED7E971E51BFFE6</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:3f16867d9d1e2a3a97284c3bb04082dd3e5e3787</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>98722</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>50988.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

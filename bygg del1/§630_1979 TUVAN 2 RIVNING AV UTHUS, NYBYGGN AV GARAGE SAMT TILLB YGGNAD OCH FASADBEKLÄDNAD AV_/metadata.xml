@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§630/1979 TUVAN 2 RIVNING AV UTHUS, NYBYGGN AV GARAGE SAMT TILLB YGGNAD OCH FASADBEKLÄDNAD AV ENFAMILJSHUS">
+
+      <container id="798049" type="building_case">
+         <attribute type="Ärendemening">
+            <value>RIVNING AV UTHUS, NYBYGGN AV GARAGE SAMT TILLB YGGNAD OCH FASADBEKLÄDNAD AV ENFAMILJSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>TUVAN 2</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1979-05-22</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>21079</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§630/1979 TUVAN 2 RIVNING AV UTHUS, NYBYGGN AV GARAGE SAMT TILLB YGGNAD OCH FASADBEKLÄDNAD AV ENFAMILJSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§630/1979 TUVAN 2 RIVNING AV UTHUS, NYBYGGN AV GARAGE SAMT TILLB YGGNAD OCH FASADBEKLÄDNAD AV ENFAMILJSHUS|VA 1049491 VA-RITN">
+
+      <container id="798054" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1049491 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§630/1979 TUVAN 2 RIVNING AV UTHUS, NYBYGGN AV GARAGE SAMT TILLB YGGNAD OCH FASADBEKLÄDNAD AV ENFAMILJSHUS|A 358561 SIT-PL PL FAS">
+
+      <container id="798050" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 358561 SIT-PL PL FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§630/1979 TUVAN 2 RIVNING AV UTHUS, NYBYGGN AV GARAGE SAMT TILLB YGGNAD OCH FASADBEKLÄDNAD AV ENFAMILJSHUS|VA 1049491 VA-RITN|97191.tif">
+
+      <document id="798055" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:38b38b520d49884b4b610508927e6378cc949b58</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>F53B21C5F0FE1B1934E8D408EC3DD24E</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:38b38b520d49884b4b610508927e6378cc949b58</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>114706</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>97191.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§630/1979 TUVAN 2 RIVNING AV UTHUS, NYBYGGN AV GARAGE SAMT TILLB YGGNAD OCH FASADBEKLÄDNAD AV ENFAMILJSHUS|A 358571 PL FAS SEKT (GARAGE)">
+
+      <container id="798052" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 358571 PL FAS SEKT (GARAGE)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§630/1979 TUVAN 2 RIVNING AV UTHUS, NYBYGGN AV GARAGE SAMT TILLB YGGNAD OCH FASADBEKLÄDNAD AV ENFAMILJSHUS|A 358561 SIT-PL PL FAS|36046.tif">
+
+      <document id="798051" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:7cf8d1aebec8186f42f422c354769f422b29f663</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>B07221C2EEAD075B6E661B8C72C64EAD</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:7cf8d1aebec8186f42f422c354769f422b29f663</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>602736</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>36046.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§630/1979 TUVAN 2 RIVNING AV UTHUS, NYBYGGN AV GARAGE SAMT TILLB YGGNAD OCH FASADBEKLÄDNAD AV ENFAMILJSHUS|A 358571 PL FAS SEKT (GARAGE)|36047.tif">
+
+      <document id="798053" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:913c302b39974c7e2ddca0420bb4733328a3c880</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>BC7DC88A66EC65449B97BD4FCF7928DB</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:913c302b39974c7e2ddca0420bb4733328a3c880</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>328932</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>36047.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

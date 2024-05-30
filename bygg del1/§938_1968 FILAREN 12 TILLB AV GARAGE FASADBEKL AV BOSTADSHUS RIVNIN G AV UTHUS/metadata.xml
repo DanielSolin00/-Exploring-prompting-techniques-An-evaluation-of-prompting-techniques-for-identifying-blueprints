@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§938/1968 FILAREN 12 TILLB AV GARAGE FASADBEKL AV BOSTADSHUS RIVNIN G AV UTHUS">
+
+      <container id="514427" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLB AV GARAGE FASADBEKL AV BOSTADSHUS RIVNIN G AV UTHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>FILAREN 12</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1968-10-09</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>3189</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§938/1968 FILAREN 12 TILLB AV GARAGE FASADBEKL AV BOSTADSHUS RIVNIN G AV UTHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§938/1968 FILAREN 12 TILLB AV GARAGE FASADBEKL AV BOSTADSHUS RIVNIN G AV UTHUS|VA 1011161 VA-RITN">
+
+      <container id="514430" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1011161 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§938/1968 FILAREN 12 TILLB AV GARAGE FASADBEKL AV BOSTADSHUS RIVNIN G AV UTHUS|VA 1011171 VA-RITN">
+
+      <container id="514432" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1011171 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§938/1968 FILAREN 12 TILLB AV GARAGE FASADBEKL AV BOSTADSHUS RIVNIN G AV UTHUS|VA 1011161 VA-RITN|93317.tif">
+
+      <document id="514431" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:673948fc2fdee3b28c629ae1c3f04b16418c3a18</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>4E496B91BDE3F8DF8DE21A91F8385CBC</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:673948fc2fdee3b28c629ae1c3f04b16418c3a18</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>101754</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>93317.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§938/1968 FILAREN 12 TILLB AV GARAGE FASADBEKL AV BOSTADSHUS RIVNIN G AV UTHUS|VA 1011171 VA-RITN|93318.tif">
+
+      <document id="514433" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:88ec9df96c3546016b563fa82986333fa2f0e06b</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>751CDCD60DD15A246A4F8BC11CB504DE</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:88ec9df96c3546016b563fa82986333fa2f0e06b</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>110832</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>93318.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§938/1968 FILAREN 12 TILLB AV GARAGE FASADBEKL AV BOSTADSHUS RIVNIN G AV UTHUS|A 289101 FAS SIT KÄLLARPL SEKT A-A">
+
+      <container id="514428" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 289101 FAS SIT KÄLLARPL SEKT A-A</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§938/1968 FILAREN 12 TILLB AV GARAGE FASADBEKL AV BOSTADSHUS RIVNIN G AV UTHUS|A 289101 FAS SIT KÄLLARPL SEKT A-A|29044.tif">
+
+      <document id="514429" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:f9de28aad9621e3be5c606e11ec0fb11099faedd</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>785A9BE1AA80BAA079ABBF8CA592B0F5</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:f9de28aad9621e3be5c606e11ec0fb11099faedd</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>69932</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>29044.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

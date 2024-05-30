@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§795/1977 ALF 7 FASADBEKLÄDNAD AV ENBOSTADSHUS">
+
+      <container id="558162" type="building_case">
+         <attribute type="Ärendemening">
+            <value>FASADBEKLÄDNAD AV ENBOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>ALF 7</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1977-06-15</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>149</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§795/1977 ALF 7 FASADBEKLÄDNAD AV ENBOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§795/1977 ALF 7 FASADBEKLÄDNAD AV ENBOSTADSHUS|A 156181 FAS">
+
+      <container id="558163" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 156181 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§795/1977 ALF 7 FASADBEKLÄDNAD AV ENBOSTADSHUS|A 156191 FAS">
+
+      <container id="558165" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 156191 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§795/1977 ALF 7 FASADBEKLÄDNAD AV ENBOSTADSHUS|A 156181 FAS|15698.tif">
+
+      <document id="558164" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:9a317d1f309f805424a2024df463dedfdccf7413</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>49709E0B7E458E67F80E30383A04DEDC</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:9a317d1f309f805424a2024df463dedfdccf7413</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>148282</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>15698.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§795/1977 ALF 7 FASADBEKLÄDNAD AV ENBOSTADSHUS|A 156191 FAS|15699.tif">
+
+      <document id="558166" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:23029c565dc86cac7746a5a8197a2c41eb4ae2cf</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>359B86E9ABBE0471EA8FB4A697703EE8</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:23029c565dc86cac7746a5a8197a2c41eb4ae2cf</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>144240</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>15699.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

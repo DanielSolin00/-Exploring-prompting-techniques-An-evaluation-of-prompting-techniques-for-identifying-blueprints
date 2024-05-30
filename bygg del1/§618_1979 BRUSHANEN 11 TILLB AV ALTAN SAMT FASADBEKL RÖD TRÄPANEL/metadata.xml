@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§618/1979 BRUSHANEN 11 TILLB AV ALTAN SAMT FASADBEKL RÖD TRÄPANEL">
+
+      <container id="487136" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLB AV ALTAN SAMT FASADBEKL RÖD TRÄPANEL</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>BRUSHANEN 11</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1979-05-22</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>52518</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§618/1979 BRUSHANEN 11 TILLB AV ALTAN SAMT FASADBEKL RÖD TRÄPANEL</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§618/1979 BRUSHANEN 11 TILLB AV ALTAN SAMT FASADBEKL RÖD TRÄPANEL|A 358701 FAS">
+
+      <container id="487139" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 358701 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§618/1979 BRUSHANEN 11 TILLB AV ALTAN SAMT FASADBEKL RÖD TRÄPANEL|A 358691 SIT PL">
+
+      <container id="487137" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 358691 SIT PL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§618/1979 BRUSHANEN 11 TILLB AV ALTAN SAMT FASADBEKL RÖD TRÄPANEL|A 358701 FAS|36060.tif">
+
+      <document id="487140" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:e3a4c4ae9df4289c4119bcba1fbfb1aac0734ff7</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>E48DFB8BB35F1E2D71FE78DEE24382EB</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:e3a4c4ae9df4289c4119bcba1fbfb1aac0734ff7</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>593256</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>36060.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§618/1979 BRUSHANEN 11 TILLB AV ALTAN SAMT FASADBEKL RÖD TRÄPANEL|A 358691 SIT PL|36059.tif">
+
+      <document id="487138" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:b845d6957daf42eb7cbb7e9d67c2fe7163ae9c01</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>D117C814890FA9A79092EF718B0278E1</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:b845d6957daf42eb7cbb7e9d67c2fe7163ae9c01</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>614922</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>36059.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§572/1978 BERGSPRÄNGAREN 1 OM-OCH TILLB SAMT FASADBEKLÄDNAD AV BOSTADSHUS">
+
+      <container id="627918" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OM-OCH TILLB SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>BERGSPRÄNGAREN 1</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1978-05-24</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>51007</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§572/1978 BERGSPRÄNGAREN 1 OM-OCH TILLB SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§572/1978 BERGSPRÄNGAREN 1 OM-OCH TILLB SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 247801 FASADER">
+
+      <container id="627923" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 247801 FASADER</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§572/1978 BERGSPRÄNGAREN 1 OM-OCH TILLB SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 247781 SIT PLAN">
+
+      <container id="627919" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 247781 SIT PLAN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§572/1978 BERGSPRÄNGAREN 1 OM-OCH TILLB SAMT FASADBEKLÄDNAD AV BOSTADSHUS|VA 1002251 VA-RITN">
+
+      <container id="627925" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1002251 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§572/1978 BERGSPRÄNGAREN 1 OM-OCH TILLB SAMT FASADBEKLÄDNAD AV BOSTADSHUS|VA 1002261 VA-RITN">
+
+      <container id="627927" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1002261 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§572/1978 BERGSPRÄNGAREN 1 OM-OCH TILLB SAMT FASADBEKLÄDNAD AV BOSTADSHUS|VA 1002271 VA-RITN">
+
+      <container id="627929" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1002271 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§572/1978 BERGSPRÄNGAREN 1 OM-OCH TILLB SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 247801 FASADER|24905.tif">
+
+      <document id="627924" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:c37a282ee5cddd19676288b636fd7e55a05043e1</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>33AB8EBA41EA2649CC8D628D88F8F83A</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:c37a282ee5cddd19676288b636fd7e55a05043e1</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>163578</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>24905.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§572/1978 BERGSPRÄNGAREN 1 OM-OCH TILLB SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 247781 SIT PLAN|24903.tif">
+
+      <document id="627920" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:30a7abc2e97cb46bc14b4f622fc3821380d61e12</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>8D074B36868F1375B396350BB77EA746</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:30a7abc2e97cb46bc14b4f622fc3821380d61e12</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>203594</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>24903.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§572/1978 BERGSPRÄNGAREN 1 OM-OCH TILLB SAMT FASADBEKLÄDNAD AV BOSTADSHUS|VA 1002251 VA-RITN|92420.tif">
+
+      <document id="627926" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:99bd823660db664a7c73308062b8c815f3c68802</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>17E1D771E98E94615CD82B5E47A5C290</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:99bd823660db664a7c73308062b8c815f3c68802</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>90516</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>92420.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§572/1978 BERGSPRÄNGAREN 1 OM-OCH TILLB SAMT FASADBEKLÄDNAD AV BOSTADSHUS|VA 1002261 VA-RITN|92421.tif">
+
+      <document id="627928" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:bb13753bfdc1a9647b3438884e83fb1201799306</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>D0FDFA0833B62548D7BFC035D91FE79C</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:bb13753bfdc1a9647b3438884e83fb1201799306</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>179864</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>92421.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§572/1978 BERGSPRÄNGAREN 1 OM-OCH TILLB SAMT FASADBEKLÄDNAD AV BOSTADSHUS|VA 1002271 VA-RITN|92422.tif">
+
+      <document id="627930" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:e16f27f8c68369662db87f241c330688740023aa</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>4A426BDC3088C24C63C842ECEDADAD58</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:e16f27f8c68369662db87f241c330688740023aa</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>127180</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>92422.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§572/1978 BERGSPRÄNGAREN 1 OM-OCH TILLB SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 247791 SIT PLAN PLANER SEKTION">
+
+      <container id="627921" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 247791 SIT PLAN PLANER SEKTION</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§572/1978 BERGSPRÄNGAREN 1 OM-OCH TILLB SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 247791 SIT PLAN PLANER SEKTION|24904.tif">
+
+      <document id="627922" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:e52562e49daf1a4efac47b133d94443c997e72ad</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>1C247367D4BDA8759DD2B99841168B42</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:e52562e49daf1a4efac47b133d94443c997e72ad</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>86446</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>24904.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

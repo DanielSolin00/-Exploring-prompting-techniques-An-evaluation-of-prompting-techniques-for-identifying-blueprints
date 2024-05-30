@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§715/1972 ALEN 10 ÄNDRING OCH FASADBEKLÄDNAD AV BOSTADSHUS">
+
+      <container id="561922" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING OCH FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>ALEN 10</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1972-06-28</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>116</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§715/1972 ALEN 10 ÄNDRING OCH FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§715/1972 ALEN 10 ÄNDRING OCH FASADBEKLÄDNAD AV BOSTADSHUS|VA 1000071 VA-RITN">
+
+      <container id="561925" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1000071 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§715/1972 ALEN 10 ÄNDRING OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 303011 KOMPL RITN">
+
+      <container id="561923" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 303011 KOMPL RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§715/1972 ALEN 10 ÄNDRING OCH FASADBEKLÄDNAD AV BOSTADSHUS|VA 1000071 VA-RITN|92202.tif">
+
+      <document id="561926" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:18eec009bdb616292d2919a10905119121fe4cf8</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>41C01692F2D07123FE7B4BE1D9D7590E</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:18eec009bdb616292d2919a10905119121fe4cf8</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>106000</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>92202.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§715/1972 ALEN 10 ÄNDRING OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 303011 KOMPL RITN|30451.tif">
+
+      <document id="561924" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:ed15f14a27da19002ea18485595121eaa22602fd</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>86C391FB28F0CA288DC9211518439DC5</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:ed15f14a27da19002ea18485595121eaa22602fd</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>44752</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>30451.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

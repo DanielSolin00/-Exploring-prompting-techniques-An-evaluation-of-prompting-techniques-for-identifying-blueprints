@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§714/1972 SÖRBY 6:60 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS">
+
+      <container id="830104" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SÖRBY 6:60</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1972-06-28</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>19650</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§714/1972 SÖRBY 6:60 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§714/1972 SÖRBY 6:60 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 537661 SIT BOTTENPL FAS MOT NV,SO SEKT">
+
+      <container id="830105" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 537661 SIT BOTTENPL FAS MOT NV,SO SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§714/1972 SÖRBY 6:60 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 537661 SIT BOTTENPL FAS MOT NV,SO SEKT|54071.tif">
+
+      <document id="830106" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:7624d135b69af823238ad7a485b5e0f23b0b1b2a</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>4EA87F59165EB6C4C01F96C97558241C</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:7624d135b69af823238ad7a485b5e0f23b0b1b2a</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>52788</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>54071.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

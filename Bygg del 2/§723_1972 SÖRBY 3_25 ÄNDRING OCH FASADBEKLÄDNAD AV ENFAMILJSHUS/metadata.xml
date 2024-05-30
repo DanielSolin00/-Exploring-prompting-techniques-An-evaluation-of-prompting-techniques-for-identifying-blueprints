@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§723/1972 SÖRBY 3:25 ÄNDRING OCH FASADBEKLÄDNAD AV ENFAMILJSHUS">
+
+      <container id="731555" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING OCH FASADBEKLÄDNAD AV ENFAMILJSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SÖRBY 3:25</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1972-06-28</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>19550</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§723/1972 SÖRBY 3:25 ÄNDRING OCH FASADBEKLÄDNAD AV ENFAMILJSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§723/1972 SÖRBY 3:25 ÄNDRING OCH FASADBEKLÄDNAD AV ENFAMILJSHUS|A 538461 PL FAS">
+
+      <container id="731560" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 538461 PL FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§723/1972 SÖRBY 3:25 ÄNDRING OCH FASADBEKLÄDNAD AV ENFAMILJSHUS|A 538451 SIT KÄLLARPL">
+
+      <container id="731558" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 538451 SIT KÄLLARPL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§723/1972 SÖRBY 3:25 ÄNDRING OCH FASADBEKLÄDNAD AV ENFAMILJSHUS|A 538461 PL FAS|54151.tif">
+
+      <document id="731561" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:47e30829002c55814d4f9e8a84146abef125ca4e</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>08CA3A9237473CF3786FBE4557B417C3</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:47e30829002c55814d4f9e8a84146abef125ca4e</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>101178</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>54151.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§723/1972 SÖRBY 3:25 ÄNDRING OCH FASADBEKLÄDNAD AV ENFAMILJSHUS|A 538441 PL FAS (UPPMÄTN.RITN)">
+
+      <container id="731556" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 538441 PL FAS (UPPMÄTN.RITN)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§723/1972 SÖRBY 3:25 ÄNDRING OCH FASADBEKLÄDNAD AV ENFAMILJSHUS|A 538451 SIT KÄLLARPL|54150.tif">
+
+      <document id="731559" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:4f204b7d95a6bf4e11ccafd1b8b12837ab35713c</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>E494E532F481C213A310528B34A40C18</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:4f204b7d95a6bf4e11ccafd1b8b12837ab35713c</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>62972</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>54150.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§723/1972 SÖRBY 3:25 ÄNDRING OCH FASADBEKLÄDNAD AV ENFAMILJSHUS|A 538441 PL FAS (UPPMÄTN.RITN)|54149.tif">
+
+      <document id="731557" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:70b64fb9ad2213232b17f1a3849ce492fc7ab440</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>B59B9A91FD384F99365EA4C7D5143098</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:70b64fb9ad2213232b17f1a3849ce492fc7ab440</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>120790</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>54149.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

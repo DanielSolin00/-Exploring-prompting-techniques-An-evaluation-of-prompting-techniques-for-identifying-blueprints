@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§457/1983 GARNVIKEN 18:5 TILLBYGGNAD OCH FASADBEKLÄDNAD AV FRITIDSHUS">
+
+      <container id="493049" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD OCH FASADBEKLÄDNAD AV FRITIDSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>GARNVIKEN 18:5</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1983-05-25</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>53481</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§457/1983 GARNVIKEN 18:5 TILLBYGGNAD OCH FASADBEKLÄDNAD AV FRITIDSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§457/1983 GARNVIKEN 18:5 TILLBYGGNAD OCH FASADBEKLÄDNAD AV FRITIDSHUS|A 555571 SIT PL PL FAS">
+
+      <container id="493052" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 555571 SIT PL PL FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§457/1983 GARNVIKEN 18:5 TILLBYGGNAD OCH FASADBEKLÄDNAD AV FRITIDSHUS|A 555571 SIT PL PL FAS|55894.tif">
+
+      <document id="493053" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:46ac814526f84c8495aac36c053ee469950ef5e4</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>8B74A2E21B045E2C7F15DD1AA5167D9C</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:46ac814526f84c8495aac36c053ee469950ef5e4</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>725344</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>55894.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§457/1983 GARNVIKEN 18:5 TILLBYGGNAD OCH FASADBEKLÄDNAD AV FRITIDSHUS|A 555561 UTDR UR KARTA (TELELEDN INRITAD)">
+
+      <container id="493050" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 555561 UTDR UR KARTA (TELELEDN INRITAD)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§457/1983 GARNVIKEN 18:5 TILLBYGGNAD OCH FASADBEKLÄDNAD AV FRITIDSHUS|A 555561 UTDR UR KARTA (TELELEDN INRITAD)|55893.tif">
+
+      <document id="493051" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:52cf6e4d97ec0a4ba93c4bff26b495ff80eb3935</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>4E68D24362C81955747B8E83867715A6</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:52cf6e4d97ec0a4ba93c4bff26b495ff80eb3935</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>138534</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>55893.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

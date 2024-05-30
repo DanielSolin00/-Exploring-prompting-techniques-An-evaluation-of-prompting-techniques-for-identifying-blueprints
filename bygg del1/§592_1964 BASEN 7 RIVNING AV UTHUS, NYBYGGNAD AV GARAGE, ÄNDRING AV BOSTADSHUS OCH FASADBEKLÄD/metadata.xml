@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1964|§592/1964 BASEN 7 RIVNING AV UTHUS, NYBYGGNAD AV GARAGE, ÄNDRING AV BOSTADSHUS OCH FASADBEKLÄDN">
+
+      <container id="482985" type="building_case">
+         <attribute type="Ärendemening">
+            <value>RIVNING AV UTHUS, NYBYGGNAD AV GARAGE, ÄNDRING AV BOSTADSHUS OCH FASADBEKLÄDN</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>BASEN 7</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1964-06-03</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>996</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§592/1964 BASEN 7 RIVNING AV UTHUS, NYBYGGNAD AV GARAGE, ÄNDRING AV BOSTADSHUS OCH FASADBEKLÄDN</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1964|§592/1964 BASEN 7 RIVNING AV UTHUS, NYBYGGNAD AV GARAGE, ÄNDRING AV BOSTADSHUS OCH FASADBEKLÄDN|A 235441 FAS">
+
+      <container id="482988" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 235441 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1964|§592/1964 BASEN 7 RIVNING AV UTHUS, NYBYGGNAD AV GARAGE, ÄNDRING AV BOSTADSHUS OCH FASADBEKLÄDN|VA 1001761 VA-RITN">
+
+      <container id="482992" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1001761 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1964|§592/1964 BASEN 7 RIVNING AV UTHUS, NYBYGGNAD AV GARAGE, ÄNDRING AV BOSTADSHUS OCH FASADBEKLÄDN|VA 1001771 VA-RITN">
+
+      <container id="482994" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1001771 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1964|§592/1964 BASEN 7 RIVNING AV UTHUS, NYBYGGNAD AV GARAGE, ÄNDRING AV BOSTADSHUS OCH FASADBEKLÄDN|A 235441 FAS|23669.tif">
+
+      <document id="482989" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:928aa459d3010f6442319d43532cbbe1f96f01f4</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>6F415EC5667E5E8B8F5AB30493037BD5</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:928aa459d3010f6442319d43532cbbe1f96f01f4</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>182476</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>23669.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1964|§592/1964 BASEN 7 RIVNING AV UTHUS, NYBYGGNAD AV GARAGE, ÄNDRING AV BOSTADSHUS OCH FASADBEKLÄDN|VA 1001761 VA-RITN|92371.tif">
+
+      <document id="482993" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:e17cf89180e2ad98eb205af2fc2cd6fbc6cf303f</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>C1EC0E904BAB3EE36BA26E7CCC8E6A8C</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:e17cf89180e2ad98eb205af2fc2cd6fbc6cf303f</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>71678</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>92371.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1964|§592/1964 BASEN 7 RIVNING AV UTHUS, NYBYGGNAD AV GARAGE, ÄNDRING AV BOSTADSHUS OCH FASADBEKLÄDN|VA 1001771 VA-RITN|92372.tif">
+
+      <document id="482995" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:a4852471fd82a4f2b733a1e723925f17680525e4</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>DFB59299B47E011B5668B47AA53354DB</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:a4852471fd82a4f2b733a1e723925f17680525e4</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>89886</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>92372.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1964|§592/1964 BASEN 7 RIVNING AV UTHUS, NYBYGGNAD AV GARAGE, ÄNDRING AV BOSTADSHUS OCH FASADBEKLÄDN|A 235451 FAS SEKT PL SIT PÅ GARAGE">
+
+      <container id="482990" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 235451 FAS SEKT PL SIT PÅ GARAGE</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1964|§592/1964 BASEN 7 RIVNING AV UTHUS, NYBYGGNAD AV GARAGE, ÄNDRING AV BOSTADSHUS OCH FASADBEKLÄDN|A 235431 SEKT SIT BOTTEN- OCH VINDSPL">
+
+      <container id="482986" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 235431 SEKT SIT BOTTEN- OCH VINDSPL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1964|§592/1964 BASEN 7 RIVNING AV UTHUS, NYBYGGNAD AV GARAGE, ÄNDRING AV BOSTADSHUS OCH FASADBEKLÄDN|A 235451 FAS SEKT PL SIT PÅ GARAGE|23670.tif">
+
+      <document id="482991" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:14f976996dc03fb0bbd3b386d76a62eb7066c700</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>91816A236A40C3BA0B5C1FBDC75201AC</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:14f976996dc03fb0bbd3b386d76a62eb7066c700</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>115780</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>23670.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1964|§592/1964 BASEN 7 RIVNING AV UTHUS, NYBYGGNAD AV GARAGE, ÄNDRING AV BOSTADSHUS OCH FASADBEKLÄDN|A 235431 SEKT SIT BOTTEN- OCH VINDSPL|23668.tif">
+
+      <document id="482987" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:ab7a9bbc1db9b17cf7e2f1332bb85a099b1fae60</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>62CBEF79A9F79442F127CCD9DC9EA22A</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:ab7a9bbc1db9b17cf7e2f1332bb85a099b1fae60</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>135598</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>23668.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1958|§425/1958 SILVERHARPAN 1 TILLBYGGNAD AV TAKKUPA SAMT FASADBEKLÄDNAD">
+
+      <container id="719372" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD AV TAKKUPA SAMT FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SILVERHARPAN 1</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1958-06-04</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>15174</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§425/1958 SILVERHARPAN 1 TILLBYGGNAD AV TAKKUPA SAMT FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1958|§425/1958 SILVERHARPAN 1 TILLBYGGNAD AV TAKKUPA SAMT FASADBEKLÄDNAD|A 350851 PL FAS MOT NV">
+
+      <container id="719373" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 350851 PL FAS MOT NV</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1958|§425/1958 SILVERHARPAN 1 TILLBYGGNAD AV TAKKUPA SAMT FASADBEKLÄDNAD|A 350851 PL FAS MOT NV|35274.tif">
+
+      <document id="719374" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:b69973e84042c96850c01daf306c7b91447317f6</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>05B566FBCD02821B660BD79E09A45B9B</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:b69973e84042c96850c01daf306c7b91447317f6</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>96538</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35274.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

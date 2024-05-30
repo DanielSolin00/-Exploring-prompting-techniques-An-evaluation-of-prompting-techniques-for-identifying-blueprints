@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1963|§516/1963 FÖRGÄTMIGEJEN 15 OM- OCH TILLBYGGNAD SAMT FASADTEGEL">
+
+      <container id="591853" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OM- OCH TILLBYGGNAD SAMT FASADTEGEL</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>FÖRGÄTMIGEJEN 15</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1963-06-11</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>3826</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§516/1963 FÖRGÄTMIGEJEN 15 OM- OCH TILLBYGGNAD SAMT FASADTEGEL</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1963|§516/1963 FÖRGÄTMIGEJEN 15 OM- OCH TILLBYGGNAD SAMT FASADTEGEL|A 299001 SIT FAS PL SEKT">
+
+      <container id="591854" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 299001 SIT FAS PL SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1963|§516/1963 FÖRGÄTMIGEJEN 15 OM- OCH TILLBYGGNAD SAMT FASADTEGEL|A 299001 SIT FAS PL SEKT|30050.tif">
+
+      <document id="591855" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:46229d0a415a0dc01849560afeb441ba37b59add</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>7EE5E9D07599E0A545E2B355BA1E5219</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:46229d0a415a0dc01849560afeb441ba37b59add</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>66676</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>30050.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

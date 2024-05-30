@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§56/1965 FORS 2:101 BEKLÄDN AV MALMTEX-PLATTOR, BYTE AV TVÅ FÖNSTE R PÅ VÄSTRA FASADEN SAMT RIVN AV GLASVERANDA P">
+
+      <container id="464433" type="building_case">
+         <attribute type="Ärendemening">
+            <value>BEKLÄDN AV MALMTEX-PLATTOR, BYTE AV TVÅ FÖNSTE R PÅ VÄSTRA FASADEN SAMT RIVN AV GLASVERANDA P</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>FORS 2:101</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1965-05-19</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>52941</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§56/1965 FORS 2:101 BEKLÄDN AV MALMTEX-PLATTOR, BYTE AV TVÅ FÖNSTE R PÅ VÄSTRA FASADEN SAMT RIVN AV GLASVERANDA P</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§56/1965 FORS 2:101 BEKLÄDN AV MALMTEX-PLATTOR, BYTE AV TVÅ FÖNSTE R PÅ VÄSTRA FASADEN SAMT RIVN AV GLASVERANDA P|A 516841 FAS PL SEKT">
+
+      <container id="464434" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 516841 FAS PL SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§56/1965 FORS 2:101 BEKLÄDN AV MALMTEX-PLATTOR, BYTE AV TVÅ FÖNSTE R PÅ VÄSTRA FASADEN SAMT RIVN AV GLASVERANDA P|A 516841 FAS PL SEKT|51946.tif">
+
+      <document id="464435" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:38790c86393450227d1d001b3212deb79c03dc1e</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>BD34BD5052829BBF499515020C214524</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:38790c86393450227d1d001b3212deb79c03dc1e</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>137094</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>51946.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

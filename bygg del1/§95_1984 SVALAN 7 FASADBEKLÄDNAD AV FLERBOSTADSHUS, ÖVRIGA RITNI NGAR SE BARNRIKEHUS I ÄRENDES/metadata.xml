@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§95/1984 SVALAN 7 FASADBEKLÄDNAD AV FLERBOSTADSHUS, ÖVRIGA RITNI NGAR SE BARNRIKEHUS I ÄRENDESKÅPET">
+
+      <container id="720597" type="building_case">
+         <attribute type="Ärendemening">
+            <value>FASADBEKLÄDNAD AV FLERBOSTADSHUS, ÖVRIGA RITNI NGAR SE BARNRIKEHUS I ÄRENDESKÅPET</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SVALAN 7</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1984-04-12</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>18705</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§95/1984 SVALAN 7 FASADBEKLÄDNAD AV FLERBOSTADSHUS, ÖVRIGA RITNI NGAR SE BARNRIKEHUS I ÄRENDESKÅPET</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§95/1984 SVALAN 7 FASADBEKLÄDNAD AV FLERBOSTADSHUS, ÖVRIGA RITNI NGAR SE BARNRIKEHUS I ÄRENDESKÅPET|A 580011 FAS">
+
+      <container id="720598" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 580011 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§95/1984 SVALAN 7 FASADBEKLÄDNAD AV FLERBOSTADSHUS, ÖVRIGA RITNI NGAR SE BARNRIKEHUS I ÄRENDESKÅPET|A 580011 FAS|58351.tif">
+
+      <document id="720599" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:7bf2ed54ebc214e1c4f71a41dbdf2bfca07e85d4</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>5D37B36D266FEF7F3D7F4E0745B0DB58</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:7bf2ed54ebc214e1c4f71a41dbdf2bfca07e85d4</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>112370</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>58351.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

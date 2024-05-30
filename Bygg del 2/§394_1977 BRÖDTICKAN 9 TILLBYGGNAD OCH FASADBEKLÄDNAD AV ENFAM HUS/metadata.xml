@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§394/1977 BRÖDTICKAN 9 TILLBYGGNAD OCH FASADBEKLÄDNAD AV ENFAM HUS">
+
+      <container id="520679" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD OCH FASADBEKLÄDNAD AV ENFAM HUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>BRÖDTICKAN 9</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1977-04-20</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>52580</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§394/1977 BRÖDTICKAN 9 TILLBYGGNAD OCH FASADBEKLÄDNAD AV ENFAM HUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§394/1977 BRÖDTICKAN 9 TILLBYGGNAD OCH FASADBEKLÄDNAD AV ENFAM HUS|A 157411 SIT PL">
+
+      <container id="520682" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 157411 SIT PL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§394/1977 BRÖDTICKAN 9 TILLBYGGNAD OCH FASADBEKLÄDNAD AV ENFAM HUS|A 157401 FAS PL SEKT">
+
+      <container id="520680" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 157401 FAS PL SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§394/1977 BRÖDTICKAN 9 TILLBYGGNAD OCH FASADBEKLÄDNAD AV ENFAM HUS|A 157411 SIT PL|15821.tif">
+
+      <document id="520683" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:7d53fe41de76f04bb0170269aeb6e7a5c78445fd</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>BD0DD536F5F2A9619E40E48613628E6C</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:7d53fe41de76f04bb0170269aeb6e7a5c78445fd</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>89438</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>15821.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§394/1977 BRÖDTICKAN 9 TILLBYGGNAD OCH FASADBEKLÄDNAD AV ENFAM HUS|A 157401 FAS PL SEKT|15820.tif">
+
+      <document id="520681" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:32903bb176a23489cc498a17610e756eba1ac4a9</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>A089399859BEBC5B8576544E78BD3601</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:32903bb176a23489cc498a17610e756eba1ac4a9</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>374624</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>15820.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

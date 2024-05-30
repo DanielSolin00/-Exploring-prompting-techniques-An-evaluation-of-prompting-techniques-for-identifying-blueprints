@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§691/1982 ALINGSÅKER 4:3 OMBYGGNAD OCH FASADBEKLÄDNAD MED STÅENDE TRÄPA NEL AV BOSTADSHUS">
+
+      <container id="590784" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OMBYGGNAD OCH FASADBEKLÄDNAD MED STÅENDE TRÄPA NEL AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>ALINGSÅKER 4:3</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1982-06-23</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>160</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§691/1982 ALINGSÅKER 4:3 OMBYGGNAD OCH FASADBEKLÄDNAD MED STÅENDE TRÄPA NEL AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§691/1982 ALINGSÅKER 4:3 OMBYGGNAD OCH FASADBEKLÄDNAD MED STÅENDE TRÄPA NEL AV BOSTADSHUS|A 515351 PL SEKT">
+
+      <container id="590789" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 515351 PL SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§691/1982 ALINGSÅKER 4:3 OMBYGGNAD OCH FASADBEKLÄDNAD MED STÅENDE TRÄPA NEL AV BOSTADSHUS|A 515341 SIT PLAN PL (BEF)">
+
+      <container id="590787" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 515341 SIT PLAN PL (BEF)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§691/1982 ALINGSÅKER 4:3 OMBYGGNAD OCH FASADBEKLÄDNAD MED STÅENDE TRÄPA NEL AV BOSTADSHUS|A 515351 PL SEKT|51797.tif">
+
+      <document id="590790" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:3c536c1e31ef08e8126cb4c65a757f912853198c</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>390683BCD8DFA78419960E771BF1C86A</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:3c536c1e31ef08e8126cb4c65a757f912853198c</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>183040</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>51797.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§691/1982 ALINGSÅKER 4:3 OMBYGGNAD OCH FASADBEKLÄDNAD MED STÅENDE TRÄPA NEL AV BOSTADSHUS|A 515331 UTDRAG UR EK KARTA">
+
+      <container id="590785" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 515331 UTDRAG UR EK KARTA</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§691/1982 ALINGSÅKER 4:3 OMBYGGNAD OCH FASADBEKLÄDNAD MED STÅENDE TRÄPA NEL AV BOSTADSHUS|A 515341 SIT PLAN PL (BEF)|51796.tif">
+
+      <document id="590788" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:897add075087bcffd1b757fbe21b9051607d2aae</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>EDA3590A8685DC696236350BE20171B0</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:897add075087bcffd1b757fbe21b9051607d2aae</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>79646</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>51796.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§691/1982 ALINGSÅKER 4:3 OMBYGGNAD OCH FASADBEKLÄDNAD MED STÅENDE TRÄPA NEL AV BOSTADSHUS|A 515331 UTDRAG UR EK KARTA|51795.tif">
+
+      <document id="590786" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:267fedc346918e28cfd834aa9b07ff074bda4251</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>ABAF4ED78CE9892058C4080B1347CC75</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:267fedc346918e28cfd834aa9b07ff074bda4251</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>181068</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>51795.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

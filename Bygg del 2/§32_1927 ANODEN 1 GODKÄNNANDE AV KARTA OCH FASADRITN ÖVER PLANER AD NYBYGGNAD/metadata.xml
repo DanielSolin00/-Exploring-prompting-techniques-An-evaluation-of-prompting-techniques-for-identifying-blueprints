@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1927|§32/1927 ANODEN 1 GODKÄNNANDE AV KARTA OCH FASADRITN ÖVER PLANER AD NYBYGGNAD">
+
+      <container id="517035" type="building_case">
+         <attribute type="Ärendemening">
+            <value>GODKÄNNANDE AV KARTA OCH FASADRITN ÖVER PLANER AD NYBYGGNAD</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>ANODEN 1</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1927-04-01</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>281</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§32/1927 ANODEN 1 GODKÄNNANDE AV KARTA OCH FASADRITN ÖVER PLANER AD NYBYGGNAD</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1927|§32/1927 ANODEN 1 GODKÄNNANDE AV KARTA OCH FASADRITN ÖVER PLANER AD NYBYGGNAD|A 660191 FAS MOT VÄGEN SMÄLTVERK M M">
+
+      <container id="517036" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 660191 FAS MOT VÄGEN SMÄLTVERK M M</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1927|§32/1927 ANODEN 1 GODKÄNNANDE AV KARTA OCH FASADRITN ÖVER PLANER AD NYBYGGNAD|A 660191 FAS MOT VÄGEN SMÄLTVERK M M|66406.tif">
+
+      <document id="517037" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:d35c0064a7a8a90e8bd1d01f70fce3aa9a2f7517</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>93B82862CE264EB43DDC3DABB1C31424</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:d35c0064a7a8a90e8bd1d01f70fce3aa9a2f7517</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>68802</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>66406.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§915/1977 SILKESFJÄRILEN 2 ÄNDRING AV FÖNSTER SAMT TILLÄGGSISOLERING OCH FASADBEKLÄDNAD MED LOCKPANEL">
+
+      <container id="819253" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING AV FÖNSTER SAMT TILLÄGGSISOLERING OCH FASADBEKLÄDNAD MED LOCKPANEL</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SILKESFJÄRILEN 2</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1977-08-17</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>15127</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§915/1977 SILKESFJÄRILEN 2 ÄNDRING AV FÖNSTER SAMT TILLÄGGSISOLERING OCH FASADBEKLÄDNAD MED LOCKPANEL</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§915/1977 SILKESFJÄRILEN 2 ÄNDRING AV FÖNSTER SAMT TILLÄGGSISOLERING OCH FASADBEKLÄDNAD MED LOCKPANEL|A 201881 SITPL PL FAS">
+
+      <container id="819254" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 201881 SITPL PL FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§915/1977 SILKESFJÄRILEN 2 ÄNDRING AV FÖNSTER SAMT TILLÄGGSISOLERING OCH FASADBEKLÄDNAD MED LOCKPANEL|A 201881 SITPL PL FAS|20307.tif">
+
+      <document id="819255" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:2bd63946044a4845b124adc0e118c78ae3120138</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>81B8C0998115637A1D5CE40B965A4712</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:2bd63946044a4845b124adc0e118c78ae3120138</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>72826</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>20307.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

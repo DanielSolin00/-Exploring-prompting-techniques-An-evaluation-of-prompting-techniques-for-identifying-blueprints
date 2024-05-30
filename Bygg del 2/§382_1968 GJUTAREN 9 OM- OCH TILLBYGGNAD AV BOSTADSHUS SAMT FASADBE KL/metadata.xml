@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§382/1968 GJUTAREN 9 OM- OCH TILLBYGGNAD AV BOSTADSHUS SAMT FASADBE KL">
+
+      <container id="509357" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OM- OCH TILLBYGGNAD AV BOSTADSHUS SAMT FASADBE KL</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>GJUTAREN 9</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1968-04-10</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>53805</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§382/1968 GJUTAREN 9 OM- OCH TILLBYGGNAD AV BOSTADSHUS SAMT FASADBE KL</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§382/1968 GJUTAREN 9 OM- OCH TILLBYGGNAD AV BOSTADSHUS SAMT FASADBE KL|A 302171 PL FAS SEKT">
+
+      <container id="509358" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 302171 PL FAS SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§382/1968 GJUTAREN 9 OM- OCH TILLBYGGNAD AV BOSTADSHUS SAMT FASADBE KL|A 302171 PL FAS SEKT|30367.tif">
+
+      <document id="509359" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:0a91b4e75d27baa8dcb7e3645ff7e97aed664a3f</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>B9D7F264C1B859C4319125B3AE3A79F9</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:0a91b4e75d27baa8dcb7e3645ff7e97aed664a3f</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>74944</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>30367.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

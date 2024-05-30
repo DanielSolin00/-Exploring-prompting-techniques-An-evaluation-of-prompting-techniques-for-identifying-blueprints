@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§496/1978 ÅSYN 6 BYTE AV FÖNSTER SAMT FASADBEKL AV BOSTADSHUS">
+
+      <container id="737920" type="building_case">
+         <attribute type="Ärendemening">
+            <value>BYTE AV FÖNSTER SAMT FASADBEKL AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>ÅSYN 6</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1978-04-26</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>23585</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§496/1978 ÅSYN 6 BYTE AV FÖNSTER SAMT FASADBEKL AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§496/1978 ÅSYN 6 BYTE AV FÖNSTER SAMT FASADBEKL AV BOSTADSHUS|A 262031 FAS MOT Ö V">
+
+      <container id="737921" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 262031 FAS MOT Ö V</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§496/1978 ÅSYN 6 BYTE AV FÖNSTER SAMT FASADBEKL AV BOSTADSHUS|A 262031 FAS MOT Ö V|26333.tif">
+
+      <document id="737922" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:37a33a0d0c5266b44bca1547ebf2fa68cb105ef4</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>4437E9CE5937174397F4941CF7789BA1</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:37a33a0d0c5266b44bca1547ebf2fa68cb105ef4</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>391286</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>26333.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

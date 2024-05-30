@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1993|§86/1993 SJÖFRUN 1 INSÄTTNING AV DÖRR I FASAD MOT GATA">
+
+      <container id="794940" type="building_case">
+         <attribute type="Ärendemening">
+            <value>INSÄTTNING AV DÖRR I FASAD MOT GATA</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SJÖFRUN 1</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1993-03-24</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>15352</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§86/1993 SJÖFRUN 1 INSÄTTNING AV DÖRR I FASAD MOT GATA</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1993|§86/1993 SJÖFRUN 1 INSÄTTNING AV DÖRR I FASAD MOT GATA|A 876521 FAS MOT SPANNMÅLSGATAN">
+
+      <container id="794941" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 876521 FAS MOT SPANNMÅLSGATAN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1993|§86/1993 SJÖFRUN 1 INSÄTTNING AV DÖRR I FASAD MOT GATA|A 876521 FAS MOT SPANNMÅLSGATAN|88109.tif">
+
+      <document id="794942" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:ad29d9b5377468ce131f9523e9b488902639386f</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>4D5A9AB35EC05AD27DE297C2C8454226</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:ad29d9b5377468ce131f9523e9b488902639386f</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>713686</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>88109.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

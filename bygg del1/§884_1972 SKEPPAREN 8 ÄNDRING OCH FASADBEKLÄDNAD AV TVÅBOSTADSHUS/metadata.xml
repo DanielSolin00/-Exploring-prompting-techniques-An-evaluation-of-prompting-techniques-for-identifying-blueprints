@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§884/1972 SKEPPAREN 8 ÄNDRING OCH FASADBEKLÄDNAD AV TVÅBOSTADSHUS">
+
+      <container id="792328" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING OCH FASADBEKLÄDNAD AV TVÅBOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SKEPPAREN 8</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1972-08-23</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>15557</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§884/1972 SKEPPAREN 8 ÄNDRING OCH FASADBEKLÄDNAD AV TVÅBOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§884/1972 SKEPPAREN 8 ÄNDRING OCH FASADBEKLÄDNAD AV TVÅBOSTADSHUS|A 351771 FAS MOT SV,NV">
+
+      <container id="792329" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 351771 FAS MOT SV,NV</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§884/1972 SKEPPAREN 8 ÄNDRING OCH FASADBEKLÄDNAD AV TVÅBOSTADSHUS|A 351781 FAS MOT NO,SO">
+
+      <container id="792331" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 351781 FAS MOT NO,SO</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§884/1972 SKEPPAREN 8 ÄNDRING OCH FASADBEKLÄDNAD AV TVÅBOSTADSHUS|A 351771 FAS MOT SV,NV|35366.tif">
+
+      <document id="792330" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:8075ba1e13d5aebb4f7f5d19a3b6126ef11ef43e</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>901FEB04046E4721839D7991F345F620</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:8075ba1e13d5aebb4f7f5d19a3b6126ef11ef43e</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>81444</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35366.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§884/1972 SKEPPAREN 8 ÄNDRING OCH FASADBEKLÄDNAD AV TVÅBOSTADSHUS|A 351781 FAS MOT NO,SO|35367.tif">
+
+      <document id="792332" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:b98c50a133255869d9ee2466a97345d644571b74</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>EC32225F232ED13D3809C625964F6D27</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:b98c50a133255869d9ee2466a97345d644571b74</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>79308</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35367.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

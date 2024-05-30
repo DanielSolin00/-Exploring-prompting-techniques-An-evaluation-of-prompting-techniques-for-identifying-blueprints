@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1963|§987/1963 FILAREN 10 OM- OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSH US NYBYGGNAD AV GARAGE">
+
+      <container id="549306" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OM- OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSH US NYBYGGNAD AV GARAGE</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>FILAREN 10</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1963-12-04</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>3175</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§987/1963 FILAREN 10 OM- OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSH US NYBYGGNAD AV GARAGE</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1963|§987/1963 FILAREN 10 OM- OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSH US NYBYGGNAD AV GARAGE|VA 1011121 VA-RITN">
+
+      <container id="549311" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1011121 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1963|§987/1963 FILAREN 10 OM- OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSH US NYBYGGNAD AV GARAGE|VA 1011131 VA-RITN">
+
+      <container id="549313" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1011131 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1963|§987/1963 FILAREN 10 OM- OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSH US NYBYGGNAD AV GARAGE|VA 1011141 VA-RITN">
+
+      <container id="549315" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1011141 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1963|§987/1963 FILAREN 10 OM- OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSH US NYBYGGNAD AV GARAGE|VA 1011121 VA-RITN|93313.tif">
+
+      <document id="549312" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:8a719650263f35149ce7b90894e24cb694c1dd48</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>DFB658DDD214F9A476AAC9213260DBE3</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:8a719650263f35149ce7b90894e24cb694c1dd48</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>102464</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>93313.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1963|§987/1963 FILAREN 10 OM- OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSH US NYBYGGNAD AV GARAGE|VA 1011131 VA-RITN|93314.tif">
+
+      <document id="549314" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:dc95f04bc20531c95b6a15f5d8a91747eab9ac73</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>FD11C17C57FFB910C444647F0C3691F3</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:dc95f04bc20531c95b6a15f5d8a91747eab9ac73</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>83456</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>93314.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1963|§987/1963 FILAREN 10 OM- OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSH US NYBYGGNAD AV GARAGE|VA 1011141 VA-RITN|93315.tif">
+
+      <document id="549316" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:10d97d8574c6a7944fd11d713f5b96e45b4a2e32</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>08777CA937902094CCC3265A58F3FDD1</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:10d97d8574c6a7944fd11d713f5b96e45b4a2e32</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>108272</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>93315.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1963|§987/1963 FILAREN 10 OM- OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSH US NYBYGGNAD AV GARAGE|A 288941 FAS PL SIT SKORSTENSRITN">
+
+      <container id="549307" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 288941 FAS PL SIT SKORSTENSRITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1963|§987/1963 FILAREN 10 OM- OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSH US NYBYGGNAD AV GARAGE|A 288951 FAS SEKT PL SIT (GARAGET)">
+
+      <container id="549309" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 288951 FAS SEKT PL SIT (GARAGET)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1963|§987/1963 FILAREN 10 OM- OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSH US NYBYGGNAD AV GARAGE|A 288941 FAS PL SIT SKORSTENSRITN|29028.tif">
+
+      <document id="549308" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:d2899b497ff7fecd4429fb792dc34514e2892886</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>F4661C1E26490D2B7A29AF98B65003A6</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:d2899b497ff7fecd4429fb792dc34514e2892886</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>34918</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>29028.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1963|§987/1963 FILAREN 10 OM- OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSH US NYBYGGNAD AV GARAGE|A 288951 FAS SEKT PL SIT (GARAGET)|29029.tif">
+
+      <document id="549310" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:9cf1159d2beb39e070da43078c6bb8f3413dddc7</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>406595E2BF49C2E5A5E0C722F81D92A9</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:9cf1159d2beb39e070da43078c6bb8f3413dddc7</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>46530</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>29029.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

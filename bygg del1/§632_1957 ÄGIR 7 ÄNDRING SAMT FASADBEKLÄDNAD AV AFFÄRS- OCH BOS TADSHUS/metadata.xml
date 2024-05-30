@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1957|§632/1957 ÄGIR 7 ÄNDRING SAMT FASADBEKLÄDNAD AV AFFÄRS- OCH BOS TADSHUS">
+
+      <container id="716589" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING SAMT FASADBEKLÄDNAD AV AFFÄRS- OCH BOS TADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>ÄGIR 7</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1957-10-02</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>23629</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§632/1957 ÄGIR 7 ÄNDRING SAMT FASADBEKLÄDNAD AV AFFÄRS- OCH BOS TADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1957|§632/1957 ÄGIR 7 ÄNDRING SAMT FASADBEKLÄDNAD AV AFFÄRS- OCH BOS TADSHUS|A 385161 FAS MOT KAPELLGATAN">
+
+      <container id="716590" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 385161 FAS MOT KAPELLGATAN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1957|§632/1957 ÄGIR 7 ÄNDRING SAMT FASADBEKLÄDNAD AV AFFÄRS- OCH BOS TADSHUS|A 385171 FAS MOT TORSEREDSVÄGEN">
+
+      <container id="716592" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 385171 FAS MOT TORSEREDSVÄGEN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1957|§632/1957 ÄGIR 7 ÄNDRING SAMT FASADBEKLÄDNAD AV AFFÄRS- OCH BOS TADSHUS|A 385161 FAS MOT KAPELLGATAN|38712.tif">
+
+      <document id="716591" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:e39376f38fc23fca53abefce1042f95846e65913</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>CE16A9476EDDAF39985B2185AD096979</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:e39376f38fc23fca53abefce1042f95846e65913</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>80920</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>38712.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1957|§632/1957 ÄGIR 7 ÄNDRING SAMT FASADBEKLÄDNAD AV AFFÄRS- OCH BOS TADSHUS|A 385171 FAS MOT TORSEREDSVÄGEN|38713.tif">
+
+      <document id="716593" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:df99e314a5c7d99f684986d6fe8836504f9a7ced</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>25E6A23C023F288C3ADCD72BB0D08458</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:df99e314a5c7d99f684986d6fe8836504f9a7ced</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>90256</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>38713.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

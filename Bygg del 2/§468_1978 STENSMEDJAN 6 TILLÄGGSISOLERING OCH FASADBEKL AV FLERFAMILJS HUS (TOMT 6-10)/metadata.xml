@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§468/1978 STENSMEDJAN 6 TILLÄGGSISOLERING OCH FASADBEKL AV FLERFAMILJS HUS (TOMT 6-10)">
+
+      <container id="710345" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLÄGGSISOLERING OCH FASADBEKL AV FLERFAMILJS HUS (TOMT 6-10)</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>STENSMEDJAN 6</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1978-04-26</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>17728</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§468/1978 STENSMEDJAN 6 TILLÄGGSISOLERING OCH FASADBEKL AV FLERFAMILJS HUS (TOMT 6-10)</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§468/1978 STENSMEDJAN 6 TILLÄGGSISOLERING OCH FASADBEKL AV FLERFAMILJS HUS (TOMT 6-10)|A 241911 SIT">
+
+      <container id="710350" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 241911 SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§468/1978 STENSMEDJAN 6 TILLÄGGSISOLERING OCH FASADBEKL AV FLERFAMILJS HUS (TOMT 6-10)|A 241891 PL FAS MOT N">
+
+      <container id="710346" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 241891 PL FAS MOT N</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§468/1978 STENSMEDJAN 6 TILLÄGGSISOLERING OCH FASADBEKL AV FLERFAMILJS HUS (TOMT 6-10)|A 241901 FAS MOT S,Ö,V">
+
+      <container id="710348" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 241901 FAS MOT S,Ö,V</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§468/1978 STENSMEDJAN 6 TILLÄGGSISOLERING OCH FASADBEKL AV FLERFAMILJS HUS (TOMT 6-10)|A 241911 SIT|24316.tif">
+
+      <document id="710351" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:8cf8a1a9e50fb44aea0f5d27dde994cd0bdcaa5a</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>E37ADBE568EA6E036AE6FAC51812E98F</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:8cf8a1a9e50fb44aea0f5d27dde994cd0bdcaa5a</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>130994</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>24316.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§468/1978 STENSMEDJAN 6 TILLÄGGSISOLERING OCH FASADBEKL AV FLERFAMILJS HUS (TOMT 6-10)|A 241891 PL FAS MOT N|24314.tif">
+
+      <document id="710347" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:7d28975240cd47c0f34c98e96bbfe6460ba3d658</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>2569186E1DA2C5FA029295F416ED14A6</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:7d28975240cd47c0f34c98e96bbfe6460ba3d658</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>239878</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>24314.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§468/1978 STENSMEDJAN 6 TILLÄGGSISOLERING OCH FASADBEKL AV FLERFAMILJS HUS (TOMT 6-10)|A 241901 FAS MOT S,Ö,V|24315.tif">
+
+      <document id="710349" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:1bed1fde08d0ad304ee70d6957e7710d86803b02</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>06E52A0C14C7A1328BDB54AF20848DF2</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:1bed1fde08d0ad304ee70d6957e7710d86803b02</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>284100</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>24315.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

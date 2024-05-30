@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§862/1978 SILVERPOPPELN 1 OMBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS">
+
+      <container id="704963" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OMBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SILVERPOPPELN 1</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1978-08-23</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>15180</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§862/1978 SILVERPOPPELN 1 OMBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§862/1978 SILVERPOPPELN 1 OMBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 262901 PL">
+
+      <container id="704966" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 262901 PL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§862/1978 SILVERPOPPELN 1 OMBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 262891 SIT">
+
+      <container id="704964" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 262891 SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§862/1978 SILVERPOPPELN 1 OMBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 262911 FAS">
+
+      <container id="704968" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 262911 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§862/1978 SILVERPOPPELN 1 OMBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 262901 PL|26420.tif">
+
+      <document id="704967" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:124b55fced9e8eb0378de462ef8f48411bf44bc8</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>0BD3ECA4F8CFB64497B7F73E706B2588</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:124b55fced9e8eb0378de462ef8f48411bf44bc8</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>127772</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>26420.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§862/1978 SILVERPOPPELN 1 OMBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 262891 SIT|26419.tif">
+
+      <document id="704965" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:5e484e705b4084eee64c4731a5015530fa952bf2</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>71CE13DDB14634977EEDABA533B3BDD5</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:5e484e705b4084eee64c4731a5015530fa952bf2</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>144880</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>26419.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§862/1978 SILVERPOPPELN 1 OMBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 262911 FAS|26421.tif">
+
+      <document id="704969" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:2e442109013d2fd7ddd6ea33fb41dd65879d0168</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>B8F224C2F77CD4D3134009616CB4CA62</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:2e442109013d2fd7ddd6ea33fb41dd65879d0168</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>124912</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>26421.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

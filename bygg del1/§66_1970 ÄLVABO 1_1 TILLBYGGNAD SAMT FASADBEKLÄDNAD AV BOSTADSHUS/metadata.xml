@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§66/1970 ÄLVABO 1:1 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS">
+
+      <container id="781001" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>ÄLVABO 1:1</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1970-04-14</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>23658</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§66/1970 ÄLVABO 1:1 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§66/1970 ÄLVABO 1:1 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 538181 BOTTENPL SEKT DEL AV SEKT">
+
+      <container id="781002" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 538181 BOTTENPL SEKT DEL AV SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§66/1970 ÄLVABO 1:1 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 538181 BOTTENPL SEKT DEL AV SEKT|54123.tif">
+
+      <document id="781003" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:e1baa213370372a9f4c199af53eec5efb550558f</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>03660687AE0665CA0238FAEB754512A4</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:e1baa213370372a9f4c199af53eec5efb550558f</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>92380</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>54123.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

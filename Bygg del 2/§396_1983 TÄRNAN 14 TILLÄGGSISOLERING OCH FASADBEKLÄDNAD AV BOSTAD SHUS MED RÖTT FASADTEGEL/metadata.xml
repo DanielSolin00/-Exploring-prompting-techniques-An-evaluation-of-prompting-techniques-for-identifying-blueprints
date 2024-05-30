@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§396/1983 TÄRNAN 14 TILLÄGGSISOLERING OCH FASADBEKLÄDNAD AV BOSTAD SHUS MED RÖTT FASADTEGEL">
+
+      <container id="696575" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLÄGGSISOLERING OCH FASADBEKLÄDNAD AV BOSTAD SHUS MED RÖTT FASADTEGEL</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>TÄRNAN 14</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1983-04-27</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>21245</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§396/1983 TÄRNAN 14 TILLÄGGSISOLERING OCH FASADBEKLÄDNAD AV BOSTAD SHUS MED RÖTT FASADTEGEL</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§396/1983 TÄRNAN 14 TILLÄGGSISOLERING OCH FASADBEKLÄDNAD AV BOSTAD SHUS MED RÖTT FASADTEGEL|A 554271 KÄLLARPL SEKT">
+
+      <container id="696576" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 554271 KÄLLARPL SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§396/1983 TÄRNAN 14 TILLÄGGSISOLERING OCH FASADBEKLÄDNAD AV BOSTAD SHUS MED RÖTT FASADTEGEL|A 554291 FAS MOT SO NV">
+
+      <container id="696580" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 554291 FAS MOT SO NV</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§396/1983 TÄRNAN 14 TILLÄGGSISOLERING OCH FASADBEKLÄDNAD AV BOSTAD SHUS MED RÖTT FASADTEGEL|A 554301 FAS MOT NO SV">
+
+      <container id="696582" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 554301 FAS MOT NO SV</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§396/1983 TÄRNAN 14 TILLÄGGSISOLERING OCH FASADBEKLÄDNAD AV BOSTAD SHUS MED RÖTT FASADTEGEL|A 554281 BOTTEN- O ÖVERPL">
+
+      <container id="696578" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 554281 BOTTEN- O ÖVERPL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§396/1983 TÄRNAN 14 TILLÄGGSISOLERING OCH FASADBEKLÄDNAD AV BOSTAD SHUS MED RÖTT FASADTEGEL|A 554271 KÄLLARPL SEKT|55764.tif">
+
+      <document id="696577" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:26e0b4cfe20bc278d8e954c47bc5434038ef3604</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>AB6F44804047492D5FCA31EA64A32011</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:26e0b4cfe20bc278d8e954c47bc5434038ef3604</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>75300</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>55764.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§396/1983 TÄRNAN 14 TILLÄGGSISOLERING OCH FASADBEKLÄDNAD AV BOSTAD SHUS MED RÖTT FASADTEGEL|A 554291 FAS MOT SO NV|55766.tif">
+
+      <document id="696581" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:ffe83ced2cb7c37b6dc1a40bf92a849e2d2b0f98</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>C88F0A6D159D18D9874828F294B8A8B0</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:ffe83ced2cb7c37b6dc1a40bf92a849e2d2b0f98</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>84352</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>55766.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§396/1983 TÄRNAN 14 TILLÄGGSISOLERING OCH FASADBEKLÄDNAD AV BOSTAD SHUS MED RÖTT FASADTEGEL|A 554301 FAS MOT NO SV|55767.tif">
+
+      <document id="696583" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:4c910a6dfbf70dc17c76829e81ffb4deb24fc37b</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>BD2DF93EEB1035D429D4EFBE3D947972</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:4c910a6dfbf70dc17c76829e81ffb4deb24fc37b</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>81634</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>55767.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§396/1983 TÄRNAN 14 TILLÄGGSISOLERING OCH FASADBEKLÄDNAD AV BOSTAD SHUS MED RÖTT FASADTEGEL|A 554281 BOTTEN- O ÖVERPL|55765.tif">
+
+      <document id="696579" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:b00d4a5a9aabe1ccf9e5b1be519fdf008808b155</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>DF806E2DB80DF5D321E65B9BB4506D52</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:b00d4a5a9aabe1ccf9e5b1be519fdf008808b155</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>68660</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>55765.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

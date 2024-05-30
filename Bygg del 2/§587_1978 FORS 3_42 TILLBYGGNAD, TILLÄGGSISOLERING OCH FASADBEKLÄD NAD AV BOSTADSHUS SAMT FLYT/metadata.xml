@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§587/1978 FORS 3:42 TILLBYGGNAD, TILLÄGGSISOLERING OCH FASADBEKLÄD NAD AV BOSTADSHUS SAMT FLYTTNING AV GARAGE">
+
+      <container id="562300" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD, TILLÄGGSISOLERING OCH FASADBEKLÄD NAD AV BOSTADSHUS SAMT FLYTTNING AV GARAGE</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>FORS 3:42</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1978-05-24</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>53162</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§587/1978 FORS 3:42 TILLBYGGNAD, TILLÄGGSISOLERING OCH FASADBEKLÄD NAD AV BOSTADSHUS SAMT FLYTTNING AV GARAGE</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§587/1978 FORS 3:42 TILLBYGGNAD, TILLÄGGSISOLERING OCH FASADBEKLÄD NAD AV BOSTADSHUS SAMT FLYTTNING AV GARAGE|A 247861 KOMPL RITN">
+
+      <container id="564301" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 247861 KOMPL RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§587/1978 FORS 3:42 TILLBYGGNAD, TILLÄGGSISOLERING OCH FASADBEKLÄD NAD AV BOSTADSHUS SAMT FLYTTNING AV GARAGE|A 247861 KOMPL RITN|24911.tif">
+
+      <document id="564302" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:e106eaa6bed27bca1b2e383ddf1018e95f5715b9</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>56B010B9D6DEC4C84341F6A7605CE886</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:e106eaa6bed27bca1b2e383ddf1018e95f5715b9</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>308036</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>24911.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

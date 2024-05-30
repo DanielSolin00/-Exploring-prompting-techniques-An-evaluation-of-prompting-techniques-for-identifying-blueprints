@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§212/1967 TUSENSKÖNAN 5 RIVNING AV ÄLDRE UTHUSBYGGNAD SAMT NYBYGGNAD AV GARAGE MED FASADBEKLÄDNAD">
+
+      <container id="792428" type="building_case">
+         <attribute type="Ärendemening">
+            <value>RIVNING AV ÄLDRE UTHUSBYGGNAD SAMT NYBYGGNAD AV GARAGE MED FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>TUSENSKÖNAN 5</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1967-03-08</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>21061</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§212/1967 TUSENSKÖNAN 5 RIVNING AV ÄLDRE UTHUSBYGGNAD SAMT NYBYGGNAD AV GARAGE MED FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§212/1967 TUSENSKÖNAN 5 RIVNING AV ÄLDRE UTHUSBYGGNAD SAMT NYBYGGNAD AV GARAGE MED FASADBEKLÄDNAD|VA 1049471 VA-RITN">
+
+      <container id="792431" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1049471 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§212/1967 TUSENSKÖNAN 5 RIVNING AV ÄLDRE UTHUSBYGGNAD SAMT NYBYGGNAD AV GARAGE MED FASADBEKLÄDNAD|A 356591 KOMPL RITN">
+
+      <container id="792429" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 356591 KOMPL RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§212/1967 TUSENSKÖNAN 5 RIVNING AV ÄLDRE UTHUSBYGGNAD SAMT NYBYGGNAD AV GARAGE MED FASADBEKLÄDNAD|VA 1049471 VA-RITN|97189.tif">
+
+      <document id="792432" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:9b5316f36461e35d52a58f7b3289afbd94527aff</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>FD30A49172848FDA9CA55F41AEB642CA</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:9b5316f36461e35d52a58f7b3289afbd94527aff</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>140616</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>97189.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§212/1967 TUSENSKÖNAN 5 RIVNING AV ÄLDRE UTHUSBYGGNAD SAMT NYBYGGNAD AV GARAGE MED FASADBEKLÄDNAD|A 356591 KOMPL RITN|35848.tif">
+
+      <document id="792430" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:5a7e8d74743b5404a48f6f97e73002b3a704a8b7</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>588B42A014B0F7BBC72E7A5114331951</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:5a7e8d74743b5404a48f6f97e73002b3a704a8b7</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>211806</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35848.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1963|§736/1963 TUSENSKÖNAN 4 ÄNDRING SAMT FASADBEKLÄDNAD AV AFFÄRS- OCH BOS TADSHUS">
+
+      <container id="769490" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING SAMT FASADBEKLÄDNAD AV AFFÄRS- OCH BOS TADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>TUSENSKÖNAN 4</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1963-09-04</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>21054</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§736/1963 TUSENSKÖNAN 4 ÄNDRING SAMT FASADBEKLÄDNAD AV AFFÄRS- OCH BOS TADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1963|§736/1963 TUSENSKÖNAN 4 ÄNDRING SAMT FASADBEKLÄDNAD AV AFFÄRS- OCH BOS TADSHUS|A 356491 PL FAS SEKT">
+
+      <container id="769491" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 356491 PL FAS SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1963|§736/1963 TUSENSKÖNAN 4 ÄNDRING SAMT FASADBEKLÄDNAD AV AFFÄRS- OCH BOS TADSHUS|A 356491 PL FAS SEKT|35838.tif">
+
+      <document id="769492" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:5b1569668c93092bc9a23fbef49827dad75a3ef1</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>E943039009C8D9AC3D4225EDE6CE3D6C</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:5b1569668c93092bc9a23fbef49827dad75a3ef1</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>161254</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35838.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§96/1984 SÅNGSVANEN 7 FASADBEKLÄDNAD AV FLERBOSTADSHUS">
+
+      <container id="706752" type="building_case">
+         <attribute type="Ärendemening">
+            <value>FASADBEKLÄDNAD AV FLERBOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SÅNGSVANEN 7</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1984-04-12</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>19382</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§96/1984 SÅNGSVANEN 7 FASADBEKLÄDNAD AV FLERBOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§96/1984 SÅNGSVANEN 7 FASADBEKLÄDNAD AV FLERBOSTADSHUS|A 580021 FAS">
+
+      <container id="706753" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 580021 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§96/1984 SÅNGSVANEN 7 FASADBEKLÄDNAD AV FLERBOSTADSHUS|A 580021 FAS|58352.tif">
+
+      <document id="706754" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:3a33952446e6b39217102f600d685ef5d86714d4</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>5825ED5F06D8848C70F3FAEC82D8AB15</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:3a33952446e6b39217102f600d685ef5d86714d4</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>110226</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>58352.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

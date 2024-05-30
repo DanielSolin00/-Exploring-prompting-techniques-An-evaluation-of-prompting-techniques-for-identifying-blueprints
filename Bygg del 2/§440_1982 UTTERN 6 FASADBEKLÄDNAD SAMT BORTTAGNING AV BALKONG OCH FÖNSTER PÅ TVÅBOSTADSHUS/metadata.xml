@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§440/1982 UTTERN 6 FASADBEKLÄDNAD SAMT BORTTAGNING AV BALKONG OCH FÖNSTER PÅ TVÅBOSTADSHUS">
+
+      <container id="716326" type="building_case">
+         <attribute type="Ärendemening">
+            <value>FASADBEKLÄDNAD SAMT BORTTAGNING AV BALKONG OCH FÖNSTER PÅ TVÅBOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>UTTERN 6</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1982-04-28</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>21394</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§440/1982 UTTERN 6 FASADBEKLÄDNAD SAMT BORTTAGNING AV BALKONG OCH FÖNSTER PÅ TVÅBOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§440/1982 UTTERN 6 FASADBEKLÄDNAD SAMT BORTTAGNING AV BALKONG OCH FÖNSTER PÅ TVÅBOSTADSHUS|A 510021 FAS">
+
+      <container id="716327" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 510021 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§440/1982 UTTERN 6 FASADBEKLÄDNAD SAMT BORTTAGNING AV BALKONG OCH FÖNSTER PÅ TVÅBOSTADSHUS|A 510021 FAS|51264.tif">
+
+      <document id="716328" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:001bf6780528d0f91c1bd5322199b93f84135441</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>24F6C8ED71645F842AF602F24610B4B1</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:001bf6780528d0f91c1bd5322199b93f84135441</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>183456</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>51264.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

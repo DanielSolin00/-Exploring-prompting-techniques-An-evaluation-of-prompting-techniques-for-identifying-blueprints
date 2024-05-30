@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§539/1972 SVARVJÄRNET 1 ÖVERBYGGNAD VID UTEPLATS SAMT FASADBEKLÄDNAD">
+
+      <container id="671953" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÖVERBYGGNAD VID UTEPLATS SAMT FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SVARVJÄRNET 1</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1972-05-17</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>19079</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§539/1972 SVARVJÄRNET 1 ÖVERBYGGNAD VID UTEPLATS SAMT FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§539/1972 SVARVJÄRNET 1 ÖVERBYGGNAD VID UTEPLATS SAMT FASADBEKLÄDNAD|A 474731 SIT FAS">
+
+      <container id="671954" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 474731 SIT FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§539/1972 SVARVJÄRNET 1 ÖVERBYGGNAD VID UTEPLATS SAMT FASADBEKLÄDNAD|A 474731 SIT FAS|47705.tif">
+
+      <document id="671955" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:17dfd08c15aa0052252b4b2c120494b185c5304c</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>DA3306A6A247F4524C1DAF817D994483</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:17dfd08c15aa0052252b4b2c120494b185c5304c</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>92410</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>47705.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

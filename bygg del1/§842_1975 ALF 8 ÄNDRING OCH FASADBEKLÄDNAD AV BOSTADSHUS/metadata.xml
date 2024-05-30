@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1975|§842/1975 ALF 8 ÄNDRING OCH FASADBEKLÄDNAD AV BOSTADSHUS">
+
+      <container id="572844" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING OCH FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>ALF 8</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1975-06-17</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>155</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§842/1975 ALF 8 ÄNDRING OCH FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1975|§842/1975 ALF 8 ÄNDRING OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 72781 FAS V Ö">
+
+      <container id="572845" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 72781 FAS V Ö</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1975|§842/1975 ALF 8 ÄNDRING OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 72791 FAS S N">
+
+      <container id="572847" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 72791 FAS S N</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1975|§842/1975 ALF 8 ÄNDRING OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 72781 FAS V Ö|7324.tif">
+
+      <document id="572846" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:247cedd048a6c952199121f1e32ffa3619597866</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>21FD8D592BE68849CB1339440F93490A</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:247cedd048a6c952199121f1e32ffa3619597866</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>470480</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>7324.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1975|§842/1975 ALF 8 ÄNDRING OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 72791 FAS S N|7325.tif">
+
+      <document id="572848" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:e010dbcecab9012f475935edde328b8285c5c520</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>1922B23FE56201B21969149CE5D813E0</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:e010dbcecab9012f475935edde328b8285c5c520</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>538336</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>7325.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

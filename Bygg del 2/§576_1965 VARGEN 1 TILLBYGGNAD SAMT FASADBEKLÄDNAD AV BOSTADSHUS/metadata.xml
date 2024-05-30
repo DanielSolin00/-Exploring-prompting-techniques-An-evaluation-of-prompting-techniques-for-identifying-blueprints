@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§576/1965 VARGEN 1 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS">
+
+      <container id="732907" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>VARGEN 1</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1965-06-30</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>21738</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§576/1965 VARGEN 1 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§576/1965 VARGEN 1 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|VA 1051211 VA-RITN">
+
+      <container id="732910" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1051211 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§576/1965 VARGEN 1 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|VA 1051211 VA-RITN|97369.tif">
+
+      <document id="732911" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:b151d8c8dce47565444c4257b17d20cd78048af5</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>B7230A59254BE39DEBB82946B2CDB2CA</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:b151d8c8dce47565444c4257b17d20cd78048af5</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>173138</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>97369.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§576/1965 VARGEN 1 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 405311 BOTTENPL FAS MOT SO,NV,SV">
+
+      <container id="732908" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 405311 BOTTENPL FAS MOT SO,NV,SV</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§576/1965 VARGEN 1 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 405311 BOTTENPL FAS MOT SO,NV,SV|40736.tif">
+
+      <document id="732909" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:7d8ff34e9469c18bfa91d217a360d73678b93d64</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>80960BBE659A0D6C87A06718C0696EE4</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:7d8ff34e9469c18bfa91d217a360d73678b93d64</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>154386</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>40736.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

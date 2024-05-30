@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§603/1978 BJÖRKEN 4 OMB. TILLÄGGSISOLERING OCH FASADBEKL AV BOST.- HUS">
+
+      <container id="614216" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OMB. TILLÄGGSISOLERING OCH FASADBEKL AV BOST.- HUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>BJÖRKEN 4</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1978-05-24</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>51233</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§603/1978 BJÖRKEN 4 OMB. TILLÄGGSISOLERING OCH FASADBEKL AV BOST.- HUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§603/1978 BJÖRKEN 4 OMB. TILLÄGGSISOLERING OCH FASADBEKL AV BOST.- HUS|V 250041 PL SEKT">
+
+      <container id="614219" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>V 250041 PL SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>V</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§603/1978 BJÖRKEN 4 OMB. TILLÄGGSISOLERING OCH FASADBEKL AV BOST.- HUS|VA 1002751 VA-RITN">
+
+      <container id="614221" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1002751 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§603/1978 BJÖRKEN 4 OMB. TILLÄGGSISOLERING OCH FASADBEKL AV BOST.- HUS|V 250031 FAS SIT PL">
+
+      <container id="614217" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>V 250031 FAS SIT PL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>V</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§603/1978 BJÖRKEN 4 OMB. TILLÄGGSISOLERING OCH FASADBEKL AV BOST.- HUS|V 250041 PL SEKT|25129.tif">
+
+      <document id="614220" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:a1bf4cf8845104ec4d65b6fe3e40fa0d3245f85f</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>3529BEC1642DE3DC5E846C666D39BDB6</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:a1bf4cf8845104ec4d65b6fe3e40fa0d3245f85f</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>85520</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>25129.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§603/1978 BJÖRKEN 4 OMB. TILLÄGGSISOLERING OCH FASADBEKL AV BOST.- HUS|VA 1002751 VA-RITN|92470.tif">
+
+      <document id="614222" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:01101baee69f7922cd57e548c17edf3b530063ea</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>433CF63CF07902A0741EEC6CA5AB427F</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:01101baee69f7922cd57e548c17edf3b530063ea</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>115640</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>92470.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§603/1978 BJÖRKEN 4 OMB. TILLÄGGSISOLERING OCH FASADBEKL AV BOST.- HUS|V 250031 FAS SIT PL|25128.tif">
+
+      <document id="614218" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:0a8c9ede9a5aa9aef7e316d7ede597d11d8583ff</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>29B5E8136F3C1360776C684B9D251D92</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:0a8c9ede9a5aa9aef7e316d7ede597d11d8583ff</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>115174</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>25128.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1953|§762/1953 VIDAR 5 ÄNDRING SAMT FASADBEKLÄDNAD">
+
+      <container id="743452" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING SAMT FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>VIDAR 5</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1953-11-04</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>22141</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§762/1953 VIDAR 5 ÄNDRING SAMT FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1953|§762/1953 VIDAR 5 ÄNDRING SAMT FASADBEKLÄDNAD|VA 1051871 VA-RITN">
+
+      <container id="743455" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1051871 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1953|§762/1953 VIDAR 5 ÄNDRING SAMT FASADBEKLÄDNAD|VA 1051871 VA-RITN|97435.tif">
+
+      <document id="743456" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:fb99d9c4c56b95e1d5ad292cc2034007a899203e</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>A763F14566AA4903D5B744DBB2C83006</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:fb99d9c4c56b95e1d5ad292cc2034007a899203e</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>87340</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>97435.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1953|§762/1953 VIDAR 5 ÄNDRING SAMT FASADBEKLÄDNAD|A 413121 BOTTENPL FAS MOT NV,SV,NO">
+
+      <container id="743453" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 413121 BOTTENPL FAS MOT NV,SV,NO</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1953|§762/1953 VIDAR 5 ÄNDRING SAMT FASADBEKLÄDNAD|A 413121 BOTTENPL FAS MOT NV,SV,NO|41520.tif">
+
+      <document id="743454" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:53fc52af79e6a3b4e09439ce06b072f63b0ee4c9</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>62FE87D1E54DEECC5378997E0C609BB8</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:53fc52af79e6a3b4e09439ce06b072f63b0ee4c9</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>56938</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>41520.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

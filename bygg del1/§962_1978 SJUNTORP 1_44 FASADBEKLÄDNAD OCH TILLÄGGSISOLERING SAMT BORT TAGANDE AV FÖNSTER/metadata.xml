@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§962/1978 SJUNTORP 1:44 FASADBEKLÄDNAD OCH TILLÄGGSISOLERING SAMT BORT TAGANDE AV FÖNSTER">
+
+      <container id="760066" type="building_case">
+         <attribute type="Ärendemening">
+            <value>FASADBEKLÄDNAD OCH TILLÄGGSISOLERING SAMT BORT TAGANDE AV FÖNSTER</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SJUNTORP 1:44</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1978-08-23</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>15263</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§962/1978 SJUNTORP 1:44 FASADBEKLÄDNAD OCH TILLÄGGSISOLERING SAMT BORT TAGANDE AV FÖNSTER</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§962/1978 SJUNTORP 1:44 FASADBEKLÄDNAD OCH TILLÄGGSISOLERING SAMT BORT TAGANDE AV FÖNSTER|A 262101 FAS">
+
+      <container id="760067" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 262101 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§962/1978 SJUNTORP 1:44 FASADBEKLÄDNAD OCH TILLÄGGSISOLERING SAMT BORT TAGANDE AV FÖNSTER|A 262101 FAS|26340.tif">
+
+      <document id="760068" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:0e0a242bf40f6ef8fcc52e449689e80377c5e631</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>CB9B89A6939561C9A58E18085AC21CB9</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:0e0a242bf40f6ef8fcc52e449689e80377c5e631</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>256950</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>26340.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

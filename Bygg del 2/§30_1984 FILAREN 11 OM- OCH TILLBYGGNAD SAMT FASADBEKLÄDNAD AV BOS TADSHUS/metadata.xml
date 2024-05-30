@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§30/1984 FILAREN 11 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS">
+
+      <container id="545710" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>FILAREN 11</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1984-03-14</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>3185</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§30/1984 FILAREN 11 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§30/1984 FILAREN 11 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 577221 FAS MOT S">
+
+      <container id="545713" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 577221 FAS MOT S</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§30/1984 FILAREN 11 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 577231 FAS MOT Ö,V">
+
+      <container id="545715" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 577231 FAS MOT Ö,V</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§30/1984 FILAREN 11 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 577211 PL AV 2:A VÅN">
+
+      <container id="545711" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 577211 PL AV 2:A VÅN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§30/1984 FILAREN 11 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 577221 FAS MOT S|58069.tif">
+
+      <document id="545714" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:57d048d5e1a1517f27911134e136cfbc0e92fb6c</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>9EAA043B09FD46485E02EA83733C868F</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:57d048d5e1a1517f27911134e136cfbc0e92fb6c</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>86274</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>58069.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§30/1984 FILAREN 11 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 577231 FAS MOT Ö,V|58070.tif">
+
+      <document id="545716" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:bdb5bbe8b87d1488feca4c5fba27a2f57c423aeb</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>187D677D63F1EA2AF0888FCBBC1943E5</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:bdb5bbe8b87d1488feca4c5fba27a2f57c423aeb</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>152406</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>58070.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§30/1984 FILAREN 11 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 577211 PL AV 2:A VÅN|58068.tif">
+
+      <document id="545712" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:77aace49544c18e200e574eb17dbdbd000f33b68</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>AED00578FF7F1956BFF91885D98894F7</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:77aace49544c18e200e574eb17dbdbd000f33b68</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>103108</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>58068.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

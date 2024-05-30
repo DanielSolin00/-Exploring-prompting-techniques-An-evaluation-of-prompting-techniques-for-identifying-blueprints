@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§500/1968 VATTENSPRIDAREN 2 TILLBYGGNAD, ÄNDRING OCH FASADBEKLÄDNAD">
+
+      <container id="756004" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD, ÄNDRING OCH FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>VATTENSPRIDAREN 2</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1968-05-08</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>21815</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§500/1968 VATTENSPRIDAREN 2 TILLBYGGNAD, ÄNDRING OCH FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§500/1968 VATTENSPRIDAREN 2 TILLBYGGNAD, ÄNDRING OCH FASADBEKLÄDNAD|A 500751 KOMPL RITN">
+
+      <container id="756005" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 500751 KOMPL RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§500/1968 VATTENSPRIDAREN 2 TILLBYGGNAD, ÄNDRING OCH FASADBEKLÄDNAD|A 500751 KOMPL RITN|50329.tif">
+
+      <document id="756006" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:40f4b1c9530ed7b230301b469098b96b67a33374</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>37316646383E993AD574BC5F5343A0E8</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:40f4b1c9530ed7b230301b469098b96b67a33374</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>89788</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>50329.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

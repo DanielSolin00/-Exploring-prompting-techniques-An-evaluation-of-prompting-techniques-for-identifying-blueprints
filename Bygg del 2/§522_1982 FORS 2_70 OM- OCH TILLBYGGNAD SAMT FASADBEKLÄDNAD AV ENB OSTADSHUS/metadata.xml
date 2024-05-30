@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§522/1982 FORS 2:70 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV ENB OSTADSHUS">
+
+      <container id="489643" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV ENB OSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>FORS 2:70</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1982-05-26</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>52898</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§522/1982 FORS 2:70 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV ENB OSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§522/1982 FORS 2:70 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV ENB OSTADSHUS|VA 524541 SIT PL MM">
+
+      <container id="489648" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 524541 SIT PL MM</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§522/1982 FORS 2:70 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV ENB OSTADSHUS|VA 524541 SIT PL MM|52739.tif">
+
+      <document id="489649" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:fe12c5404ba252519cb19d5956b30e0ee118694e</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>60578248072F45A5597A8207FBE139E3</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:fe12c5404ba252519cb19d5956b30e0ee118694e</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>753676</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>52739.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§522/1982 FORS 2:70 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV ENB OSTADSHUS|A 512501 PL FAS SEKT (ÄNDR.RITN)">
+
+      <container id="489646" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 512501 PL FAS SEKT (ÄNDR.RITN)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§522/1982 FORS 2:70 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV ENB OSTADSHUS|A 512491 PL FAS SEKT (UPPMÄTN.RITN)">
+
+      <container id="489644" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 512491 PL FAS SEKT (UPPMÄTN.RITN)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§522/1982 FORS 2:70 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV ENB OSTADSHUS|A 512501 PL FAS SEKT (ÄNDR.RITN)|51512.tif">
+
+      <document id="489647" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:5825fe6708a26eb22bd7e5d87c176c2414916f9f</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>70EF20D8CF476496113113F5B5AA6940</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:5825fe6708a26eb22bd7e5d87c176c2414916f9f</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>402816</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>51512.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§522/1982 FORS 2:70 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV ENB OSTADSHUS|A 512491 PL FAS SEKT (UPPMÄTN.RITN)|51511.tif">
+
+      <document id="489645" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:4fbdb9e812b509a290e9850d087459c35aab691d</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>E969FC0FBB39F48D6BA7DB913363BCA5</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:4fbdb9e812b509a290e9850d087459c35aab691d</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>255854</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>51511.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§576/1977 BRANDSTORP 8:2 OM-OCH TILLBYGGN SAMT FASADBEKL AV ENFAM HUS">
+
+      <container id="565023" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OM-OCH TILLBYGGN SAMT FASADBEKL AV ENFAM HUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>BRANDSTORP 8:2</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1977-05-17</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>52279</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§576/1977 BRANDSTORP 8:2 OM-OCH TILLBYGGN SAMT FASADBEKL AV ENFAM HUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§576/1977 BRANDSTORP 8:2 OM-OCH TILLBYGGN SAMT FASADBEKL AV ENFAM HUS|A 156981 EK KARTA">
+
+      <container id="565026" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 156981 EK KARTA</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§576/1977 BRANDSTORP 8:2 OM-OCH TILLBYGGN SAMT FASADBEKL AV ENFAM HUS|A 156971 FAS PL SIT PL">
+
+      <container id="565024" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 156971 FAS PL SIT PL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§576/1977 BRANDSTORP 8:2 OM-OCH TILLBYGGN SAMT FASADBEKL AV ENFAM HUS|A 156981 EK KARTA|15778.tif">
+
+      <document id="565027" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:b26bb8932309f872feaf6c041cc26fdb43a8e044</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>876DF168C01A2847AA825B0010F92412</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:b26bb8932309f872feaf6c041cc26fdb43a8e044</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>182690</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>15778.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§576/1977 BRANDSTORP 8:2 OM-OCH TILLBYGGN SAMT FASADBEKL AV ENFAM HUS|A 156971 FAS PL SIT PL|15777.tif">
+
+      <document id="565025" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:56b10d6b87df6cc39ca15a22ee99a57ccb6cdd39</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>8876E90E4FE44DD14F2877C5FE1A15C6</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:56b10d6b87df6cc39ca15a22ee99a57ccb6cdd39</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>89366</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>15777.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

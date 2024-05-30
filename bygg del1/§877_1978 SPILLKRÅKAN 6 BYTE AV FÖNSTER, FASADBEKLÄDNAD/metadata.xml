@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§877/1978 SPILLKRÅKAN 6 BYTE AV FÖNSTER, FASADBEKLÄDNAD">
+
+      <container id="838009" type="building_case">
+         <attribute type="Ärendemening">
+            <value>BYTE AV FÖNSTER, FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SPILLKRÅKAN 6</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1978-08-23</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>17089</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§877/1978 SPILLKRÅKAN 6 BYTE AV FÖNSTER, FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§877/1978 SPILLKRÅKAN 6 BYTE AV FÖNSTER, FASADBEKLÄDNAD|VA 1040681 VA-RITN">
+
+      <container id="838012" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1040681 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§877/1978 SPILLKRÅKAN 6 BYTE AV FÖNSTER, FASADBEKLÄDNAD|A 261181 KOMPL RITN">
+
+      <container id="838010" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 261181 KOMPL RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§877/1978 SPILLKRÅKAN 6 BYTE AV FÖNSTER, FASADBEKLÄDNAD|VA 1040681 VA-RITN|96308.tif">
+
+      <document id="838013" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:cc76df12119a628e77d417fa8db7dce50c0b91f6</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>8B44DD5F370499CC79A6F3204151A302</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:cc76df12119a628e77d417fa8db7dce50c0b91f6</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>120120</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>96308.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§877/1978 SPILLKRÅKAN 6 BYTE AV FÖNSTER, FASADBEKLÄDNAD|A 261181 KOMPL RITN|26248.tif">
+
+      <document id="838011" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:3d521edccefbd4fdbdfeab44f402ffd1d574c316</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>2ABB780B3E59655E734398A0506108F6</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:3d521edccefbd4fdbdfeab44f402ffd1d574c316</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>138372</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>26248.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§593/1980 VALNÖTSTRÄDET 3 RIVNING AV BALKONG SAMT FASADBEKLÄDNAD AV BOST ADSHUS">
+
+      <container id="678917" type="building_case">
+         <attribute type="Ärendemening">
+            <value>RIVNING AV BALKONG SAMT FASADBEKLÄDNAD AV BOST ADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>VALNÖTSTRÄDET 3</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1980-05-28</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>21680</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§593/1980 VALNÖTSTRÄDET 3 RIVNING AV BALKONG SAMT FASADBEKLÄDNAD AV BOST ADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§593/1980 VALNÖTSTRÄDET 3 RIVNING AV BALKONG SAMT FASADBEKLÄDNAD AV BOST ADSHUS|A 452241 FAS MOT V,S (BEF)">
+
+      <container id="678918" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 452241 FAS MOT V,S (BEF)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§593/1980 VALNÖTSTRÄDET 3 RIVNING AV BALKONG SAMT FASADBEKLÄDNAD AV BOST ADSHUS|A 452251 FAS MOT N,Ö (ÄNDR)">
+
+      <container id="678920" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 452251 FAS MOT N,Ö (ÄNDR)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§593/1980 VALNÖTSTRÄDET 3 RIVNING AV BALKONG SAMT FASADBEKLÄDNAD AV BOST ADSHUS|A 452261 FAS MOT V,S (ÄNDR)">
+
+      <container id="678922" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 452261 FAS MOT V,S (ÄNDR)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§593/1980 VALNÖTSTRÄDET 3 RIVNING AV BALKONG SAMT FASADBEKLÄDNAD AV BOST ADSHUS|A 452241 FAS MOT V,S (BEF)|45441.tif">
+
+      <document id="678919" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:150e2b3caa60a8eced6f2ae55ee9ee32a6636d46</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>C5F2CF95FAB28AC6AA5378A43C6EF68D</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:150e2b3caa60a8eced6f2ae55ee9ee32a6636d46</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>75244</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>45441.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§593/1980 VALNÖTSTRÄDET 3 RIVNING AV BALKONG SAMT FASADBEKLÄDNAD AV BOST ADSHUS|A 452251 FAS MOT N,Ö (ÄNDR)|45442.tif">
+
+      <document id="678921" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:e62c46562cd8bf87895c01bef39084956cc1e431</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>D64AD00CF425F68004BB1630C1DDFF47</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:e62c46562cd8bf87895c01bef39084956cc1e431</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>140182</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>45442.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§593/1980 VALNÖTSTRÄDET 3 RIVNING AV BALKONG SAMT FASADBEKLÄDNAD AV BOST ADSHUS|A 452261 FAS MOT V,S (ÄNDR)|45443.tif">
+
+      <document id="678923" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:65976a4f71554e63b5b29b4e26239e9e8e6ffe51</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>23E86FA481661547FDE280004D295FC4</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:65976a4f71554e63b5b29b4e26239e9e8e6ffe51</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>82764</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>45443.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

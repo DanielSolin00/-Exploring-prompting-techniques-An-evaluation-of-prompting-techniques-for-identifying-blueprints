@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§968/1983 VULKAN 5 INREDN LÄGENHET PÅ VIND, TVÄTT- O TORKRUM I KÄ LLAREN SAMT ISOL O FASADBEKL VID BEF VINDSVÅN">
+
+      <container id="694317" type="building_case">
+         <attribute type="Ärendemening">
+            <value>INREDN LÄGENHET PÅ VIND, TVÄTT- O TORKRUM I KÄ LLAREN SAMT ISOL O FASADBEKL VID BEF VINDSVÅN</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>VULKAN 5</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1983-10-26</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>22416</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§968/1983 VULKAN 5 INREDN LÄGENHET PÅ VIND, TVÄTT- O TORKRUM I KÄ LLAREN SAMT ISOL O FASADBEKL VID BEF VINDSVÅN</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§968/1983 VULKAN 5 INREDN LÄGENHET PÅ VIND, TVÄTT- O TORKRUM I KÄ LLAREN SAMT ISOL O FASADBEKL VID BEF VINDSVÅN|A 570131 SIT">
+
+      <container id="694318" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 570131 SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§968/1983 VULKAN 5 INREDN LÄGENHET PÅ VIND, TVÄTT- O TORKRUM I KÄ LLAREN SAMT ISOL O FASADBEKL VID BEF VINDSVÅN|A 570141 KÄLLARPL">
+
+      <container id="694320" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 570141 KÄLLARPL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§968/1983 VULKAN 5 INREDN LÄGENHET PÅ VIND, TVÄTT- O TORKRUM I KÄ LLAREN SAMT ISOL O FASADBEKL VID BEF VINDSVÅN|A 570131 SIT|57355.tif">
+
+      <document id="694319" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:d3b97e699fe8b210b8ec0dc57e9063aa21230b38</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>C625E43678D01F4F41E727D2A39B69DB</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:d3b97e699fe8b210b8ec0dc57e9063aa21230b38</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>77008</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>57355.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§968/1983 VULKAN 5 INREDN LÄGENHET PÅ VIND, TVÄTT- O TORKRUM I KÄ LLAREN SAMT ISOL O FASADBEKL VID BEF VINDSVÅN|A 570141 KÄLLARPL|57356.tif">
+
+      <document id="694321" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:c9014ae5745ef97cdaf5fe1945b136e931ab7899</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>EE1F67289B8306A6B863C2AA0D83E3D1</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:c9014ae5745ef97cdaf5fe1945b136e931ab7899</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>89146</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>57356.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§968/1983 VULKAN 5 INREDN LÄGENHET PÅ VIND, TVÄTT- O TORKRUM I KÄ LLAREN SAMT ISOL O FASADBEKL VID BEF VINDSVÅN|A 570151 VINDSPL FAS MOT NV,SV SEKT">
+
+      <container id="694322" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 570151 VINDSPL FAS MOT NV,SV SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§968/1983 VULKAN 5 INREDN LÄGENHET PÅ VIND, TVÄTT- O TORKRUM I KÄ LLAREN SAMT ISOL O FASADBEKL VID BEF VINDSVÅN|A 570151 VINDSPL FAS MOT NV,SV SEKT|57357.tif">
+
+      <document id="694323" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:85641c5442102feafd97c36a62cec0af539069d7</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>01EB1D8D51ECA908C69744F06F13663B</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:85641c5442102feafd97c36a62cec0af539069d7</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>126236</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>57357.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1958|§497/1958 SURT 5 ÄNDRING AV BEF BOSTADSHUS SAMT FASADBEKLÄDNAD MED SIDIPLATTOR">
+
+      <container id="833952" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING AV BEF BOSTADSHUS SAMT FASADBEKLÄDNAD MED SIDIPLATTOR</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SURT 5</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1958-07-02</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>18635</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§497/1958 SURT 5 ÄNDRING AV BEF BOSTADSHUS SAMT FASADBEKLÄDNAD MED SIDIPLATTOR</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1958|§497/1958 SURT 5 ÄNDRING AV BEF BOSTADSHUS SAMT FASADBEKLÄDNAD MED SIDIPLATTOR|A 319111 FAS">
+
+      <container id="833953" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 319111 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1958|§497/1958 SURT 5 ÄNDRING AV BEF BOSTADSHUS SAMT FASADBEKLÄDNAD MED SIDIPLATTOR|A 319121 PL SEKT">
+
+      <container id="833955" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 319121 PL SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1958|§497/1958 SURT 5 ÄNDRING AV BEF BOSTADSHUS SAMT FASADBEKLÄDNAD MED SIDIPLATTOR|A 319111 FAS|32092.tif">
+
+      <document id="833954" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:54725641f2b42ae5810b0a634f35be27f307c9e2</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>E93AADB3CFA8FC39F2ECD64C2401EB88</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:54725641f2b42ae5810b0a634f35be27f307c9e2</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>106172</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>32092.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1958|§497/1958 SURT 5 ÄNDRING AV BEF BOSTADSHUS SAMT FASADBEKLÄDNAD MED SIDIPLATTOR|A 319121 PL SEKT|32093.tif">
+
+      <document id="833956" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:ca8d2388f146e9be3a1ad0de850306159a1a8496</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>0D593834E8579CD97B0A455C40212A1D</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:ca8d2388f146e9be3a1ad0de850306159a1a8496</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>94558</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>32093.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

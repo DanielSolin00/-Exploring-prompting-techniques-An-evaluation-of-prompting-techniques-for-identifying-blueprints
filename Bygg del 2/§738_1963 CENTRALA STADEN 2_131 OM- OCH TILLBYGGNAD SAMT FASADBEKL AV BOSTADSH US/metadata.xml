@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1963|§738/1963 CENTRALA STADEN 2:131 OM- OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSH US">
+
+      <container id="490752" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OM- OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSH US</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>CENTRALA STADEN 2:131</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1963-09-04</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>1298</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§738/1963 CENTRALA STADEN 2:131 OM- OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSH US</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1963|§738/1963 CENTRALA STADEN 2:131 OM- OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSH US|A 437411 FAS">
+
+      <container id="490757" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 437411 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1963|§738/1963 CENTRALA STADEN 2:131 OM- OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSH US|A 437411 FAS|43960.tif">
+
+      <document id="490758" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:a90c84c89207b90a72fca9fe87c05fceb1485754</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>EA98C9685D8F8C415C55F3D0832540B5</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:a90c84c89207b90a72fca9fe87c05fceb1485754</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>103898</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>43960.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1963|§738/1963 CENTRALA STADEN 2:131 OM- OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSH US|A 437401 SIT PL PL SKORSTEN">
+
+      <container id="490755" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 437401 SIT PL PL SKORSTEN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1963|§738/1963 CENTRALA STADEN 2:131 OM- OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSH US|A 437391 PL SEKT UPPMÄTN.RITN">
+
+      <container id="490753" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 437391 PL SEKT UPPMÄTN.RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1963|§738/1963 CENTRALA STADEN 2:131 OM- OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSH US|A 437401 SIT PL PL SKORSTEN|43959.tif">
+
+      <document id="490756" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:5c7b0db0a9cbedaf1de558a982cc84586445097e</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>AD2B160D25E82DF6A62FE50A7F99EB27</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:5c7b0db0a9cbedaf1de558a982cc84586445097e</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>99438</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>43959.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1963|§738/1963 CENTRALA STADEN 2:131 OM- OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSH US|A 437391 PL SEKT UPPMÄTN.RITN|43958.tif">
+
+      <document id="490754" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:f8818b5105af230638b9a75df99e911f4ea2a249</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>060C1831654A306A326DAE93662D503E</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:f8818b5105af230638b9a75df99e911f4ea2a249</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>90474</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>43958.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§923/1983 FORS 2:85 FASADBEKLÄDNAD MED HERRGÅRDSGUL TRÄPANEL OCH V ÄRMEISOLERING">
+
+      <container id="492323" type="building_case">
+         <attribute type="Ärendemening">
+            <value>FASADBEKLÄDNAD MED HERRGÅRDSGUL TRÄPANEL OCH V ÄRMEISOLERING</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>FORS 2:85</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1983-10-26</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>52920</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§923/1983 FORS 2:85 FASADBEKLÄDNAD MED HERRGÅRDSGUL TRÄPANEL OCH V ÄRMEISOLERING</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§923/1983 FORS 2:85 FASADBEKLÄDNAD MED HERRGÅRDSGUL TRÄPANEL OCH V ÄRMEISOLERING|A 569151 PL SEKT VÄGG">
+
+      <container id="492324" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 569151 PL SEKT VÄGG</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§923/1983 FORS 2:85 FASADBEKLÄDNAD MED HERRGÅRDSGUL TRÄPANEL OCH V ÄRMEISOLERING|A 569151 PL SEKT VÄGG|57257.tif">
+
+      <document id="492325" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:5c99449e75ec4e170adaadf67b2082fd9f52cfa6</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>B38F77431C3D5C006332EC94BFF7921D</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:5c99449e75ec4e170adaadf67b2082fd9f52cfa6</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>44438</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>57257.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§961/1983 TANDVINGEN 1 TILLBYGGNAD AV LAGER SAMT FASADRENOVERING">
+
+      <container id="672310" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD AV LAGER SAMT FASADRENOVERING</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>TANDVINGEN 1</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1983-10-26</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>19832</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§961/1983 TANDVINGEN 1 TILLBYGGNAD AV LAGER SAMT FASADRENOVERING</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§961/1983 TANDVINGEN 1 TILLBYGGNAD AV LAGER SAMT FASADRENOVERING|A 570291 SIT">
+
+      <container id="672311" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 570291 SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§961/1983 TANDVINGEN 1 TILLBYGGNAD AV LAGER SAMT FASADRENOVERING|A 570301 PL SEKT">
+
+      <container id="672313" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 570301 PL SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§961/1983 TANDVINGEN 1 TILLBYGGNAD AV LAGER SAMT FASADRENOVERING|A 570311 FAS SEKT">
+
+      <container id="672315" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 570311 FAS SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§961/1983 TANDVINGEN 1 TILLBYGGNAD AV LAGER SAMT FASADRENOVERING|A 570291 SIT|57371.tif">
+
+      <document id="672312" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:33c67c71d0006f9d91d67c915cf4af6edfebd854</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>0457C7F5F856309756ABC3E9AECF4745</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:33c67c71d0006f9d91d67c915cf4af6edfebd854</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>132060</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>57371.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§961/1983 TANDVINGEN 1 TILLBYGGNAD AV LAGER SAMT FASADRENOVERING|A 570301 PL SEKT|57372.tif">
+
+      <document id="672314" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:8e1564619e5a5020c81dfe6d2615ac7b82003185</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>4DD43D897DB60BAA3E72D2DC2B02D97D</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:8e1564619e5a5020c81dfe6d2615ac7b82003185</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>279682</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>57372.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§961/1983 TANDVINGEN 1 TILLBYGGNAD AV LAGER SAMT FASADRENOVERING|A 570311 FAS SEKT|57373.tif">
+
+      <document id="672316" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:84c661652449fbfcdfc79d78f27765d3b3ba021c</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>85DE78F3977B5495F67DEDE914C5A568</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:84c661652449fbfcdfc79d78f27765d3b3ba021c</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>132878</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>57373.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

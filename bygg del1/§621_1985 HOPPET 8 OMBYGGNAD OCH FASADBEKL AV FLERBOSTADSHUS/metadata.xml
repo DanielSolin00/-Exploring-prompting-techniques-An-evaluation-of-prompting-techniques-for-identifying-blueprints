@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1985|§621/1985 HOPPET 8 OMBYGGNAD OCH FASADBEKL AV FLERBOSTADSHUS">
+
+      <container id="622469" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OMBYGGNAD OCH FASADBEKL AV FLERBOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>HOPPET 8</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1985-12-18</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>5159</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§621/1985 HOPPET 8 OMBYGGNAD OCH FASADBEKL AV FLERBOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1985|§621/1985 HOPPET 8 OMBYGGNAD OCH FASADBEKL AV FLERBOSTADSHUS|VE 709971 REV VENT-RITN">
+
+      <container id="622470" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VE 709971 REV VENT-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VE</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1985|§621/1985 HOPPET 8 OMBYGGNAD OCH FASADBEKL AV FLERBOSTADSHUS|VE 709981 REV VENT-RITN">
+
+      <container id="622472" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VE 709981 REV VENT-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VE</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1985|§621/1985 HOPPET 8 OMBYGGNAD OCH FASADBEKL AV FLERBOSTADSHUS|VE 709971 REV VENT-RITN|71405.tif">
+
+      <document id="622471" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:e3208bc126652c3796f5bfeb7ad2c59905b6f87e</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>F72A9623B5537C78239A72B551C3586B</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:e3208bc126652c3796f5bfeb7ad2c59905b6f87e</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>111288</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>71405.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1985|§621/1985 HOPPET 8 OMBYGGNAD OCH FASADBEKL AV FLERBOSTADSHUS|VE 709981 REV VENT-RITN|71406.tif">
+
+      <document id="622473" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:6b96ff6b9fe1710f1f0d55c81f34be9582afc312</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>7FF3310EB57EB778C7EBA699A242883E</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:6b96ff6b9fe1710f1f0d55c81f34be9582afc312</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>124231</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>71406.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1985|§621/1985 HOPPET 8 OMBYGGNAD OCH FASADBEKL AV FLERBOSTADSHUS|VE 736511 REV RITN: KÄLLARPL O GATUPL">
+
+      <container id="622474" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VE 736511 REV RITN: KÄLLARPL O GATUPL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VE</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1985|§621/1985 HOPPET 8 OMBYGGNAD OCH FASADBEKL AV FLERBOSTADSHUS|VE 736511 REV RITN: KÄLLARPL O GATUPL|74071.tif">
+
+      <document id="622475" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:f5fcbb8e2e27ea8018d800105a00e9622c5df925</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>0C9F58A881D3DA6360B867C398F84BB2</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:f5fcbb8e2e27ea8018d800105a00e9622c5df925</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>141050</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>74071.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

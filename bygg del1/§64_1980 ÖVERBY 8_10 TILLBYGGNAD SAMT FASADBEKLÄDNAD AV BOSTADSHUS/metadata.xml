@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§64/1980 ÖVERBY 8:10 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS">
+
+      <container id="714700" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>ÖVERBY 8:10</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1980-01-23</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>24018</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§64/1980 ÖVERBY 8:10 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§64/1980 ÖVERBY 8:10 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 428821 KOMPL RITN (ÄNDR RITN)">
+
+      <container id="715603" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 428821 KOMPL RITN (ÄNDR RITN)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§64/1980 ÖVERBY 8:10 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 428811 PL FAS SEKT (UPPMÄTN RITN)">
+
+      <container id="715601" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 428811 PL FAS SEKT (UPPMÄTN RITN)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§64/1980 ÖVERBY 8:10 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 428821 KOMPL RITN (ÄNDR RITN)|43099.tif">
+
+      <document id="715604" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:673ecb97105bab1cc10c99e5c83a8dc6395c2880</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>AE985335E335284CE70CE9E2685CEA77</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:673ecb97105bab1cc10c99e5c83a8dc6395c2880</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>278932</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>43099.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§64/1980 ÖVERBY 8:10 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 428811 PL FAS SEKT (UPPMÄTN RITN)|43098.tif">
+
+      <document id="715602" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:94ff1550101d48d7ebbcfe6f61c8c34a47033778</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>EDE79E37809D2B24C26582A07A0E69E7</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:94ff1550101d48d7ebbcfe6f61c8c34a47033778</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>209216</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>43098.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

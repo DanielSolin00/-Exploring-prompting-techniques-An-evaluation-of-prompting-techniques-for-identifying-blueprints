@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1958|§426/1958 FORSETE 1 ÄNDRING OCH FASADBEKLÄDNAD">
+
+      <container id="518929" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING OCH FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>FORSETE 1</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1958-06-04</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>53371</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§426/1958 FORSETE 1 ÄNDRING OCH FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1958|§426/1958 FORSETE 1 ÄNDRING OCH FASADBEKLÄDNAD|A 297141 PL FAS SEKT">
+
+      <container id="518930" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 297141 PL FAS SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1958|§426/1958 FORSETE 1 ÄNDRING OCH FASADBEKLÄDNAD|A 297141 PL FAS SEKT|29864.tif">
+
+      <document id="518931" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:1e2c02c2fe1dc6a468458b6cddbc4b502e267f50</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>CB2FA673E90C3B4AD031B3B1454A6E95</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:1e2c02c2fe1dc6a468458b6cddbc4b502e267f50</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>103698</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>29864.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1971|§720/1971 SURT 4 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS">
+
+      <container id="679247" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SURT 4</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1971-08-18</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>18631</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§720/1971 SURT 4 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1971|§720/1971 SURT 4 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 319001 FAS PL SEKT SIT">
+
+      <container id="679248" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 319001 FAS PL SEKT SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1971|§720/1971 SURT 4 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 319001 FAS PL SEKT SIT|32081.tif">
+
+      <document id="679249" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:3ac505c05fa488de1ce1f155e6c06057679ac081</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>6D654EB2D2E750D4A608058920625435</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:3ac505c05fa488de1ce1f155e6c06057679ac081</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>59260</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>32081.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

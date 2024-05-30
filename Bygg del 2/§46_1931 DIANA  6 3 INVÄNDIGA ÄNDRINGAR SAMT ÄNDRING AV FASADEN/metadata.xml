@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1931|§46/1931 DIANA  6 3 INVÄNDIGA ÄNDRINGAR SAMT ÄNDRING AV FASADEN">
+
+      <container id="473704" type="building_case">
+         <attribute type="Ärendemening">
+            <value>INVÄNDIGA ÄNDRINGAR SAMT ÄNDRING AV FASADEN</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>DIANA  6 3</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1931-01-30</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>1700</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§46/1931 DIANA  6 3 INVÄNDIGA ÄNDRINGAR SAMT ÄNDRING AV FASADEN</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1931|§46/1931 DIANA  6 3 INVÄNDIGA ÄNDRINGAR SAMT ÄNDRING AV FASADEN|A 213701 SEKT FAS PL">
+
+      <container id="473705" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 213701 SEKT FAS PL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1931|§46/1931 DIANA  6 3 INVÄNDIGA ÄNDRINGAR SAMT ÄNDRING AV FASADEN|A 213701 SEKT FAS PL|21494.tif">
+
+      <document id="473706" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:970f72b017bfc2f94fd4e2357011f331f142a94c</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>3FCEE5F35EA2E76F29B3C2C01D803006</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:970f72b017bfc2f94fd4e2357011f331f142a94c</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>116526</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>21494.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

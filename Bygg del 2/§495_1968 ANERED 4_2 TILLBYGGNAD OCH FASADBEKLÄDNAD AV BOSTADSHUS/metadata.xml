@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§495/1968 ANERED 4:2 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS">
+
+      <container id="485331" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>ANERED 4:2</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1968-05-08</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>232</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§495/1968 ANERED 4:2 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§495/1968 ANERED 4:2 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 149261 EK KARTA">
+
+      <container id="485334" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 149261 EK KARTA</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§495/1968 ANERED 4:2 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 149251 FAS PL SIT PLAN">
+
+      <container id="485332" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 149251 FAS PL SIT PLAN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§495/1968 ANERED 4:2 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 149261 EK KARTA|15004.tif">
+
+      <document id="485335" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:e7b9fac34f280fd476848150f005273edffafe93</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>E0070FBF4B5EF4A9E318E0C789ABDE1A</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:e7b9fac34f280fd476848150f005273edffafe93</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>194296</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>15004.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§495/1968 ANERED 4:2 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 149251 FAS PL SIT PLAN|15003.tif">
+
+      <document id="485333" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:ca858a3716d29a73d5415ead3c23d2c97dd93d67</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>923422D5937239C3B11E623684BA3F90</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:ca858a3716d29a73d5415ead3c23d2c97dd93d67</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>332172</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>15003.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

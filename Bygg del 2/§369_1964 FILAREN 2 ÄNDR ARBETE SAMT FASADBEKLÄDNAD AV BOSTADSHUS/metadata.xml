@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1964|§369/1964 FILAREN 2 ÄNDR ARBETE SAMT FASADBEKLÄDNAD AV BOSTADSHUS">
+
+      <container id="596123" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDR ARBETE SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>FILAREN 2</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1964-04-08</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>3147</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§369/1964 FILAREN 2 ÄNDR ARBETE SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1964|§369/1964 FILAREN 2 ÄNDR ARBETE SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 288801 FAS">
+
+      <container id="596126" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 288801 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1964|§369/1964 FILAREN 2 ÄNDR ARBETE SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 288791 PL SEKT SIT">
+
+      <container id="596124" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 288791 PL SEKT SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1964|§369/1964 FILAREN 2 ÄNDR ARBETE SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 288801 FAS|29014.tif">
+
+      <document id="596127" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:3b850278b1b5b2633c392b51637dea01c70db10c</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>38B1B0447486DE65F14BAC207F36874E</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:3b850278b1b5b2633c392b51637dea01c70db10c</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>214280</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>29014.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1964|§369/1964 FILAREN 2 ÄNDR ARBETE SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 288791 PL SEKT SIT|29013.tif">
+
+      <document id="596125" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:00f3b3f73abc50d5a56e9ff18970f3cff9e241b1</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>96E8A37D02F0B5976BA4519FF96946ED</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:00f3b3f73abc50d5a56e9ff18970f3cff9e241b1</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>159132</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>29013.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

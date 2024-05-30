@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§974/1970 SPEDITÖREN 1 RIVNING AV UTHUS, NYBYGGN AV GARAGE SAMT OM- O CH TILLBYGGN JÄMTE FASADBEKLÄDN AV BOSTADSHUS">
+
+      <container id="740172" type="building_case">
+         <attribute type="Ärendemening">
+            <value>RIVNING AV UTHUS, NYBYGGN AV GARAGE SAMT OM- O CH TILLBYGGN JÄMTE FASADBEKLÄDN AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SPEDITÖREN 1</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1970-12-16</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>17059</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§974/1970 SPEDITÖREN 1 RIVNING AV UTHUS, NYBYGGN AV GARAGE SAMT OM- O CH TILLBYGGN JÄMTE FASADBEKLÄDN AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§974/1970 SPEDITÖREN 1 RIVNING AV UTHUS, NYBYGGN AV GARAGE SAMT OM- O CH TILLBYGGN JÄMTE FASADBEKLÄDN AV BOSTADSHUS|A 388391 FAS">
+
+      <container id="740175" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 388391 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§974/1970 SPEDITÖREN 1 RIVNING AV UTHUS, NYBYGGN AV GARAGE SAMT OM- O CH TILLBYGGN JÄMTE FASADBEKLÄDN AV BOSTADSHUS|VA 1040601 VA-RITN">
+
+      <container id="740179" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1040601 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§974/1970 SPEDITÖREN 1 RIVNING AV UTHUS, NYBYGGN AV GARAGE SAMT OM- O CH TILLBYGGN JÄMTE FASADBEKLÄDN AV BOSTADSHUS|A 388381 PL SEKT SIT">
+
+      <container id="740173" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 388381 PL SEKT SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§974/1970 SPEDITÖREN 1 RIVNING AV UTHUS, NYBYGGN AV GARAGE SAMT OM- O CH TILLBYGGN JÄMTE FASADBEKLÄDN AV BOSTADSHUS|A 388391 FAS|39037.tif">
+
+      <document id="740176" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:3e2d4e4458c06cc1fe69852bdf9a08b4e9a122ea</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>E4D980263027BAE777957E4A4F6ED42F</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:3e2d4e4458c06cc1fe69852bdf9a08b4e9a122ea</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>71742</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>39037.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§974/1970 SPEDITÖREN 1 RIVNING AV UTHUS, NYBYGGN AV GARAGE SAMT OM- O CH TILLBYGGN JÄMTE FASADBEKLÄDN AV BOSTADSHUS|A 388401 RITN UTAN § SIT FAS">
+
+      <container id="740177" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 388401 RITN UTAN § SIT FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§974/1970 SPEDITÖREN 1 RIVNING AV UTHUS, NYBYGGN AV GARAGE SAMT OM- O CH TILLBYGGN JÄMTE FASADBEKLÄDN AV BOSTADSHUS|VA 1040601 VA-RITN|96300.tif">
+
+      <document id="740180" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:50b21f6b24f9e5b76be57f9989a66c8a4c6ed7f8</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>D3923F4AEE3ECDA9EB42BCDF055633F3</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:50b21f6b24f9e5b76be57f9989a66c8a4c6ed7f8</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>101904</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>96300.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§974/1970 SPEDITÖREN 1 RIVNING AV UTHUS, NYBYGGN AV GARAGE SAMT OM- O CH TILLBYGGN JÄMTE FASADBEKLÄDN AV BOSTADSHUS|A 388381 PL SEKT SIT|39036.tif">
+
+      <document id="740174" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:c69d86e075d7efd3ce2df2bd9a7a55fe4985322d</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>F3DA12BAB18E0E8A1624C95D8479096A</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:c69d86e075d7efd3ce2df2bd9a7a55fe4985322d</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>85034</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>39036.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§974/1970 SPEDITÖREN 1 RIVNING AV UTHUS, NYBYGGN AV GARAGE SAMT OM- O CH TILLBYGGN JÄMTE FASADBEKLÄDN AV BOSTADSHUS|A 388401 RITN UTAN § SIT FAS|39038.tif">
+
+      <document id="740178" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:a6513f74a2f7978ba26666457288510150f2e484</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>4F02A6FD19EC467791C6E91548402B03</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:a6513f74a2f7978ba26666457288510150f2e484</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>186604</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>39038.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

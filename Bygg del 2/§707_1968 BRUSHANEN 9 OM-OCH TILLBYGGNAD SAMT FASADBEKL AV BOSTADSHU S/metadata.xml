@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§707/1968 BRUSHANEN 9 OM-OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHU S">
+
+      <container id="466245" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OM-OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHU S</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>BRUSHANEN 9</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1968-07-10</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>52512</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§707/1968 BRUSHANEN 9 OM-OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHU S</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§707/1968 BRUSHANEN 9 OM-OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHU S|A 254121 FAS">
+
+      <container id="466248" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 254121 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§707/1968 BRUSHANEN 9 OM-OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHU S|A 254111 PL SEKT">
+
+      <container id="466246" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 254111 PL SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§707/1968 BRUSHANEN 9 OM-OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHU S|VA 1005701 VA-RITN">
+
+      <container id="466250" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1005701 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§707/1968 BRUSHANEN 9 OM-OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHU S|A 254121 FAS|25539.tif">
+
+      <document id="466249" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:c15df85040b77d5df6e82f690930778557511c41</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>CA6907F4E313B1696B010BA7353CE7BD</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:c15df85040b77d5df6e82f690930778557511c41</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>79370</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>25539.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§707/1968 BRUSHANEN 9 OM-OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHU S|A 254111 PL SEKT|25538.tif">
+
+      <document id="466247" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:89a81450353f21ed92537cceffe2a6d5d2b34341</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>D5CFCF81B2E9D589EB2C3F0390B874D5</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:89a81450353f21ed92537cceffe2a6d5d2b34341</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>74130</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>25538.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§707/1968 BRUSHANEN 9 OM-OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHU S|VA 1005701 VA-RITN|92771.tif">
+
+      <document id="466251" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:ef7ce2fc317f5eafe8079b26b3db15da83fa844e</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>7B2C989268B68B7FFFBD03FB09519BD2</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:ef7ce2fc317f5eafe8079b26b3db15da83fa844e</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>156730</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>92771.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

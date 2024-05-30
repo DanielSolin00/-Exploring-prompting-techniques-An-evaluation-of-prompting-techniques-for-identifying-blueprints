@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§99/1969 SPARVEN 3 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS JÄMTE RIVNING AV UTHUS">
+
+      <container id="734710" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS JÄMTE RIVNING AV UTHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SPARVEN 3</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1969-02-12</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>17030</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§99/1969 SPARVEN 3 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS JÄMTE RIVNING AV UTHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§99/1969 SPARVEN 3 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS JÄMTE RIVNING AV UTHUS|A 388231 FAS">
+
+      <container id="734715" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 388231 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§99/1969 SPARVEN 3 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS JÄMTE RIVNING AV UTHUS|VA 533431 PL">
+
+      <container id="734717" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 533431 PL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§99/1969 SPARVEN 3 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS JÄMTE RIVNING AV UTHUS|A 388211 PL SIT">
+
+      <container id="734711" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 388211 PL SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§99/1969 SPARVEN 3 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS JÄMTE RIVNING AV UTHUS|A 388221 VINDSPL SEKT">
+
+      <container id="734713" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 388221 VINDSPL SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§99/1969 SPARVEN 3 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS JÄMTE RIVNING AV UTHUS|A 388231 FAS|39021.tif">
+
+      <document id="734716" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:ff496641938f7b9e10b97df9545ef4431372ab5d</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>2909C2A2461794B6467EE41B59BF64F5</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:ff496641938f7b9e10b97df9545ef4431372ab5d</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>175440</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>39021.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§99/1969 SPARVEN 3 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS JÄMTE RIVNING AV UTHUS|VA 533431 PL|53647.tif">
+
+      <document id="734718" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:fb9e02e2c453d1368c5e91012251a5fdd110628c</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>12BD40B1D8C7515506C04F6B00715391</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:fb9e02e2c453d1368c5e91012251a5fdd110628c</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>361766</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>53647.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§99/1969 SPARVEN 3 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS JÄMTE RIVNING AV UTHUS|A 388211 PL SIT|39019.tif">
+
+      <document id="734712" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:d7c8bbf867416887f45abd1216792655b6fe2ee8</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>CB8303E7CDD97FDFAEAAF65701355EBE</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:d7c8bbf867416887f45abd1216792655b6fe2ee8</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>125636</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>39019.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§99/1969 SPARVEN 3 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS JÄMTE RIVNING AV UTHUS|A 388221 VINDSPL SEKT|39020.tif">
+
+      <document id="734714" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:0000c8f5d0cda4bd2316b37443da562a6004d035</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>CA4964EE85940673B83F10863CE40EBA</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:0000c8f5d0cda4bd2316b37443da562a6004d035</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>114752</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>39020.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

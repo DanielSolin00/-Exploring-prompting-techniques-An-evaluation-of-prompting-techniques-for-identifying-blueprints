@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§599/1968 TIMMERMANNEN 6 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS, RIVNING AV UTHUS">
+
+      <container id="721914" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS, RIVNING AV UTHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>TIMMERMANNEN 6</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1968-06-12</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>19891</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§599/1968 TIMMERMANNEN 6 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS, RIVNING AV UTHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§599/1968 TIMMERMANNEN 6 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS, RIVNING AV UTHUS|A 355691 SIT-PL PL FAS">
+
+      <container id="721915" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 355691 SIT-PL PL FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§599/1968 TIMMERMANNEN 6 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS, RIVNING AV UTHUS|A 355691 SIT-PL PL FAS|35758.tif">
+
+      <document id="721916" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:090d13fa19b341ece9af05b932379e491e83405e</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>63E194D34C9C7DB6B3C43456AA07FD6E</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:090d13fa19b341ece9af05b932379e491e83405e</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>123276</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35758.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§513/1982 BERSÅN 4 TILLBYGGNAD FASADBEKLÄDNAD SAMT TILLÄGGS-ISOLE RING">
+
+      <container id="471696" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD FASADBEKLÄDNAD SAMT TILLÄGGS-ISOLE RING</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>BERSÅN 4</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1982-05-26</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>51081</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§513/1982 BERSÅN 4 TILLBYGGNAD FASADBEKLÄDNAD SAMT TILLÄGGS-ISOLE RING</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§513/1982 BERSÅN 4 TILLBYGGNAD FASADBEKLÄDNAD SAMT TILLÄGGS-ISOLE RING|A 512321 SIT PLAN PL FAS MOT Ö,S,N">
+
+      <container id="471697" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 512321 SIT PLAN PL FAS MOT Ö,S,N</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§513/1982 BERSÅN 4 TILLBYGGNAD FASADBEKLÄDNAD SAMT TILLÄGGS-ISOLE RING|VA 512331 SIT PLAN GRUND-OCH BOTTENPLAN">
+
+      <container id="471699" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 512331 SIT PLAN GRUND-OCH BOTTENPLAN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§513/1982 BERSÅN 4 TILLBYGGNAD FASADBEKLÄDNAD SAMT TILLÄGGS-ISOLE RING|A 512321 SIT PLAN PL FAS MOT Ö,S,N|51494.tif">
+
+      <document id="471698" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:0a1daee56293248d46dfbab8170291c0980ac576</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>FA8330AC800545446FC79058ABD151B8</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:0a1daee56293248d46dfbab8170291c0980ac576</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>183204</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>51494.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§513/1982 BERSÅN 4 TILLBYGGNAD FASADBEKLÄDNAD SAMT TILLÄGGS-ISOLE RING|VA 512331 SIT PLAN GRUND-OCH BOTTENPLAN|51495.tif">
+
+      <document id="471700" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:f98359bd6313ea51ade08d0c468b2a152aa5c84b</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>30C09645F6BA8A788479660F43F0397F</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:f98359bd6313ea51ade08d0c468b2a152aa5c84b</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>69578</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>51495.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

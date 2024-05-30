@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§509/1968 TORSRED 2:19 ÄNDRING AV FASADERNA SAMT INREDNING AV BADRUM MED WC">
+
+      <container id="782671" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING AV FASADERNA SAMT INREDNING AV BADRUM MED WC</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>TORSRED 2:19</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1968-05-08</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>20581</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§509/1968 TORSRED 2:19 ÄNDRING AV FASADERNA SAMT INREDNING AV BADRUM MED WC</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§509/1968 TORSRED 2:19 ÄNDRING AV FASADERNA SAMT INREDNING AV BADRUM MED WC|A 436001 PL FAS SIT">
+
+      <container id="782672" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 436001 PL FAS SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§509/1968 TORSRED 2:19 ÄNDRING AV FASADERNA SAMT INREDNING AV BADRUM MED WC|A 436001 PL FAS SIT|43819.tif">
+
+      <document id="782673" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:d1bcf62a094a72a6a2294c769cf81ef7e1a3b696</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>12EFB85F662980D6FF7F14F796D07FCE</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:d1bcf62a094a72a6a2294c769cf81ef7e1a3b696</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>116400</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>43819.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

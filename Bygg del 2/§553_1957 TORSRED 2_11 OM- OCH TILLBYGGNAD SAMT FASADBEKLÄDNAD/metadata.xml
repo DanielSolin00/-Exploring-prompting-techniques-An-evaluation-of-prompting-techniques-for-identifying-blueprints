@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1957|§553/1957 TORSRED 2:11 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS">
+
+      <container id="812708" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>TORSRED 2:11</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1957-09-04</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>20565</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§553/1957 TORSRED 2:11 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1957|§553/1957 TORSRED 2:11 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 435971 KÄLLAR- O BOTTENPL FAS">
+
+      <container id="812709" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 435971 KÄLLAR- O BOTTENPL FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1957|§553/1957 TORSRED 2:11 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 435971 KÄLLAR- O BOTTENPL FAS|43816.tif">
+
+      <document id="812710" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:aea90f932dd6d71fc65bc85b76a65e876633ef14</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>859AEE575B3A41D9F4EC3EDD93FDF9FE</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:aea90f932dd6d71fc65bc85b76a65e876633ef14</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>135728</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>43816.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

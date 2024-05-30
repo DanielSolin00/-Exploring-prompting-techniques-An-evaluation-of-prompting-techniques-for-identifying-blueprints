@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1971|§583/1971 SNARTORP 4:2 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS">
+
+      <container id="826641" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SNARTORP 4:2</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1971-06-16</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>16741</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§583/1971 SNARTORP 4:2 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1971|§583/1971 SNARTORP 4:2 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 466741 PLAN FAS SEKT">
+
+      <container id="826644" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 466741 PLAN FAS SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1971|§583/1971 SNARTORP 4:2 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 466731 UTDRAG UR EK KARTA">
+
+      <container id="826642" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 466731 UTDRAG UR EK KARTA</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1971|§583/1971 SNARTORP 4:2 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 466741 PLAN FAS SEKT|46905.tif">
+
+      <document id="826645" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:fc066802daa5ef0db4a5538c49e96477dccd7902</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>858C857C6EB5B67E11FD94E42E13F6EF</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:fc066802daa5ef0db4a5538c49e96477dccd7902</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>268838</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>46905.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1971|§583/1971 SNARTORP 4:2 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 466731 UTDRAG UR EK KARTA|46904.tif">
+
+      <document id="826643" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:77b4ebfd27b5494fae5e474005a278a428a76615</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>28D4149868AC70A53416C35BCA7AAD5D</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:77b4ebfd27b5494fae5e474005a278a428a76615</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>149430</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>46904.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

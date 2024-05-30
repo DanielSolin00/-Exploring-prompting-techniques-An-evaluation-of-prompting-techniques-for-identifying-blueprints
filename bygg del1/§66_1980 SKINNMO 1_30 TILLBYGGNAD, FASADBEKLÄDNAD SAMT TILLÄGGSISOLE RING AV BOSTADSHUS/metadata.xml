@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§66/1980 SKINNMO 1:30 TILLBYGGNAD, FASADBEKLÄDNAD SAMT TILLÄGGSISOLE RING AV BOSTADSHUS">
+
+      <container id="780828" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD, FASADBEKLÄDNAD SAMT TILLÄGGSISOLE RING AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SKINNMO 1:30</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1980-01-23</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>15626</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§66/1980 SKINNMO 1:30 TILLBYGGNAD, FASADBEKLÄDNAD SAMT TILLÄGGSISOLE RING AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§66/1980 SKINNMO 1:30 TILLBYGGNAD, FASADBEKLÄDNAD SAMT TILLÄGGSISOLE RING AV BOSTADSHUS|A 428791 KOMPL RITN (BEF)">
+
+      <container id="780829" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 428791 KOMPL RITN (BEF)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§66/1980 SKINNMO 1:30 TILLBYGGNAD, FASADBEKLÄDNAD SAMT TILLÄGGSISOLE RING AV BOSTADSHUS|A 428801 KOMPL RITN (ÄNDR)">
+
+      <container id="780831" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 428801 KOMPL RITN (ÄNDR)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§66/1980 SKINNMO 1:30 TILLBYGGNAD, FASADBEKLÄDNAD SAMT TILLÄGGSISOLE RING AV BOSTADSHUS|A 502351 KOMPL RITN REL RITN">
+
+      <container id="780833" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 502351 KOMPL RITN REL RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§66/1980 SKINNMO 1:30 TILLBYGGNAD, FASADBEKLÄDNAD SAMT TILLÄGGSISOLE RING AV BOSTADSHUS|A 428791 KOMPL RITN (BEF)|43096.tif">
+
+      <document id="780830" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:757cc6d5129b2087a6a20976d1fe0ac641c34db8</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>22DBCA1EF26CFC4BC0DB30809C73622B</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:757cc6d5129b2087a6a20976d1fe0ac641c34db8</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>68024</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>43096.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§66/1980 SKINNMO 1:30 TILLBYGGNAD, FASADBEKLÄDNAD SAMT TILLÄGGSISOLE RING AV BOSTADSHUS|A 428801 KOMPL RITN (ÄNDR)|43097.tif">
+
+      <document id="780832" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:791295ac964b2ae1ece05b8a408d49197bd3db1a</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>E31DA52743F079D3E8C86D9069AB9A75</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:791295ac964b2ae1ece05b8a408d49197bd3db1a</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>85756</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>43097.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§66/1980 SKINNMO 1:30 TILLBYGGNAD, FASADBEKLÄDNAD SAMT TILLÄGGSISOLE RING AV BOSTADSHUS|A 502351 KOMPL RITN REL RITN|50497.tif">
+
+      <document id="780834" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:b0dfc2f6d5a60b2bb36c989c14816d95a21304f3</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>A11D59851D6628144502936E7B380D06</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:b0dfc2f6d5a60b2bb36c989c14816d95a21304f3</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>83134</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>50497.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

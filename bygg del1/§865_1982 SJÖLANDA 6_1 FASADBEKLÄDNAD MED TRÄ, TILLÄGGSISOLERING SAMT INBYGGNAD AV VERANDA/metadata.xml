@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§865/1982 SJÖLANDA 6:1 FASADBEKLÄDNAD MED TRÄ, TILLÄGGSISOLERING SAMT INBYGGNAD AV VERANDA">
+
+      <container id="677720" type="building_case">
+         <attribute type="Ärendemening">
+            <value>FASADBEKLÄDNAD MED TRÄ, TILLÄGGSISOLERING SAMT INBYGGNAD AV VERANDA</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SJÖLANDA 6:1</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1982-08-18</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>15427</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§865/1982 SJÖLANDA 6:1 FASADBEKLÄDNAD MED TRÄ, TILLÄGGSISOLERING SAMT INBYGGNAD AV VERANDA</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§865/1982 SJÖLANDA 6:1 FASADBEKLÄDNAD MED TRÄ, TILLÄGGSISOLERING SAMT INBYGGNAD AV VERANDA|A 524261 SIT">
+
+      <container id="677729" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 524261 SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§865/1982 SJÖLANDA 6:1 FASADBEKLÄDNAD MED TRÄ, TILLÄGGSISOLERING SAMT INBYGGNAD AV VERANDA|A 524281 FAS">
+
+      <container id="677733" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 524281 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§865/1982 SJÖLANDA 6:1 FASADBEKLÄDNAD MED TRÄ, TILLÄGGSISOLERING SAMT INBYGGNAD AV VERANDA|A 524291 FAS">
+
+      <container id="677735" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 524291 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§865/1982 SJÖLANDA 6:1 FASADBEKLÄDNAD MED TRÄ, TILLÄGGSISOLERING SAMT INBYGGNAD AV VERANDA|A 524241 FAS BEF">
+
+      <container id="677725" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 524241 FAS BEF</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§865/1982 SJÖLANDA 6:1 FASADBEKLÄDNAD MED TRÄ, TILLÄGGSISOLERING SAMT INBYGGNAD AV VERANDA|A 524251 FAS BEF">
+
+      <container id="677727" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 524251 FAS BEF</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§865/1982 SJÖLANDA 6:1 FASADBEKLÄDNAD MED TRÄ, TILLÄGGSISOLERING SAMT INBYGGNAD AV VERANDA|A 524271 BOTTENPL">
+
+      <container id="677731" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 524271 BOTTENPL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§865/1982 SJÖLANDA 6:1 FASADBEKLÄDNAD MED TRÄ, TILLÄGGSISOLERING SAMT INBYGGNAD AV VERANDA|A 524221 KÄLLARPL BEF">
+
+      <container id="677721" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 524221 KÄLLARPL BEF</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§865/1982 SJÖLANDA 6:1 FASADBEKLÄDNAD MED TRÄ, TILLÄGGSISOLERING SAMT INBYGGNAD AV VERANDA|A 524231 BOTTENPL BEF">
+
+      <container id="677723" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 524231 BOTTENPL BEF</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§865/1982 SJÖLANDA 6:1 FASADBEKLÄDNAD MED TRÄ, TILLÄGGSISOLERING SAMT INBYGGNAD AV VERANDA|A 524261 SIT|52711.tif">
+
+      <document id="677730" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:0ac3bfba46dadbb34a883f1e174dfab050559f08</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>4CCD9BCF8590CE1AE2A74357419696D8</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:0ac3bfba46dadbb34a883f1e174dfab050559f08</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>38950</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>52711.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§865/1982 SJÖLANDA 6:1 FASADBEKLÄDNAD MED TRÄ, TILLÄGGSISOLERING SAMT INBYGGNAD AV VERANDA|A 524281 FAS|52713.tif">
+
+      <document id="677734" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:c32ab3df10f074784daf7ee29759b45f3d679dfc</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>68C373957B00A036A9E964AD43807B8C</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:c32ab3df10f074784daf7ee29759b45f3d679dfc</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>65346</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>52713.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§865/1982 SJÖLANDA 6:1 FASADBEKLÄDNAD MED TRÄ, TILLÄGGSISOLERING SAMT INBYGGNAD AV VERANDA|A 524291 FAS|52714.tif">
+
+      <document id="677736" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:dc5d30e7b62dac247e5cfc7145a1b80a91afdc60</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>CE53ACF961B827297D43AEF4F443DFA2</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:dc5d30e7b62dac247e5cfc7145a1b80a91afdc60</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>61374</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>52714.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§865/1982 SJÖLANDA 6:1 FASADBEKLÄDNAD MED TRÄ, TILLÄGGSISOLERING SAMT INBYGGNAD AV VERANDA|A 524241 FAS BEF|52709.tif">
+
+      <document id="677726" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:4ca6f6caddd4b5db0c4be520a5b731907868fce1</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>8CE56AB3B2F79DD5B967DEB303021619</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:4ca6f6caddd4b5db0c4be520a5b731907868fce1</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>64308</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>52709.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§865/1982 SJÖLANDA 6:1 FASADBEKLÄDNAD MED TRÄ, TILLÄGGSISOLERING SAMT INBYGGNAD AV VERANDA|A 524251 FAS BEF|52710.tif">
+
+      <document id="677728" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:2a085df0bd3c95d78b5aa346d842eb39f6bed536</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>E94E969F277EAACCEC9B70B353A6388E</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:2a085df0bd3c95d78b5aa346d842eb39f6bed536</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>61486</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>52710.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§865/1982 SJÖLANDA 6:1 FASADBEKLÄDNAD MED TRÄ, TILLÄGGSISOLERING SAMT INBYGGNAD AV VERANDA|A 524271 BOTTENPL|52712.tif">
+
+      <document id="677732" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:aadac1ec63da3173682f0f13fd784c18260f38a2</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>BB027633D5BC13BF9AFEB95086ABF655</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:aadac1ec63da3173682f0f13fd784c18260f38a2</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>55200</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>52712.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§865/1982 SJÖLANDA 6:1 FASADBEKLÄDNAD MED TRÄ, TILLÄGGSISOLERING SAMT INBYGGNAD AV VERANDA|A 524221 KÄLLARPL BEF|52707.tif">
+
+      <document id="677722" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:7e7e733f9a4364ef39342de964f01b7cac44ea0a</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>D8DE2BCC52ED05F2FAE7E513EAB74F44</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:7e7e733f9a4364ef39342de964f01b7cac44ea0a</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>64686</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>52707.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§865/1982 SJÖLANDA 6:1 FASADBEKLÄDNAD MED TRÄ, TILLÄGGSISOLERING SAMT INBYGGNAD AV VERANDA|A 524231 BOTTENPL BEF|52708.tif">
+
+      <document id="677724" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:add46a093dbec067a0e9527946816f80f866788e</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>476755C31736C7E1E281AADB3F36479F</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:add46a093dbec067a0e9527946816f80f866788e</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>100126</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>52708.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

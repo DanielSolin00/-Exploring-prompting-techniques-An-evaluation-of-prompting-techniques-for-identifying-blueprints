@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§90/1984 EGIL 4 FASADBEKLÄDNAD MED TEAKBRUN LOCKPANEL (AU)">
+
+      <container id="523295" type="building_case">
+         <attribute type="Ärendemening">
+            <value>FASADBEKLÄDNAD MED TEAKBRUN LOCKPANEL (AU)</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>EGIL 4</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1984-04-12</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>2419</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§90/1984 EGIL 4 FASADBEKLÄDNAD MED TEAKBRUN LOCKPANEL (AU)</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§90/1984 EGIL 4 FASADBEKLÄDNAD MED TEAKBRUN LOCKPANEL (AU)|A 579941 FAS">
+
+      <container id="523296" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 579941 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§90/1984 EGIL 4 FASADBEKLÄDNAD MED TEAKBRUN LOCKPANEL (AU)|A 579941 FAS|58344.tif">
+
+      <document id="523297" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:8be01649f438a37ff35a22b4e07fcf3b18136a73</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>059FA34F2B00C8425E4A4682636CF713</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:8be01649f438a37ff35a22b4e07fcf3b18136a73</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>284154</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>58344.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

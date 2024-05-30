@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§544/1972 VÄSTBJÖRKE 2:50 TILLBYGGNAD OCH FASADBEKLÄDNAD AV ENBOSTADSHUS">
+
+      <container id="715013" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD OCH FASADBEKLÄDNAD AV ENBOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>VÄSTBJÖRKE 2:50</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1972-05-17</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>22631</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§544/1972 VÄSTBJÖRKE 2:50 TILLBYGGNAD OCH FASADBEKLÄDNAD AV ENBOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§544/1972 VÄSTBJÖRKE 2:50 TILLBYGGNAD OCH FASADBEKLÄDNAD AV ENBOSTADSHUS|A 363351 KOMPL RITN">
+
+      <container id="715014" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 363351 KOMPL RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§544/1972 VÄSTBJÖRKE 2:50 TILLBYGGNAD OCH FASADBEKLÄDNAD AV ENBOSTADSHUS|A 363351 KOMPL RITN|36525.tif">
+
+      <document id="715015" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:aa1e18abc98a65ca935324602c2aa8b9158776ce</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>E8AE6AB6B139C495CACBD880DDBEED14</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:aa1e18abc98a65ca935324602c2aa8b9158776ce</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>275482</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>36525.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

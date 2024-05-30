@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1963|§742/1963 VANADIS 2 ÄNDRING SAMT FASADBEKL PÅ BOSTADSHUS">
+
+      <container id="695753" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING SAMT FASADBEKL PÅ BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>VANADIS 2</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1963-09-04</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>21688</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§742/1963 VANADIS 2 ÄNDRING SAMT FASADBEKL PÅ BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1963|§742/1963 VANADIS 2 ÄNDRING SAMT FASADBEKL PÅ BOSTADSHUS|A 379841 SIT-PL PL FAS">
+
+      <container id="695754" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 379841 SIT-PL PL FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1963|§742/1963 VANADIS 2 ÄNDRING SAMT FASADBEKL PÅ BOSTADSHUS|A 379841 SIT-PL PL FAS|38179.tif">
+
+      <document id="695755" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:0e396cea61386a88be5ae99266077483a0344de7</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>1A4CA872793EF50873D12B2CE5228A83</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:0e396cea61386a88be5ae99266077483a0344de7</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>66064</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>38179.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

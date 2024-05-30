@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§401/1967 BARDEN 4 INREDNING AV VIND SAMT FASADBEKLÄDN AV BOSTADS HUS">
+
+      <container id="477340" type="building_case">
+         <attribute type="Ärendemening">
+            <value>INREDNING AV VIND SAMT FASADBEKLÄDN AV BOSTADS HUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>BARDEN 4</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1967-04-12</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>944</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§401/1967 BARDEN 4 INREDNING AV VIND SAMT FASADBEKLÄDN AV BOSTADS HUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§401/1967 BARDEN 4 INREDNING AV VIND SAMT FASADBEKLÄDN AV BOSTADS HUS|A 353551 FAS MOT NV,SO">
+
+      <container id="477343" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 353551 FAS MOT NV,SO</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§401/1967 BARDEN 4 INREDNING AV VIND SAMT FASADBEKLÄDN AV BOSTADS HUS|A 353551 FAS MOT NV,SO|35544.tif">
+
+      <document id="477344" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:79b497c241437843947a69704e0ac9a2b877d5a0</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>2E93D93B9C117CB9D3ADB45DEBDD1C8E</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:79b497c241437843947a69704e0ac9a2b877d5a0</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>56718</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35544.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§401/1967 BARDEN 4 INREDNING AV VIND SAMT FASADBEKLÄDN AV BOSTADS HUS|A 353541 SIT VINDSPL FAS MOT NÖ SEKT">
+
+      <container id="477341" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 353541 SIT VINDSPL FAS MOT NÖ SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§401/1967 BARDEN 4 INREDNING AV VIND SAMT FASADBEKLÄDN AV BOSTADS HUS|A 353541 SIT VINDSPL FAS MOT NÖ SEKT|35543.tif">
+
+      <document id="477342" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:be7af981e7003724d60493102da3424a523ddfeb</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>0D2F6A44645A51D2C3F429D44FF61ED0</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:be7af981e7003724d60493102da3424a523ddfeb</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>137268</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35543.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

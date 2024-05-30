@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§488/1968 GLADAN 4 TILLBYGGNAD, ÄNDRING OCH FASADBEKL AV BOSTADSH US SAMT RIVNING AV BEF UTHUS">
+
+      <container id="637318" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD, ÄNDRING OCH FASADBEKL AV BOSTADSH US SAMT RIVNING AV BEF UTHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>GLADAN 4</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1968-05-08</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>53837</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§488/1968 GLADAN 4 TILLBYGGNAD, ÄNDRING OCH FASADBEKL AV BOSTADSH US SAMT RIVNING AV BEF UTHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§488/1968 GLADAN 4 TILLBYGGNAD, ÄNDRING OCH FASADBEKL AV BOSTADSH US SAMT RIVNING AV BEF UTHUS|A 369731 FAS">
+
+      <container id="637321" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 369731 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§488/1968 GLADAN 4 TILLBYGGNAD, ÄNDRING OCH FASADBEKL AV BOSTADSH US SAMT RIVNING AV BEF UTHUS|A 369731 FAS|37165.tif">
+
+      <document id="637322" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:154fae94e23d024f4f2ac574530643a45741e3a9</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>E7AE7811702934A8A9B933CA17224D46</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:154fae94e23d024f4f2ac574530643a45741e3a9</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>227982</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>37165.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§488/1968 GLADAN 4 TILLBYGGNAD, ÄNDRING OCH FASADBEKL AV BOSTADSH US SAMT RIVNING AV BEF UTHUS|A 369721 SIT KÄLLAR- OCH BOTTENPL SEKT">
+
+      <container id="637319" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 369721 SIT KÄLLAR- OCH BOTTENPL SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§488/1968 GLADAN 4 TILLBYGGNAD, ÄNDRING OCH FASADBEKL AV BOSTADSH US SAMT RIVNING AV BEF UTHUS|A 369721 SIT KÄLLAR- OCH BOTTENPL SEKT|37164.tif">
+
+      <document id="637320" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:74d725b10b3e65a6471af5e882c83349233ffe54</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>5E06638B02CE71D900F2F71C5A30DF34</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:74d725b10b3e65a6471af5e882c83349233ffe54</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>309628</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>37164.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

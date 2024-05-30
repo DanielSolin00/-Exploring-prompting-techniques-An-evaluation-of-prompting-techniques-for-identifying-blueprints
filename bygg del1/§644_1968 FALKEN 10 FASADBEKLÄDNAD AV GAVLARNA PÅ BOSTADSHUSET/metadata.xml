@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§644/1968 FALKEN 10 FASADBEKLÄDNAD AV GAVLARNA PÅ BOSTADSHUSET">
+
+      <container id="559034" type="building_case">
+         <attribute type="Ärendemening">
+            <value>FASADBEKLÄDNAD AV GAVLARNA PÅ BOSTADSHUSET</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>FALKEN 10</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1968-06-12</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>3021</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§644/1968 FALKEN 10 FASADBEKLÄDNAD AV GAVLARNA PÅ BOSTADSHUSET</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§644/1968 FALKEN 10 FASADBEKLÄDNAD AV GAVLARNA PÅ BOSTADSHUSET|A 287541 FAS MOT N,Ö,S">
+
+      <container id="559035" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 287541 FAS MOT N,Ö,S</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§644/1968 FALKEN 10 FASADBEKLÄDNAD AV GAVLARNA PÅ BOSTADSHUSET|A 287541 FAS MOT N,Ö,S|28888.tif">
+
+      <document id="559036" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:21bccbb98e5b7117c092551fcc4c0e2581431412</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>E2597AB5648B42293941E0F6BC24788D</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:21bccbb98e5b7117c092551fcc4c0e2581431412</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>53884</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>28888.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

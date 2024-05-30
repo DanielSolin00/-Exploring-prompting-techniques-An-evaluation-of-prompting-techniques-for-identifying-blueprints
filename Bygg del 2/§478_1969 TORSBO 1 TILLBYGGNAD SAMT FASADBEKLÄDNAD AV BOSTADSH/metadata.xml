@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§478/1969 TORSBO 1 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS">
+
+      <container id="842494" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>TORSBO 1</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1969-06-11</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>20491</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§478/1969 TORSBO 1 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§478/1969 TORSBO 1 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 260971 FAS SIT">
+
+      <container id="842495" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 260971 FAS SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§478/1969 TORSBO 1 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 260981 PL SEKT">
+
+      <container id="842497" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 260981 PL SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§478/1969 TORSBO 1 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 260971 FAS SIT|26227.tif">
+
+      <document id="842496" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:4eab3567a0e296cd1df1e94c89198ce33bf80784</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>DF97C7166CFFA11D7BF63EE0A2EBB29D</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:4eab3567a0e296cd1df1e94c89198ce33bf80784</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>66122</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>26227.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§478/1969 TORSBO 1 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 260981 PL SEKT|26228.tif">
+
+      <document id="842498" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:ed5571ae98055fbed14f05910a6f4646841fc3f2</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>D45283A324269FB3D7CC414938A5C42C</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:ed5571ae98055fbed14f05910a6f4646841fc3f2</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>58526</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>26228.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§788/1965 SLIPAREN 8 TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHUS">
+
+      <container id="684682" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SLIPAREN 8</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1965-10-06</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>16436</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§788/1965 SLIPAREN 8 TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§788/1965 SLIPAREN 8 TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHUS|A 392841 SIT">
+
+      <container id="684683" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 392841 SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§788/1965 SLIPAREN 8 TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHUS|A 392871 VINDSPL">
+
+      <container id="684689" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 392871 VINDSPL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§788/1965 SLIPAREN 8 TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHUS|A 392851 KÄLLARPL">
+
+      <container id="684685" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 392851 KÄLLARPL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§788/1965 SLIPAREN 8 TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHUS|A 392861 BOTTENPL">
+
+      <container id="684687" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 392861 BOTTENPL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§788/1965 SLIPAREN 8 TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHUS|A 392881 FAS MOT S">
+
+      <container id="684691" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 392881 FAS MOT S</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§788/1965 SLIPAREN 8 TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHUS|A 392891 FAS MOT Ö">
+
+      <container id="684693" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 392891 FAS MOT Ö</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§788/1965 SLIPAREN 8 TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHUS|A 392901 FAS MOT N">
+
+      <container id="684695" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 392901 FAS MOT N</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§788/1965 SLIPAREN 8 TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHUS|VA 1039561 VA-RITN">
+
+      <container id="684699" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1039561 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§788/1965 SLIPAREN 8 TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHUS|VA 1039601 VA-RITN">
+
+      <container id="685701" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1039601 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§788/1965 SLIPAREN 8 TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHUS|A 392911 SEKTION A-A">
+
+      <container id="684697" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 392911 SEKTION A-A</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§788/1965 SLIPAREN 8 TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHUS|A 392841 SIT|39482.tif">
+
+      <document id="684684" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:01ea8487812f771cb6d24d17d6278fcfb944934e</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>BDBDD3BAC2CC5723FC21ACA0B03564B2</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:01ea8487812f771cb6d24d17d6278fcfb944934e</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>94946</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>39482.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§788/1965 SLIPAREN 8 TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHUS|A 392871 VINDSPL|39485.tif">
+
+      <document id="684690" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:66ea32d4fd22c422db2a51da9cf13eaa770b5ef2</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>45B474A99C7F45985A5E1A244EFCB28E</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:66ea32d4fd22c422db2a51da9cf13eaa770b5ef2</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>123712</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>39485.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§788/1965 SLIPAREN 8 TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHUS|A 392851 KÄLLARPL|39483.tif">
+
+      <document id="684686" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:4f5dc395cd8728e4d28064f697e7610dd5b9aec6</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>577844E9CE326329379B1BCF5BC0A719</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:4f5dc395cd8728e4d28064f697e7610dd5b9aec6</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>111260</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>39483.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§788/1965 SLIPAREN 8 TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHUS|A 392861 BOTTENPL|39484.tif">
+
+      <document id="684688" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:01c35cdc1085a384b4f4ea1acdbf76ae4c03361e</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>0661CE3787576A4636349D82D4449CCF</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:01c35cdc1085a384b4f4ea1acdbf76ae4c03361e</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>139026</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>39484.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§788/1965 SLIPAREN 8 TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHUS|A 392881 FAS MOT S|39486.tif">
+
+      <document id="684692" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:4a2984082920e345b7362ced971c8fa1918f4c2b</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>D97026EB51D6218AF382FD313D7A2381</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:4a2984082920e345b7362ced971c8fa1918f4c2b</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>135622</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>39486.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§788/1965 SLIPAREN 8 TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHUS|A 392891 FAS MOT Ö|39487.tif">
+
+      <document id="684694" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:049ae5b5a46cf04b201e9a27ba0671f4e90eb6f9</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>27CF2D267FCFCC4202BC5C14E0498E9D</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:049ae5b5a46cf04b201e9a27ba0671f4e90eb6f9</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>116604</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>39487.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§788/1965 SLIPAREN 8 TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHUS|A 392901 FAS MOT N|39488.tif">
+
+      <document id="684696" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:10921ba4f6e72541241a5790919eadc97ba80c82</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>22496D597A5FD594BEFE977B802B0BDD</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:10921ba4f6e72541241a5790919eadc97ba80c82</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>210618</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>39488.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§788/1965 SLIPAREN 8 TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHUS|VA 1039561 VA-RITN|96196.tif">
+
+      <document id="684700" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:64d466ef882a97d2484d3b05d8efe1be33db08e5</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>21164CF2CD531E98A1EC0461A1A6BD02</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:64d466ef882a97d2484d3b05d8efe1be33db08e5</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>105850</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>96196.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§788/1965 SLIPAREN 8 TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHUS|VA 1039601 VA-RITN|96200.tif">
+
+      <document id="685702" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:28376170c03f2d8b1d9454fc570546c44f42e676</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>38FC02B8F84C2E369546570799703F1C</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:28376170c03f2d8b1d9454fc570546c44f42e676</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>75058</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>96200.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§788/1965 SLIPAREN 8 TILLBYGGNAD SAMT FASADBEKL AV BOSTADSHUS|A 392911 SEKTION A-A|39489.tif">
+
+      <document id="684698" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:1577a3641e0d7f3bae99652edbf2d399ee197ef3</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>B1165D138AE3F1A3EA9CFF4E86E30BF3</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:1577a3641e0d7f3bae99652edbf2d399ee197ef3</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>161964</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>39489.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

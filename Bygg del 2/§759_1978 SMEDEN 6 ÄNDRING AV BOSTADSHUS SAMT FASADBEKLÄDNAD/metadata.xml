@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§759/1978 SMEDEN 6 ÄNDRING AV BOSTADSHUS SAMT FASADBEKLÄDNAD">
+
+      <container id="768137" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING AV BOSTADSHUS SAMT FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SMEDEN 6</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1978-06-28</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>16595</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§759/1978 SMEDEN 6 ÄNDRING AV BOSTADSHUS SAMT FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§759/1978 SMEDEN 6 ÄNDRING AV BOSTADSHUS SAMT FASADBEKLÄDNAD|A 256451 FAS">
+
+      <container id="768138" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 256451 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§759/1978 SMEDEN 6 ÄNDRING AV BOSTADSHUS SAMT FASADBEKLÄDNAD|VA 1039951 VA-RITN">
+
+      <container id="768140" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1039951 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§759/1978 SMEDEN 6 ÄNDRING AV BOSTADSHUS SAMT FASADBEKLÄDNAD|A 256451 FAS|25774.tif">
+
+      <document id="768139" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:527d6d455408db9ed49046d01bf3ba23ce83e19c</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>B1456D5A79395947F194A58C2E4E7B91</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:527d6d455408db9ed49046d01bf3ba23ce83e19c</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>197878</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>25774.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§759/1978 SMEDEN 6 ÄNDRING AV BOSTADSHUS SAMT FASADBEKLÄDNAD|VA 1039951 VA-RITN|96235.tif">
+
+      <document id="768141" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:b3b88dcd477766f870e3138fb18dcdcb6c357772</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>5FE05DBFA31A2A09392A0C70E5CB7F8C</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:b3b88dcd477766f870e3138fb18dcdcb6c357772</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>107730</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>96235.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

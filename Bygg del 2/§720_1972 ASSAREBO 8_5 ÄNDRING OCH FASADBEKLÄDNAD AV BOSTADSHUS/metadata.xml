@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§720/1972 ASSAREBO 8:5 ÄNDRING OCH FASADBEKLÄDNAD AV BOSTADSHUS">
+
+      <container id="481629" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING OCH FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>ASSAREBO 8:5</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1972-06-28</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>526</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§720/1972 ASSAREBO 8:5 ÄNDRING OCH FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§720/1972 ASSAREBO 8:5 ÄNDRING OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 469281 KOMPL RITN">
+
+      <container id="481630" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 469281 KOMPL RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§720/1972 ASSAREBO 8:5 ÄNDRING OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 469281 KOMPL RITN|47160.tif">
+
+      <document id="481631" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:96418cb7cdb0130094e1f077b9dbc51320f8cab4</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>C493B00D51361045DCF966C36964B2C7</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:96418cb7cdb0130094e1f077b9dbc51320f8cab4</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>72470</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>47160.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

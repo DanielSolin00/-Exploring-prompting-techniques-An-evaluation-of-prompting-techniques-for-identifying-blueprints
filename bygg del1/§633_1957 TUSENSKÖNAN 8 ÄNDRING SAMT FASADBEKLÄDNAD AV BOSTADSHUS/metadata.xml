@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1957|§633/1957 TUSENSKÖNAN 8 ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS">
+
+      <container id="778053" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>TUSENSKÖNAN 8</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1957-10-02</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>21071</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§633/1957 TUSENSKÖNAN 8 ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1957|§633/1957 TUSENSKÖNAN 8 ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 356671 FAS MOT SV,NV">
+
+      <container id="778054" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 356671 FAS MOT SV,NV</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1957|§633/1957 TUSENSKÖNAN 8 ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 356681 FAS MOT NÖ,SÖ">
+
+      <container id="778056" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 356681 FAS MOT NÖ,SÖ</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1957|§633/1957 TUSENSKÖNAN 8 ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 356671 FAS MOT SV,NV|35856.tif">
+
+      <document id="778055" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:b9d325d365c8e3ec8ce13d4b8b8f9b7df2f32d72</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>0E7BD7DCB592208FB4BCA1F3C38A5EFA</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:b9d325d365c8e3ec8ce13d4b8b8f9b7df2f32d72</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>368720</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35856.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1957|§633/1957 TUSENSKÖNAN 8 ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 356681 FAS MOT NÖ,SÖ|35857.tif">
+
+      <document id="778057" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:0a4ec2b5ba274f0aed6e755f5551a4830f204408</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>711DB82A1AB8ABEC2FFC637A21DC80D1</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:0a4ec2b5ba274f0aed6e755f5551a4830f204408</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>315288</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35857.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

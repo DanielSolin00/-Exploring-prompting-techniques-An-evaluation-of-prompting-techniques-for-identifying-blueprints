@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§841/1970 SPONTHYVELN 5 FASADBEKLÄDNAD AV BOSTADSHUS">
+
+      <container id="761134" type="building_case">
+         <attribute type="Ärendemening">
+            <value>FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SPONTHYVELN 5</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1970-10-21</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>17172</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§841/1970 SPONTHYVELN 5 FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§841/1970 SPONTHYVELN 5 FASADBEKLÄDNAD AV BOSTADSHUS|A 471001 SIT-PL PL FAS">
+
+      <container id="761135" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 471001 SIT-PL PL FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§841/1970 SPONTHYVELN 5 FASADBEKLÄDNAD AV BOSTADSHUS|A 471001 SIT-PL PL FAS|47332.tif">
+
+      <document id="761136" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:b46118ffd6f16603c7290dfc370147e59cf27d6a</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>62ADBBA746839B230C4D861360247F2B</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:b46118ffd6f16603c7290dfc370147e59cf27d6a</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>76154</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>47332.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

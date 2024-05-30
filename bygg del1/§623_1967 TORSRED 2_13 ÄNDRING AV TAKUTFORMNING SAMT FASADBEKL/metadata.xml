@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§623/1967 TORSRED 2:13 ÄNDRING AV TAKUTFORMNING SAMT FASADBEKLÄDNAD AV BOSTADSHUS">
+
+      <container id="812901" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING AV TAKUTFORMNING SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>TORSRED 2:13</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1967-06-14</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>20568</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§623/1967 TORSRED 2:13 ÄNDRING AV TAKUTFORMNING SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§623/1967 TORSRED 2:13 ÄNDRING AV TAKUTFORMNING SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 436041 FAS MOT N,Ö">
+
+      <container id="812902" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 436041 FAS MOT N,Ö</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§623/1967 TORSRED 2:13 ÄNDRING AV TAKUTFORMNING SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 436051 FAS MOT N,Ö">
+
+      <container id="812904" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 436051 FAS MOT N,Ö</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§623/1967 TORSRED 2:13 ÄNDRING AV TAKUTFORMNING SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 436041 FAS MOT N,Ö|43823.tif">
+
+      <document id="812903" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:dd169d6eeb9d7f4896d5e103dd5259d56e628f16</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>F7CFA726539CE8F30E6893921BDCC574</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:dd169d6eeb9d7f4896d5e103dd5259d56e628f16</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>51134</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>43823.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§623/1967 TORSRED 2:13 ÄNDRING AV TAKUTFORMNING SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 436051 FAS MOT N,Ö|43824.tif">
+
+      <document id="812905" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:2a0b7d04560000abccd9503ea82b867e95d78bf5</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>B8C86ECE61EC4CA1FBBB34EAA7154982</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:2a0b7d04560000abccd9503ea82b867e95d78bf5</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>77090</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>43824.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

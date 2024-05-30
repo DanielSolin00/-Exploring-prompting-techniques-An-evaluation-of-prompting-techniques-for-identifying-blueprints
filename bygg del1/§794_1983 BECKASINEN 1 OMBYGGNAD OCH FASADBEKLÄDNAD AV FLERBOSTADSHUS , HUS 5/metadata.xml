@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§794/1983 BECKASINEN 1 OMBYGGNAD OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS , HUS 5">
+
+      <container id="539964" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OMBYGGNAD OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS , HUS 5</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>BECKASINEN 1</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1983-09-28</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>1063</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§794/1983 BECKASINEN 1 OMBYGGNAD OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS , HUS 5</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§794/1983 BECKASINEN 1 OMBYGGNAD OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS , HUS 5|A 564531 SIT">
+
+      <container id="539965" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 564531 SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§794/1983 BECKASINEN 1 OMBYGGNAD OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS , HUS 5|A 564561 FAS">
+
+      <container id="539971" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 564561 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§794/1983 BECKASINEN 1 OMBYGGNAD OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS , HUS 5|VA 564571 SIT">
+
+      <container id="539973" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 564571 SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§794/1983 BECKASINEN 1 OMBYGGNAD OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS , HUS 5|A 564541 VÅN.PL">
+
+      <container id="539967" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 564541 VÅN.PL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§794/1983 BECKASINEN 1 OMBYGGNAD OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS , HUS 5|A 564531 SIT|56793.tif">
+
+      <document id="539966" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:5f358686cab856134da2adc417b4e6475ef16d84</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>32F7134BCA4DA21DBA0F434A69026A98</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:5f358686cab856134da2adc417b4e6475ef16d84</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>155664</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>56793.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§794/1983 BECKASINEN 1 OMBYGGNAD OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS , HUS 5|A 564551 PL - KÖKSRITN">
+
+      <container id="539969" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 564551 PL - KÖKSRITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§794/1983 BECKASINEN 1 OMBYGGNAD OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS , HUS 5|A 564561 FAS|56796.tif">
+
+      <document id="539972" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:6566e6610e09f137a9a7dc327ace767f553ef3fa</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>D828F4E8E1A2580BDC1496BBBFF860BF</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:6566e6610e09f137a9a7dc327ace767f553ef3fa</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>104210</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>56796.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§794/1983 BECKASINEN 1 OMBYGGNAD OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS , HUS 5|VA 564571 SIT|56797.tif">
+
+      <document id="539974" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:f5ca12d48cb42ca70441d2cb3c1c12cd6e3b1bff</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>8D5BB9B42771FD26420838A3C276E4A8</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:f5ca12d48cb42ca70441d2cb3c1c12cd6e3b1bff</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>147036</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>56797.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§794/1983 BECKASINEN 1 OMBYGGNAD OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS , HUS 5|VA 564581 PL - KÖKSRITN">
+
+      <container id="539975" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 564581 PL - KÖKSRITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§794/1983 BECKASINEN 1 OMBYGGNAD OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS , HUS 5|A 564541 VÅN.PL|56794.tif">
+
+      <document id="539968" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:97805540aaf4eb1624f3cded12b8a67ec4eb9cb3</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>47EDA187535C3F22BA3AB2AC776249C4</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:97805540aaf4eb1624f3cded12b8a67ec4eb9cb3</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>85828</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>56794.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§794/1983 BECKASINEN 1 OMBYGGNAD OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS , HUS 5|A 564551 PL - KÖKSRITN|56795.tif">
+
+      <document id="539970" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:d7c190b65c37c73bb5612a45a43fdcd3c775072f</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>2394F52D0AC2A3A9F0A367121A61C37B</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:d7c190b65c37c73bb5612a45a43fdcd3c775072f</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>83478</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>56795.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§794/1983 BECKASINEN 1 OMBYGGNAD OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS , HUS 5|VA 564581 PL - KÖKSRITN|56798.tif">
+
+      <document id="539976" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:61861f7d5236a0a2bdcfcff0575081f378ca5760</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>E331274699E2FFF010BFC25EFA473645</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:61861f7d5236a0a2bdcfcff0575081f378ca5760</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>97106</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>56798.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

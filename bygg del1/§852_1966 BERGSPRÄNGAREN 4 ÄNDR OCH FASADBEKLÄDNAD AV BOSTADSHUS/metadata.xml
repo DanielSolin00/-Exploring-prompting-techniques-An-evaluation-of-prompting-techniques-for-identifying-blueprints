@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1966|§852/1966 BERGSPRÄNGAREN 4 ÄNDR OCH FASADBEKLÄDNAD AV BOSTADSHUS">
+
+      <container id="463735" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDR OCH FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>BERGSPRÄNGAREN 4</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1966-08-03</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>51019</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§852/1966 BERGSPRÄNGAREN 4 ÄNDR OCH FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1966|§852/1966 BERGSPRÄNGAREN 4 ÄNDR OCH FASADBEKLÄDNAD AV BOSTADSHUS|VA 1002321 VA-RITN">
+
+      <container id="463738" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1002321 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1966|§852/1966 BERGSPRÄNGAREN 4 ÄNDR OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 236511 KOMPL RITN">
+
+      <container id="463736" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 236511 KOMPL RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1966|§852/1966 BERGSPRÄNGAREN 4 ÄNDR OCH FASADBEKLÄDNAD AV BOSTADSHUS|VA 1002321 VA-RITN|92427.tif">
+
+      <document id="463739" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:fff71edde0ec1627cd133ef35754a2ff7dee8429</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>BB51E9463FE2ED6C1770D55C4B05D676</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:fff71edde0ec1627cd133ef35754a2ff7dee8429</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>101668</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>92427.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1966|§852/1966 BERGSPRÄNGAREN 4 ÄNDR OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 236511 KOMPL RITN|23776.tif">
+
+      <document id="463737" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:fa0c3ecdeed37a1a619d4eae221128952d0368cd</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>0DC0A2B408CB62E60120A411F3DDF05E</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:fa0c3ecdeed37a1a619d4eae221128952d0368cd</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>57254</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>23776.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

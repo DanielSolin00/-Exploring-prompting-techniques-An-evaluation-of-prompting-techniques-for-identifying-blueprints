@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§613/1967 SKORPIONEN 18 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS">
+
+      <container id="696632" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SKORPIONEN 18</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1967-06-14</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>16166</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§613/1967 SKORPIONEN 18 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§613/1967 SKORPIONEN 18 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 256801 FAS">
+
+      <container id="696639" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 256801 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§613/1967 SKORPIONEN 18 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 256781 PL SIT">
+
+      <container id="696635" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 256781 PL SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§613/1967 SKORPIONEN 18 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 256771 UPPMÄTN.RITN">
+
+      <container id="696633" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 256771 UPPMÄTN.RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§613/1967 SKORPIONEN 18 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 256791 UPPMÄTN.RITN">
+
+      <container id="696637" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 256791 UPPMÄTN.RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§613/1967 SKORPIONEN 18 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 256801 FAS|25809.tif">
+
+      <document id="696640" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:380debb20350e3b0058c85b35a22f16d6026cd25</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>A73F2012D8A502C3C0E48BD614F81E3E</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:380debb20350e3b0058c85b35a22f16d6026cd25</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>149080</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>25809.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§613/1967 SKORPIONEN 18 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 256781 PL SIT|25807.tif">
+
+      <document id="696636" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:1b9f5cc0646e287628b3a25ac5e6152f923fb4ed</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>A4442FC1FAAA9D5FD2E7F514277BB973</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:1b9f5cc0646e287628b3a25ac5e6152f923fb4ed</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>149674</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>25807.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§613/1967 SKORPIONEN 18 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 256771 UPPMÄTN.RITN|25806.tif">
+
+      <document id="696634" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:117f728465f6fdd0b9fb5b3238d6e6d337fcba40</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>EDE71782902CB6C8E1B00AFF1C0E5F43</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:117f728465f6fdd0b9fb5b3238d6e6d337fcba40</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>202216</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>25806.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§613/1967 SKORPIONEN 18 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 256791 UPPMÄTN.RITN|25808.tif">
+
+      <document id="696638" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:70417f2cdfd214ca00125d68df8cc2fd68e638cd</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>3173FD27237C4165555C1C700DCE7EC0</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:70417f2cdfd214ca00125d68df8cc2fd68e638cd</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>226196</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>25808.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

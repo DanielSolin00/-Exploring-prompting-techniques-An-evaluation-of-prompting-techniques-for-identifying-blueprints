@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1973|§508/1973 TÄRNAN 7 ÄNDRING OCH FASADBEKL AV ENBOSTADSHUS">
+
+      <container id="782494" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING OCH FASADBEKL AV ENBOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>TÄRNAN 7</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1973-04-11</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>21228</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§508/1973 TÄRNAN 7 ÄNDRING OCH FASADBEKL AV ENBOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1973|§508/1973 TÄRNAN 7 ÄNDRING OCH FASADBEKL AV ENBOSTADSHUS|A 262601 FAS MOT SV">
+
+      <container id="782495" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 262601 FAS MOT SV</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1973|§508/1973 TÄRNAN 7 ÄNDRING OCH FASADBEKL AV ENBOSTADSHUS|A 262601 FAS MOT SV|26390.tif">
+
+      <document id="782496" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:a8110f855e52b8c0ecf2d7b30485b96d1b4b6ee2</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>DA29693D12F8368F49E738E0CF518BA8</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:a8110f855e52b8c0ecf2d7b30485b96d1b4b6ee2</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>67652</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>26390.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

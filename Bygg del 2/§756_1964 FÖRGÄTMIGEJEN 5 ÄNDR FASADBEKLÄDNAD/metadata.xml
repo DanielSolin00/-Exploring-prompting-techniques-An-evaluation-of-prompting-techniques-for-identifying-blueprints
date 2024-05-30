@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1964|§756/1964 FÖRGÄTMIGEJEN 5 ÄNDR FASADBEKLÄDNAD">
+
+      <container id="600377" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDR FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>FÖRGÄTMIGEJEN 5</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1964-08-05</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>3788</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§756/1964 FÖRGÄTMIGEJEN 5 ÄNDR FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1964|§756/1964 FÖRGÄTMIGEJEN 5 ÄNDR FASADBEKLÄDNAD|A 298691 FAS">
+
+      <container id="600378" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 298691 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1964|§756/1964 FÖRGÄTMIGEJEN 5 ÄNDR FASADBEKLÄDNAD|A 298691 FAS|30019.tif">
+
+      <document id="600379" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:76135023fd2c86ee26b9e6f03c950d2ab3a5b0e2</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>55234DE2A077807F6FA861F646385EDC</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:76135023fd2c86ee26b9e6f03c950d2ab3a5b0e2</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>114824</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>30019.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

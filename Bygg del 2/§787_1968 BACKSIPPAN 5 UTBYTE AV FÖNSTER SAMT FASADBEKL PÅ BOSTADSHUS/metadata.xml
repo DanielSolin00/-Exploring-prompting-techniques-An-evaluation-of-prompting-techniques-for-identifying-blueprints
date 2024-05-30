@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§787/1968 BACKSIPPAN 5 UTBYTE AV FÖNSTER SAMT FASADBEKL PÅ BOSTADSHUS">
+
+      <container id="537028" type="building_case">
+         <attribute type="Ärendemening">
+            <value>UTBYTE AV FÖNSTER SAMT FASADBEKL PÅ BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>BACKSIPPAN 5</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1968-08-14</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>681</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§787/1968 BACKSIPPAN 5 UTBYTE AV FÖNSTER SAMT FASADBEKL PÅ BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§787/1968 BACKSIPPAN 5 UTBYTE AV FÖNSTER SAMT FASADBEKL PÅ BOSTADSHUS|A 228771 FAS">
+
+      <container id="537029" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 228771 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§787/1968 BACKSIPPAN 5 UTBYTE AV FÖNSTER SAMT FASADBEKL PÅ BOSTADSHUS|VA 1001461 VA-RITN">
+
+      <container id="537031" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1001461 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§787/1968 BACKSIPPAN 5 UTBYTE AV FÖNSTER SAMT FASADBEKL PÅ BOSTADSHUS|VA 1001471 VA-RITN">
+
+      <container id="537033" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1001471 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§787/1968 BACKSIPPAN 5 UTBYTE AV FÖNSTER SAMT FASADBEKL PÅ BOSTADSHUS|A 228771 FAS|23001.tif">
+
+      <document id="537030" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:63bc27ae2e4c4ab7d8d01c008e6af3f1f8cb979a</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>E1063D4A90D14835A7F423B855BD4DD6</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:63bc27ae2e4c4ab7d8d01c008e6af3f1f8cb979a</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>214782</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>23001.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§787/1968 BACKSIPPAN 5 UTBYTE AV FÖNSTER SAMT FASADBEKL PÅ BOSTADSHUS|VA 1001461 VA-RITN|92341.tif">
+
+      <document id="537032" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:72110f9662c11dde67168a05ddaf5ff97a748a6b</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>883F081BB6FE790BF5D1F083D8FDDD47</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:72110f9662c11dde67168a05ddaf5ff97a748a6b</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>99194</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>92341.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§787/1968 BACKSIPPAN 5 UTBYTE AV FÖNSTER SAMT FASADBEKL PÅ BOSTADSHUS|VA 1001471 VA-RITN|92342.tif">
+
+      <document id="537034" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:fe13f2e12e39ebc929d97d80d3f72553ecfff23a</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>9C8B58EDA29B2EBAF88C0A18667A23BD</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:fe13f2e12e39ebc929d97d80d3f72553ecfff23a</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>88648</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>92342.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

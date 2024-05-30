@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§713/1969 SURT 14 ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS">
+
+      <container id="671757" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SURT 14</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1969-08-13</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>18670</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§713/1969 SURT 14 ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§713/1969 SURT 14 ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS|VA 1044031 VA-RITN">
+
+      <container id="671760" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1044031 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§713/1969 SURT 14 ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 319421 FAS PL SIT">
+
+      <container id="671758" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 319421 FAS PL SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§713/1969 SURT 14 ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS|VA 1044031 VA-RITN|96645.tif">
+
+      <document id="671761" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:d06fe8992df47ca72aaf92d3ff06956f7a720458</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>32A4504FC04BF0825F1292AE7147ACDC</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:d06fe8992df47ca72aaf92d3ff06956f7a720458</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>121936</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>96645.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§713/1969 SURT 14 ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 319421 FAS PL SIT|32123.tif">
+
+      <document id="671759" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:5dad79f1f5fcec03b45e0068ae416e397717f92b</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>8F08A69F2D85EA60D5C269FA331BDE60</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:5dad79f1f5fcec03b45e0068ae416e397717f92b</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>169796</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>32123.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

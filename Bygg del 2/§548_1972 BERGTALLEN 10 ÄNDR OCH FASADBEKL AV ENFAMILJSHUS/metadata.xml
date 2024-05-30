@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§548/1972 BERGTALLEN 10 ÄNDR OCH FASADBEKL AV ENFAMILJSHUS">
+
+      <container id="515054" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDR OCH FASADBEKL AV ENFAMILJSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>BERGTALLEN 10</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1972-05-17</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>51067</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§548/1972 BERGTALLEN 10 ÄNDR OCH FASADBEKL AV ENFAMILJSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§548/1972 BERGTALLEN 10 ÄNDR OCH FASADBEKL AV ENFAMILJSHUS|VA 1002731 VA-RITN">
+
+      <container id="515057" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1002731 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§548/1972 BERGTALLEN 10 ÄNDR OCH FASADBEKL AV ENFAMILJSHUS|A 251511 FAS PL SEKT">
+
+      <container id="515055" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 251511 FAS PL SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§548/1972 BERGTALLEN 10 ÄNDR OCH FASADBEKL AV ENFAMILJSHUS|VA 1002731 VA-RITN|92468.tif">
+
+      <document id="515058" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:153d7237e7c3bec5bdd215c68ff15d856b33029e</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>4A51438BFBB4B809F9758C627106E2D0</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:153d7237e7c3bec5bdd215c68ff15d856b33029e</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>103238</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>92468.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§548/1972 BERGTALLEN 10 ÄNDR OCH FASADBEKL AV ENFAMILJSHUS|A 251511 FAS PL SEKT|25276.tif">
+
+      <document id="515056" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:fae998a6af828c3757f51af5f3646e1a654086d8</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>A75042BA8AE80CC656904B56BE1C082F</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:fae998a6af828c3757f51af5f3646e1a654086d8</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>61284</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>25276.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§386/1967 VALHALL 7 NYBYGGNAD AV GARAGE SAMT ÄNDRING OCH FASADBEKL AV BOSTADSHUS JÄMTE RIVNING AV UTHUS">
+
+      <container id="842397" type="building_case">
+         <attribute type="Ärendemening">
+            <value>NYBYGGNAD AV GARAGE SAMT ÄNDRING OCH FASADBEKL AV BOSTADSHUS JÄMTE RIVNING AV UTHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>VALHALL 7</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1967-04-12</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>21607</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§386/1967 VALHALL 7 NYBYGGNAD AV GARAGE SAMT ÄNDRING OCH FASADBEKL AV BOSTADSHUS JÄMTE RIVNING AV UTHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§386/1967 VALHALL 7 NYBYGGNAD AV GARAGE SAMT ÄNDRING OCH FASADBEKL AV BOSTADSHUS JÄMTE RIVNING AV UTHUS|A 384631 FAS">
+
+      <container id="842402" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 384631 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§386/1967 VALHALL 7 NYBYGGNAD AV GARAGE SAMT ÄNDRING OCH FASADBEKL AV BOSTADSHUS JÄMTE RIVNING AV UTHUS|A 384631 FAS|38659.tif">
+
+      <document id="842403" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:106977486876ae220c13fab49640c6ce52ebbaf9</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>36BE2554DC263FDB1B6B7A64B89477BA</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:106977486876ae220c13fab49640c6ce52ebbaf9</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>464422</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>38659.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§386/1967 VALHALL 7 NYBYGGNAD AV GARAGE SAMT ÄNDRING OCH FASADBEKL AV BOSTADSHUS JÄMTE RIVNING AV UTHUS|A 384621 PL SEKT (ÄNDR RITN)">
+
+      <container id="842400" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 384621 PL SEKT (ÄNDR RITN)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§386/1967 VALHALL 7 NYBYGGNAD AV GARAGE SAMT ÄNDRING OCH FASADBEKL AV BOSTADSHUS JÄMTE RIVNING AV UTHUS|A 384611 PL SEKT (UPPMÄTN RITN)">
+
+      <container id="842398" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 384611 PL SEKT (UPPMÄTN RITN)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§386/1967 VALHALL 7 NYBYGGNAD AV GARAGE SAMT ÄNDRING OCH FASADBEKL AV BOSTADSHUS JÄMTE RIVNING AV UTHUS|A 384641 SIT-PL PL FAS MOT SO,SV SEKT">
+
+      <container id="842404" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 384641 SIT-PL PL FAS MOT SO,SV SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§386/1967 VALHALL 7 NYBYGGNAD AV GARAGE SAMT ÄNDRING OCH FASADBEKL AV BOSTADSHUS JÄMTE RIVNING AV UTHUS|A 384621 PL SEKT (ÄNDR RITN)|38658.tif">
+
+      <document id="842401" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:29758a465ce76ed53e4bc414fc37bcc40b9792f6</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>732844D60AB5D71644701B6579933465</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:29758a465ce76ed53e4bc414fc37bcc40b9792f6</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>358838</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>38658.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§386/1967 VALHALL 7 NYBYGGNAD AV GARAGE SAMT ÄNDRING OCH FASADBEKL AV BOSTADSHUS JÄMTE RIVNING AV UTHUS|A 384611 PL SEKT (UPPMÄTN RITN)|38657.tif">
+
+      <document id="842399" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:aa41e42e6b1afc54f6d8b90c6f99fe000d3f9509</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>C87FB5460E7AD0A6FB897CFE001F831A</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:aa41e42e6b1afc54f6d8b90c6f99fe000d3f9509</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>477520</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>38657.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§386/1967 VALHALL 7 NYBYGGNAD AV GARAGE SAMT ÄNDRING OCH FASADBEKL AV BOSTADSHUS JÄMTE RIVNING AV UTHUS|A 384641 SIT-PL PL FAS MOT SO,SV SEKT|38660.tif">
+
+      <document id="842405" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:5d76842f9a174e7a32940b9fa03d73111d4ad5fb</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>DD7291DC3A8CFEC45FCD7E073DB903F3</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:5d76842f9a174e7a32940b9fa03d73111d4ad5fb</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>734130</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>38660.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

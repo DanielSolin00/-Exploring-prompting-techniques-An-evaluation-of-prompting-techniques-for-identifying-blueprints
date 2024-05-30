@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§990/1977 GJUTAREN 12 TILLBYGGNAD AV GARAGE PÅ FÖRRÅD SAMT FASADBEKL AV BOSTADSHUS">
+
+      <container id="493700" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD AV GARAGE PÅ FÖRRÅD SAMT FASADBEKL AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>GJUTAREN 12</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1977-08-17</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>53819</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§990/1977 GJUTAREN 12 TILLBYGGNAD AV GARAGE PÅ FÖRRÅD SAMT FASADBEKL AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§990/1977 GJUTAREN 12 TILLBYGGNAD AV GARAGE PÅ FÖRRÅD SAMT FASADBEKL AV BOSTADSHUS|A 192041 BOTTENPL FAS SIT FAS GARAGE PL">
+
+      <container id="494601" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 192041 BOTTENPL FAS SIT FAS GARAGE PL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§990/1977 GJUTAREN 12 TILLBYGGNAD AV GARAGE PÅ FÖRRÅD SAMT FASADBEKL AV BOSTADSHUS|A 192041 BOTTENPL FAS SIT FAS GARAGE PL|19323.tif">
+
+      <document id="494602" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:7b66b37fbfd723789b27f22e8c28bbd8aa3a52d9</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>BA6042E9C6E834AA41739FF22C2BCB0D</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:7b66b37fbfd723789b27f22e8c28bbd8aa3a52d9</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>456846</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>19323.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

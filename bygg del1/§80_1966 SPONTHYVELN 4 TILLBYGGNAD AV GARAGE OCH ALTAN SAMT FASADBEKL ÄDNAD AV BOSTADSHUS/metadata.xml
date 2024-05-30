@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1966|§80/1966 SPONTHYVELN 4 TILLBYGGNAD AV GARAGE OCH ALTAN SAMT FASADBEKL ÄDNAD AV BOSTADSHUS">
+
+      <container id="773635" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD AV GARAGE OCH ALTAN SAMT FASADBEKL ÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SPONTHYVELN 4</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1966-12-09</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>17170</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§80/1966 SPONTHYVELN 4 TILLBYGGNAD AV GARAGE OCH ALTAN SAMT FASADBEKL ÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1966|§80/1966 SPONTHYVELN 4 TILLBYGGNAD AV GARAGE OCH ALTAN SAMT FASADBEKL ÄDNAD AV BOSTADSHUS|A 475801 KÄLLARPL FAS MOT S V">
+
+      <container id="773636" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 475801 KÄLLARPL FAS MOT S V</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1966|§80/1966 SPONTHYVELN 4 TILLBYGGNAD AV GARAGE OCH ALTAN SAMT FASADBEKL ÄDNAD AV BOSTADSHUS|A 475801 KÄLLARPL FAS MOT S V|47812.tif">
+
+      <document id="773637" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:b4639503d604acd71c8233198f6a263c6d1a0aff</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>024DD294C8E277C530CF1F77876AF422</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:b4639503d604acd71c8233198f6a263c6d1a0aff</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>100754</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>47812.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

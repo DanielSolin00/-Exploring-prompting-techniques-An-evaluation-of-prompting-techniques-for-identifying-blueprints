@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§654/1980 FURAN 1 OM- OCH TILLBYGGNAD FASADBEKL AV ENFAMILJSHUS SAMT NYBYGGNAD AV GARAGE">
+
+      <container id="563654" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OM- OCH TILLBYGGNAD FASADBEKL AV ENFAMILJSHUS SAMT NYBYGGNAD AV GARAGE</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>FURAN 1</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1980-06-25</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>3472</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§654/1980 FURAN 1 OM- OCH TILLBYGGNAD FASADBEKL AV ENFAMILJSHUS SAMT NYBYGGNAD AV GARAGE</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§654/1980 FURAN 1 OM- OCH TILLBYGGNAD FASADBEKL AV ENFAMILJSHUS SAMT NYBYGGNAD AV GARAGE|K 453991 SEKT MM">
+
+      <container id="563657" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>K 453991 SEKT MM</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>K</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§654/1980 FURAN 1 OM- OCH TILLBYGGNAD FASADBEKL AV ENFAMILJSHUS SAMT NYBYGGNAD AV GARAGE|A 453981 SIT PL FAS">
+
+      <container id="563655" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 453981 SIT PL FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§654/1980 FURAN 1 OM- OCH TILLBYGGNAD FASADBEKL AV ENFAMILJSHUS SAMT NYBYGGNAD AV GARAGE|K 453991 SEKT MM|45618.tif">
+
+      <document id="563658" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:bdeb7409db057917e4473269cee374cee0b93b94</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>28C9095CB744ED56F032C407F50EB583</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:bdeb7409db057917e4473269cee374cee0b93b94</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>377164</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>45618.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§654/1980 FURAN 1 OM- OCH TILLBYGGNAD FASADBEKL AV ENFAMILJSHUS SAMT NYBYGGNAD AV GARAGE|A 453981 SIT PL FAS|45617.tif">
+
+      <document id="563656" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:9d7c8e6ad53dc2816910fb7a2b1a1ead3ba2d754</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>7A733FBB1493D95C098B93AEA9A3A4C3</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:9d7c8e6ad53dc2816910fb7a2b1a1ead3ba2d754</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>320074</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>45617.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

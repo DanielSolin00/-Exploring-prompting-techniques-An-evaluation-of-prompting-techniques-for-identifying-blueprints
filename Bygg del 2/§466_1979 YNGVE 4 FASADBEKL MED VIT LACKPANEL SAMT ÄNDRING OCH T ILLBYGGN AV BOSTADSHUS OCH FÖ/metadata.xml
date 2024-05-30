@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§466/1979 YNGVE 4 FASADBEKL MED VIT LACKPANEL SAMT ÄNDRING OCH T ILLBYGGN AV BOSTADSHUS OCH FÖRRÅD-/GARAGEBYGGN">
+
+      <container id="798586" type="building_case">
+         <attribute type="Ärendemening">
+            <value>FASADBEKL MED VIT LACKPANEL SAMT ÄNDRING OCH T ILLBYGGN AV BOSTADSHUS OCH FÖRRÅD-/GARAGEBYGGN</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>YNGVE 4</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1979-04-25</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>22792</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§466/1979 YNGVE 4 FASADBEKL MED VIT LACKPANEL SAMT ÄNDRING OCH T ILLBYGGN AV BOSTADSHUS OCH FÖRRÅD-/GARAGEBYGGN</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§466/1979 YNGVE 4 FASADBEKL MED VIT LACKPANEL SAMT ÄNDRING OCH T ILLBYGGN AV BOSTADSHUS OCH FÖRRÅD-/GARAGEBYGGN|A 352141 SIT">
+
+      <container id="798587" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 352141 SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§466/1979 YNGVE 4 FASADBEKL MED VIT LACKPANEL SAMT ÄNDRING OCH T ILLBYGGN AV BOSTADSHUS OCH FÖRRÅD-/GARAGEBYGGN|K 352171 BALKONG">
+
+      <container id="800203" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>K 352171 BALKONG</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>K</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§466/1979 YNGVE 4 FASADBEKL MED VIT LACKPANEL SAMT ÄNDRING OCH T ILLBYGGN AV BOSTADSHUS OCH FÖRRÅD-/GARAGEBYGGN|A 352151 BOTTENPL">
+
+      <container id="798589" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 352151 BOTTENPL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§466/1979 YNGVE 4 FASADBEKL MED VIT LACKPANEL SAMT ÄNDRING OCH T ILLBYGGN AV BOSTADSHUS OCH FÖRRÅD-/GARAGEBYGGN|A 352141 SIT|35403.tif">
+
+      <document id="798588" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:1cd14d56520a01311d51392e77f6420ca52d8bde</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>C817FA415C749018FAD34773B1F657C2</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:1cd14d56520a01311d51392e77f6420ca52d8bde</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>60940</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35403.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§466/1979 YNGVE 4 FASADBEKL MED VIT LACKPANEL SAMT ÄNDRING OCH T ILLBYGGN AV BOSTADSHUS OCH FÖRRÅD-/GARAGEBYGGN|A 352181 FAS MOT V Ö (BEF)">
+
+      <container id="798593" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 352181 FAS MOT V Ö (BEF)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§466/1979 YNGVE 4 FASADBEKL MED VIT LACKPANEL SAMT ÄNDRING OCH T ILLBYGGN AV BOSTADSHUS OCH FÖRRÅD-/GARAGEBYGGN|A 352191 FAS MOT N S (BEF)">
+
+      <container id="798595" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 352191 FAS MOT N S (BEF)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§466/1979 YNGVE 4 FASADBEKL MED VIT LACKPANEL SAMT ÄNDRING OCH T ILLBYGGN AV BOSTADSHUS OCH FÖRRÅD-/GARAGEBYGGN|K 352171 BALKONG|35406.tif">
+
+      <document id="800204" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:8b6bb3db893029e65135c08784b8491ba520f57c</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>0B35C9724219F7B9C74CDE2B1C5E1CB8</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:8b6bb3db893029e65135c08784b8491ba520f57c</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>85302</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35406.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§466/1979 YNGVE 4 FASADBEKL MED VIT LACKPANEL SAMT ÄNDRING OCH T ILLBYGGN AV BOSTADSHUS OCH FÖRRÅD-/GARAGEBYGGN|A 352151 BOTTENPL|35404.tif">
+
+      <document id="798590" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:dd420dc3a7657fdb164e5c3a7fa5649f0ea2b828</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>ED8A2D1F64176575345F1C2D389450C6</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:dd420dc3a7657fdb164e5c3a7fa5649f0ea2b828</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>375636</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35404.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§466/1979 YNGVE 4 FASADBEKL MED VIT LACKPANEL SAMT ÄNDRING OCH T ILLBYGGN AV BOSTADSHUS OCH FÖRRÅD-/GARAGEBYGGN|A 352161 KÄLLAR- O BOTTENPL">
+
+      <container id="798591" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 352161 KÄLLAR- O BOTTENPL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§466/1979 YNGVE 4 FASADBEKL MED VIT LACKPANEL SAMT ÄNDRING OCH T ILLBYGGN AV BOSTADSHUS OCH FÖRRÅD-/GARAGEBYGGN|A 352201 FAS MOT V Ö (ÄNDR)">
+
+      <container id="798597" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 352201 FAS MOT V Ö (ÄNDR)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§466/1979 YNGVE 4 FASADBEKL MED VIT LACKPANEL SAMT ÄNDRING OCH T ILLBYGGN AV BOSTADSHUS OCH FÖRRÅD-/GARAGEBYGGN|A 352211 FAS MOT N S (ÄNDR)">
+
+      <container id="798599" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 352211 FAS MOT N S (ÄNDR)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§466/1979 YNGVE 4 FASADBEKL MED VIT LACKPANEL SAMT ÄNDRING OCH T ILLBYGGN AV BOSTADSHUS OCH FÖRRÅD-/GARAGEBYGGN|A 352181 FAS MOT V Ö (BEF)|35407.tif">
+
+      <document id="798594" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:7b9ef23364d04da0773c2b03027c10e0af1f15f2</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>A74E7CDACD2FC188B91A0364FE9E422A</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:7b9ef23364d04da0773c2b03027c10e0af1f15f2</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>83436</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35407.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§466/1979 YNGVE 4 FASADBEKL MED VIT LACKPANEL SAMT ÄNDRING OCH T ILLBYGGN AV BOSTADSHUS OCH FÖRRÅD-/GARAGEBYGGN|A 352191 FAS MOT N S (BEF)|35408.tif">
+
+      <document id="798596" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:45470c1871f23275883ea8690547390dfb9fdf8b</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>C0893E2E8365EDF2D6B78CD2B40EC7E0</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:45470c1871f23275883ea8690547390dfb9fdf8b</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>70016</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35408.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§466/1979 YNGVE 4 FASADBEKL MED VIT LACKPANEL SAMT ÄNDRING OCH T ILLBYGGN AV BOSTADSHUS OCH FÖRRÅD-/GARAGEBYGGN|A 352161 KÄLLAR- O BOTTENPL|35405.tif">
+
+      <document id="798592" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:5325faabece599d87444f63c0e6696728b26fe99</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>D15BF8191700A81FBC70FB84EC7154EC</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:5325faabece599d87444f63c0e6696728b26fe99</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>98724</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35405.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§466/1979 YNGVE 4 FASADBEKL MED VIT LACKPANEL SAMT ÄNDRING OCH T ILLBYGGN AV BOSTADSHUS OCH FÖRRÅD-/GARAGEBYGGN|A 352201 FAS MOT V Ö (ÄNDR)|35409.tif">
+
+      <document id="798598" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:2e6c8e90ab0fa68ec8894e0fe83c5ceda6bee71c</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>3AC5326550A644DCFF26A929EF5507AC</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:2e6c8e90ab0fa68ec8894e0fe83c5ceda6bee71c</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>76764</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35409.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§466/1979 YNGVE 4 FASADBEKL MED VIT LACKPANEL SAMT ÄNDRING OCH T ILLBYGGN AV BOSTADSHUS OCH FÖRRÅD-/GARAGEBYGGN|A 352211 FAS MOT N S (ÄNDR)|35410.tif">
+
+      <document id="798600" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:4ce7ec6a946fa7ada643cc9c7c8f94bf05054e3d</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>2B43AF9866FB830DD6139B149834B308</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:4ce7ec6a946fa7ada643cc9c7c8f94bf05054e3d</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>67416</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35410.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§466/1979 YNGVE 4 FASADBEKL MED VIT LACKPANEL SAMT ÄNDRING OCH T ILLBYGGN AV BOSTADSHUS OCH FÖRRÅD-/GARAGEBYGGN|A 352221 PL TVÅ FAS (GARAGE- O FÖRRÅDSBYGGN)">
+
+      <container id="800201" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 352221 PL TVÅ FAS (GARAGE- O FÖRRÅDSBYGGN)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§466/1979 YNGVE 4 FASADBEKL MED VIT LACKPANEL SAMT ÄNDRING OCH T ILLBYGGN AV BOSTADSHUS OCH FÖRRÅD-/GARAGEBYGGN|A 352221 PL TVÅ FAS (GARAGE- O FÖRRÅDSBYGGN)|35411.tif">
+
+      <document id="800202" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:3a16fa7dc6c2d2f23392c9760954ff61aac23a23</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>279CB1C95E772BEB1FBA8FAF1EF3CAB9</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:3a16fa7dc6c2d2f23392c9760954ff61aac23a23</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>76550</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35411.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

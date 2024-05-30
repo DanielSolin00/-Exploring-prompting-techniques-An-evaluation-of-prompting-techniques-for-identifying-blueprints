@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1924|§30/1924 VULKAN 3 ÄNDRING AV FASADEN">
+
+      <container id="720567" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING AV FASADEN</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>VULKAN 3</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1924-02-28</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>22402</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§30/1924 VULKAN 3 ÄNDRING AV FASADEN</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1924|§30/1924 VULKAN 3 ÄNDRING AV FASADEN|A 20721 FAS">
+
+      <container id="720568" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 20721 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1924|§30/1924 VULKAN 3 ÄNDRING AV FASADEN|A 20721 FAS|2072.tif">
+
+      <document id="720569" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:a9b84640fd2d1b996d06de07c2883022c982e877</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>F820EA34B580379DE7BCDF2393EA9593</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:a9b84640fd2d1b996d06de07c2883022c982e877</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>55364</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>2072.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

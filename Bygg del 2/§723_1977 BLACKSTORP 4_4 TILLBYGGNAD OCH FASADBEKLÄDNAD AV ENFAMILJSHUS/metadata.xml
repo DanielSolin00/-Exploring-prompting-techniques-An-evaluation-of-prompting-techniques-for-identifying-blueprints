@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§723/1977 BLACKSTORP 4:4 TILLBYGGNAD OCH FASADBEKLÄDNAD AV ENFAMILJSHUS">
+
+      <container id="477946" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD OCH FASADBEKLÄDNAD AV ENFAMILJSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>BLACKSTORP 4:4</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1977-06-15</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>51575</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§723/1977 BLACKSTORP 4:4 TILLBYGGNAD OCH FASADBEKLÄDNAD AV ENFAMILJSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§723/1977 BLACKSTORP 4:4 TILLBYGGNAD OCH FASADBEKLÄDNAD AV ENFAMILJSHUS|A 153371 FAS PL SEKT">
+
+      <container id="477947" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 153371 FAS PL SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§723/1977 BLACKSTORP 4:4 TILLBYGGNAD OCH FASADBEKLÄDNAD AV ENFAMILJSHUS|A 153381 FAS PL SEKT SIT PL">
+
+      <container id="477949" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 153381 FAS PL SEKT SIT PL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§723/1977 BLACKSTORP 4:4 TILLBYGGNAD OCH FASADBEKLÄDNAD AV ENFAMILJSHUS|A 153371 FAS PL SEKT|15417.tif">
+
+      <document id="477948" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:6ccd6b4b87f077573be176d6092e9947720779cb</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>BFEE780087A9D3E9A2AE7075F8D214D2</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:6ccd6b4b87f077573be176d6092e9947720779cb</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>722144</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>15417.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§723/1977 BLACKSTORP 4:4 TILLBYGGNAD OCH FASADBEKLÄDNAD AV ENFAMILJSHUS|A 153381 FAS PL SEKT SIT PL|15418.tif">
+
+      <document id="477950" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:154ec1b69e601bcbae6f3df2e18c54b029b4ebee</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>0F3C51ABDAE2864EB3444F14AADB7707</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:154ec1b69e601bcbae6f3df2e18c54b029b4ebee</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>268192</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>15418.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

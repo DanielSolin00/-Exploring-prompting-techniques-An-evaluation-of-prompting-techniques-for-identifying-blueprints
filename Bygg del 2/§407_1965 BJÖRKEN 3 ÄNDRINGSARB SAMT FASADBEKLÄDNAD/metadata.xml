@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§407/1965 BJÖRKEN 3 ÄNDRINGSARB SAMT FASADBEKLÄDNAD">
+
+      <container id="570060" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRINGSARB SAMT FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>BJÖRKEN 3</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1965-05-05</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>51230</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§407/1965 BJÖRKEN 3 ÄNDRINGSARB SAMT FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§407/1965 BJÖRKEN 3 ÄNDRINGSARB SAMT FASADBEKLÄDNAD|A 251561 FAS">
+
+      <container id="570063" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 251561 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§407/1965 BJÖRKEN 3 ÄNDRINGSARB SAMT FASADBEKLÄDNAD|VA 1002741 VA-RITN">
+
+      <container id="570065" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1002741 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§407/1965 BJÖRKEN 3 ÄNDRINGSARB SAMT FASADBEKLÄDNAD|A 251561 FAS|25281.tif">
+
+      <document id="570064" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:e9349ab95df5d7718e15858256a522fdca3517c0</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>3ABA11D42D1AA6513A769558D2D409AE</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:e9349ab95df5d7718e15858256a522fdca3517c0</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>80092</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>25281.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§407/1965 BJÖRKEN 3 ÄNDRINGSARB SAMT FASADBEKLÄDNAD|A 251551 FAS UPPMÄTN RITN">
+
+      <container id="570061" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 251551 FAS UPPMÄTN RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§407/1965 BJÖRKEN 3 ÄNDRINGSARB SAMT FASADBEKLÄDNAD|VA 1002741 VA-RITN|92469.tif">
+
+      <document id="570066" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:1fc2c863c4b8a77929329e8262290c28b0255020</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>6F6223D5892CB0740BA8E57779DF32D9</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:1fc2c863c4b8a77929329e8262290c28b0255020</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>79132</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>92469.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§407/1965 BJÖRKEN 3 ÄNDRINGSARB SAMT FASADBEKLÄDNAD|A 251551 FAS UPPMÄTN RITN|25280.tif">
+
+      <document id="570062" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:406bec239c39c73c03cb8d4ec34bf6a85c31e474</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>94FDFF4888C151885C9295BDAFC8D4F2</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:406bec239c39c73c03cb8d4ec34bf6a85c31e474</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>385536</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>25280.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

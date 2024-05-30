@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1961|§521/1961 YNGVE 8 ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS">
+
+      <container id="801835" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>YNGVE 8</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1961-09-06</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>22804</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§521/1961 YNGVE 8 ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1961|§521/1961 YNGVE 8 ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 417511 PL FAS SEKT">
+
+      <container id="801838" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 417511 PL FAS SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1961|§521/1961 YNGVE 8 ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 417511 PL FAS SEKT|41962.tif">
+
+      <document id="801839" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:db7445bf5e08953a799f2bf7a6114088fd1dab43</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>B80FE9DD64252030C65C4EB34A88A00F</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:db7445bf5e08953a799f2bf7a6114088fd1dab43</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>193502</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>41962.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1961|§521/1961 YNGVE 8 ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 417501 PL FAS SEKT (UPPMÄTN RITN)">
+
+      <container id="801836" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 417501 PL FAS SEKT (UPPMÄTN RITN)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1961|§521/1961 YNGVE 8 ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 417501 PL FAS SEKT (UPPMÄTN RITN)|41961.tif">
+
+      <document id="801837" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:603c100f92bf00aa9be50ba9c84cd4717cde6fd2</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>2C29E16A593A19BEE451749C1FB22337</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:603c100f92bf00aa9be50ba9c84cd4717cde6fd2</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>185370</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>41961.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

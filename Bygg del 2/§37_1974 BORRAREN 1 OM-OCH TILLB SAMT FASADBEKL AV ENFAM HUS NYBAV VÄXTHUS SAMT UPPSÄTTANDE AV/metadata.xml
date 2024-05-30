@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1974|§37/1974 BORRAREN 1 OM-OCH TILLB SAMT FASADBEKL AV ENFAM HUS NYBAV VÄXTHUS SAMT UPPSÄTTANDE AV PLANK">
+
+      <container id="547588" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OM-OCH TILLB SAMT FASADBEKL AV ENFAM HUS NYBAV VÄXTHUS SAMT UPPSÄTTANDE AV PLANK</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>BORRAREN 1</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1974-01-16</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>52130</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§37/1974 BORRAREN 1 OM-OCH TILLB SAMT FASADBEKL AV ENFAM HUS NYBAV VÄXTHUS SAMT UPPSÄTTANDE AV PLANK</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1974|§37/1974 BORRAREN 1 OM-OCH TILLB SAMT FASADBEKL AV ENFAM HUS NYBAV VÄXTHUS SAMT UPPSÄTTANDE AV PLANK|A 17551 PL SEKT GARAGE">
+
+      <container id="547593" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 17551 PL SEKT GARAGE</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1974|§37/1974 BORRAREN 1 OM-OCH TILLB SAMT FASADBEKL AV ENFAM HUS NYBAV VÄXTHUS SAMT UPPSÄTTANDE AV PLANK|A 17541 KOMPL RITN VÄXTHUS">
+
+      <container id="547591" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 17541 KOMPL RITN VÄXTHUS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1974|§37/1974 BORRAREN 1 OM-OCH TILLB SAMT FASADBEKL AV ENFAM HUS NYBAV VÄXTHUS SAMT UPPSÄTTANDE AV PLANK|A 17531 KOMPL RITN BOST HUS">
+
+      <container id="547589" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 17531 KOMPL RITN BOST HUS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1974|§37/1974 BORRAREN 1 OM-OCH TILLB SAMT FASADBEKL AV ENFAM HUS NYBAV VÄXTHUS SAMT UPPSÄTTANDE AV PLANK|A 17551 PL SEKT GARAGE|1755.tif">
+
+      <document id="547594" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:69da822162cc3cec15a811010057772a004db00e</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>4C01B4CD01E4012A6B2ED62BDD762725</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:69da822162cc3cec15a811010057772a004db00e</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>65072</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>1755.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1974|§37/1974 BORRAREN 1 OM-OCH TILLB SAMT FASADBEKL AV ENFAM HUS NYBAV VÄXTHUS SAMT UPPSÄTTANDE AV PLANK|A 17541 KOMPL RITN VÄXTHUS|1754.tif">
+
+      <document id="547592" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:bcea6f81d900e7c46a55c87cf42a94ca5a6f97fc</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>9F61D9B1E59FC3FB91BF00805B4E1D85</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:bcea6f81d900e7c46a55c87cf42a94ca5a6f97fc</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>322502</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>1754.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1974|§37/1974 BORRAREN 1 OM-OCH TILLB SAMT FASADBEKL AV ENFAM HUS NYBAV VÄXTHUS SAMT UPPSÄTTANDE AV PLANK|A 17531 KOMPL RITN BOST HUS|1753.tif">
+
+      <document id="547590" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:10ce029661c59305f9316d7c7c90ea5368821d98</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>735EC3E9A6B9CC57ED8CED7C50FF0FAD</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:10ce029661c59305f9316d7c7c90ea5368821d98</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>124048</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>1753.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1974|§37/1974 BORRAREN 1 OM-OCH TILLB SAMT FASADBEKL AV ENFAM HUS NYBAV VÄXTHUS SAMT UPPSÄTTANDE AV PLANK|A 17561 SIT PL EXP 740424 ÅTER 740610">
+
+      <container id="547595" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 17561 SIT PL EXP 740424 ÅTER 740610</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1974|§37/1974 BORRAREN 1 OM-OCH TILLB SAMT FASADBEKL AV ENFAM HUS NYBAV VÄXTHUS SAMT UPPSÄTTANDE AV PLANK|A 17561 SIT PL EXP 740424 ÅTER 740610|1756.tif">
+
+      <document id="547596" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:5f3755b6afe687fead1bf19eb1ba9de2d2d21d36</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>6910C19F658FB950A00A0D1A964E0DA8</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:5f3755b6afe687fead1bf19eb1ba9de2d2d21d36</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>60184</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>1756.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

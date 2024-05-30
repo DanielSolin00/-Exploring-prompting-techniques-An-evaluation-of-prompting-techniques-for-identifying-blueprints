@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§793/1983 STEGLITSAN 6 OMBYGGN AV FASADBEKL AV FLERBOSTADSHUS">
+
+      <container id="783438" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OMBYGGN AV FASADBEKL AV FLERBOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>STEGLITSAN 6</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1983-09-28</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>17553</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§793/1983 STEGLITSAN 6 OMBYGGN AV FASADBEKL AV FLERBOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§793/1983 STEGLITSAN 6 OMBYGGN AV FASADBEKL AV FLERBOSTADSHUS|A 565231 SIT">
+
+      <container id="783439" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 565231 SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§793/1983 STEGLITSAN 6 OMBYGGN AV FASADBEKL AV FLERBOSTADSHUS|VA 584861 PL">
+
+      <container id="783449" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 584861 PL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§793/1983 STEGLITSAN 6 OMBYGGN AV FASADBEKL AV FLERBOSTADSHUS|A 565241 PL (BEF)">
+
+      <container id="783441" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 565241 PL (BEF)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§793/1983 STEGLITSAN 6 OMBYGGN AV FASADBEKL AV FLERBOSTADSHUS|A 565261 PL (ÄNDR)">
+
+      <container id="783445" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 565261 PL (ÄNDR)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§793/1983 STEGLITSAN 6 OMBYGGN AV FASADBEKL AV FLERBOSTADSHUS|A 565231 SIT|56863.tif">
+
+      <document id="783440" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:e2cbf5f44bd14c22d993ad8a4b82092ab67f491c</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>E8269A3CE603407FA172083971E1090B</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:e2cbf5f44bd14c22d993ad8a4b82092ab67f491c</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>147612</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>56863.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§793/1983 STEGLITSAN 6 OMBYGGN AV FASADBEKL AV FLERBOSTADSHUS|VA 584861 PL|58843.tif">
+
+      <document id="783450" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:010df5481ae40bc8aaed24e077c40deb42ffc1fe</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>E9CE9E34F3E89AA54D4C719D7B48F03A</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:010df5481ae40bc8aaed24e077c40deb42ffc1fe</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>156782</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>58843.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§793/1983 STEGLITSAN 6 OMBYGGN AV FASADBEKL AV FLERBOSTADSHUS|A 565251 FAS SEKT (BEF)">
+
+      <container id="783443" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 565251 FAS SEKT (BEF)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§793/1983 STEGLITSAN 6 OMBYGGN AV FASADBEKL AV FLERBOSTADSHUS|A 565281 FAS SEKT (ÄNDR)">
+
+      <container id="783447" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 565281 FAS SEKT (ÄNDR)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§793/1983 STEGLITSAN 6 OMBYGGN AV FASADBEKL AV FLERBOSTADSHUS|A 565241 PL (BEF)|56864.tif">
+
+      <document id="783442" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:29650e24186bdbf97853114c9bc7fa09061da483</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>C837DC3F0379F9D2AE8AEEDAD97CADD9</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:29650e24186bdbf97853114c9bc7fa09061da483</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>106566</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>56864.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§793/1983 STEGLITSAN 6 OMBYGGN AV FASADBEKL AV FLERBOSTADSHUS|A 565261 PL (ÄNDR)|56866.tif">
+
+      <document id="783446" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:0aa8f3503b3870d7040015f634777c85dbb45b1a</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>0F95066E38969085B6E867BA6B3FC114</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:0aa8f3503b3870d7040015f634777c85dbb45b1a</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>114812</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>56866.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§793/1983 STEGLITSAN 6 OMBYGGN AV FASADBEKL AV FLERBOSTADSHUS|A 565251 FAS SEKT (BEF)|56865.tif">
+
+      <document id="783444" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:f34046e49bd3a150ab6313ac21d2a174de5cccf3</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>FC7835CE7530298572AE9537A2092AA0</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:f34046e49bd3a150ab6313ac21d2a174de5cccf3</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>94274</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>56865.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§793/1983 STEGLITSAN 6 OMBYGGN AV FASADBEKL AV FLERBOSTADSHUS|A 565281 FAS SEKT (ÄNDR)|56868.tif">
+
+      <document id="783448" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:f4cb20ec9be985b60b5bbe1b17400d15118da08d</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>57D1F2132EF21ECBD57A335418362148</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:f4cb20ec9be985b60b5bbe1b17400d15118da08d</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>92964</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>56868.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

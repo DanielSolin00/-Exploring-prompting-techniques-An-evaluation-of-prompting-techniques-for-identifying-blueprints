@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§720/1969 SKOGSSNÄPPAN 21 NYBYGGNAD AV BILUPPSTÄLLNINGSPLATS SAMT FASADB EKLÄDNAD AV GARAGE">
+
+      <container id="672390" type="building_case">
+         <attribute type="Ärendemening">
+            <value>NYBYGGNAD AV BILUPPSTÄLLNINGSPLATS SAMT FASADB EKLÄDNAD AV GARAGE</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SKOGSSNÄPPAN 21</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1969-08-13</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>16088</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§720/1969 SKOGSSNÄPPAN 21 NYBYGGNAD AV BILUPPSTÄLLNINGSPLATS SAMT FASADB EKLÄDNAD AV GARAGE</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§720/1969 SKOGSSNÄPPAN 21 NYBYGGNAD AV BILUPPSTÄLLNINGSPLATS SAMT FASADB EKLÄDNAD AV GARAGE|A 391331 TOMTKARTA">
+
+      <container id="672391" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 391331 TOMTKARTA</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§720/1969 SKOGSSNÄPPAN 21 NYBYGGNAD AV BILUPPSTÄLLNINGSPLATS SAMT FASADB EKLÄDNAD AV GARAGE|VA 1038361 VA-RITN">
+
+      <container id="673103" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1038361 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§720/1969 SKOGSSNÄPPAN 21 NYBYGGNAD AV BILUPPSTÄLLNINGSPLATS SAMT FASADB EKLÄDNAD AV GARAGE|VA 1038371 VA-RITN">
+
+      <container id="673105" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1038371 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§720/1969 SKOGSSNÄPPAN 21 NYBYGGNAD AV BILUPPSTÄLLNINGSPLATS SAMT FASADB EKLÄDNAD AV GARAGE|A 391341 PL FAS SEKT">
+
+      <container id="672393" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 391341 PL FAS SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§720/1969 SKOGSSNÄPPAN 21 NYBYGGNAD AV BILUPPSTÄLLNINGSPLATS SAMT FASADB EKLÄDNAD AV GARAGE|A 391331 TOMTKARTA|39331.tif">
+
+      <document id="672392" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:bd895460a688dad24f547517a9aeb54b176f00d1</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>E58EEC8B416F7FF62E524AD5465FD7BE</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:bd895460a688dad24f547517a9aeb54b176f00d1</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>171966</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>39331.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§720/1969 SKOGSSNÄPPAN 21 NYBYGGNAD AV BILUPPSTÄLLNINGSPLATS SAMT FASADB EKLÄDNAD AV GARAGE|VA 1038361 VA-RITN|96072.tif">
+
+      <document id="673104" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:57797087ef888e953f0936f284dd23ce43fbdcaa</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>6EFCD4EDA4FF1A7ECA0556EC322D433F</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:57797087ef888e953f0936f284dd23ce43fbdcaa</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>132432</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>96072.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§720/1969 SKOGSSNÄPPAN 21 NYBYGGNAD AV BILUPPSTÄLLNINGSPLATS SAMT FASADB EKLÄDNAD AV GARAGE|VA 1038371 VA-RITN|96073.tif">
+
+      <document id="673106" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:fc83951cfa3774a2d260f2b024cd66e4f94df905</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>CB427930502D5654BEDE8E1EA57298F1</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:fc83951cfa3774a2d260f2b024cd66e4f94df905</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>106532</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>96073.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§720/1969 SKOGSSNÄPPAN 21 NYBYGGNAD AV BILUPPSTÄLLNINGSPLATS SAMT FASADB EKLÄDNAD AV GARAGE|A 391341 PL FAS SEKT|39332.tif">
+
+      <document id="672394" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:f64378e164b76ca8141395af00af3710f9e4e0db</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>0B68EF5BB5EC16BC326E6EDB02079E5C</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:f64378e164b76ca8141395af00af3710f9e4e0db</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>104778</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>39332.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§720/1969 SKOGSSNÄPPAN 21 NYBYGGNAD AV BILUPPSTÄLLNINGSPLATS SAMT FASADB EKLÄDNAD AV GARAGE|K 391351 KONSTR.RITN ÖVER BILUPPSTÄLLN.PLATS">
+
+      <container id="672395" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>K 391351 KONSTR.RITN ÖVER BILUPPSTÄLLN.PLATS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>K</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§720/1969 SKOGSSNÄPPAN 21 NYBYGGNAD AV BILUPPSTÄLLNINGSPLATS SAMT FASADB EKLÄDNAD AV GARAGE|K 391361 KONSTR.RITN ÖVER BILUPPSTÄLLN.PLATS">
+
+      <container id="672397" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>K 391361 KONSTR.RITN ÖVER BILUPPSTÄLLN.PLATS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>K</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§720/1969 SKOGSSNÄPPAN 21 NYBYGGNAD AV BILUPPSTÄLLNINGSPLATS SAMT FASADB EKLÄDNAD AV GARAGE|K 391371 KONSTR.RITN ÖVER BILUPPSTÄLLN.PLATS">
+
+      <container id="672399" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>K 391371 KONSTR.RITN ÖVER BILUPPSTÄLLN.PLATS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>K</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§720/1969 SKOGSSNÄPPAN 21 NYBYGGNAD AV BILUPPSTÄLLNINGSPLATS SAMT FASADB EKLÄDNAD AV GARAGE|K 391381 KONSTR.RITN ÖVER BILUPPSTÄLLN.PLATS">
+
+      <container id="673101" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>K 391381 KONSTR.RITN ÖVER BILUPPSTÄLLN.PLATS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>K</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§720/1969 SKOGSSNÄPPAN 21 NYBYGGNAD AV BILUPPSTÄLLNINGSPLATS SAMT FASADB EKLÄDNAD AV GARAGE|K 391351 KONSTR.RITN ÖVER BILUPPSTÄLLN.PLATS|39333.tif">
+
+      <document id="672396" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:9ae8dd0585f097ddca6fadecee28696c9154380c</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>37BB264FB09B3484429DF6073BFA5F41</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:9ae8dd0585f097ddca6fadecee28696c9154380c</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>734472</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>39333.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§720/1969 SKOGSSNÄPPAN 21 NYBYGGNAD AV BILUPPSTÄLLNINGSPLATS SAMT FASADB EKLÄDNAD AV GARAGE|K 391361 KONSTR.RITN ÖVER BILUPPSTÄLLN.PLATS|39334.tif">
+
+      <document id="672398" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:feacc5f45a829e6db2f7868eec7ad0f8a744db3d</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>953C2168B1068021D68F5565562AF103</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:feacc5f45a829e6db2f7868eec7ad0f8a744db3d</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>633716</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>39334.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§720/1969 SKOGSSNÄPPAN 21 NYBYGGNAD AV BILUPPSTÄLLNINGSPLATS SAMT FASADB EKLÄDNAD AV GARAGE|K 391371 KONSTR.RITN ÖVER BILUPPSTÄLLN.PLATS|39335.tif">
+
+      <document id="672400" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:bb6a591bd59b66de7e65450cf532fe7fea7cd1f9</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>BE4B3DD6B683F1B498C06CBC17800916</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:bb6a591bd59b66de7e65450cf532fe7fea7cd1f9</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>439958</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>39335.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§720/1969 SKOGSSNÄPPAN 21 NYBYGGNAD AV BILUPPSTÄLLNINGSPLATS SAMT FASADB EKLÄDNAD AV GARAGE|K 391381 KONSTR.RITN ÖVER BILUPPSTÄLLN.PLATS|39336.tif">
+
+      <document id="673102" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:780da3fb12120f8d742607b92f9d861b0c71229b</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>9967129EB0635D74A05674428CFD94D1</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:780da3fb12120f8d742607b92f9d861b0c71229b</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>568012</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>39336.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

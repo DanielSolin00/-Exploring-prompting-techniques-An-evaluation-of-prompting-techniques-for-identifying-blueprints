@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§835/1979 UTTERN 11 FASADBEKLÄDNAD MED STÅENDE TRÄPANEL">
+
+      <container id="827757" type="building_case">
+         <attribute type="Ärendemening">
+            <value>FASADBEKLÄDNAD MED STÅENDE TRÄPANEL</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>UTTERN 11</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1979-06-27</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>21406</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§835/1979 UTTERN 11 FASADBEKLÄDNAD MED STÅENDE TRÄPANEL</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§835/1979 UTTERN 11 FASADBEKLÄDNAD MED STÅENDE TRÄPANEL|A 377081 FAS MOT S, GATAN">
+
+      <container id="827758" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 377081 FAS MOT S, GATAN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1979|§835/1979 UTTERN 11 FASADBEKLÄDNAD MED STÅENDE TRÄPANEL|A 377081 FAS MOT S, GATAN|37903.tif">
+
+      <document id="827759" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:bf8aab78b3315344c89a9c0e51dbcbeb16b88a84</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>2D339C35A38A0DE7897D2B5075A60E56</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:bf8aab78b3315344c89a9c0e51dbcbeb16b88a84</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>103880</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>37903.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

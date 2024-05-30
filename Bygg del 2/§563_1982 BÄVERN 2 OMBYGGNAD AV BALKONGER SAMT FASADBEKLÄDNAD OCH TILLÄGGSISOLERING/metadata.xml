@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§563/1982 BÄVERN 2 OMBYGGNAD AV BALKONGER SAMT FASADBEKLÄDNAD OCH TILLÄGGSISOLERING">
+
+      <container id="658324" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OMBYGGNAD AV BALKONGER SAMT FASADBEKLÄDNAD OCH TILLÄGGSISOLERING</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>BÄVERN 2</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1982-05-26</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>52736</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§563/1982 BÄVERN 2 OMBYGGNAD AV BALKONGER SAMT FASADBEKLÄDNAD OCH TILLÄGGSISOLERING</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§563/1982 BÄVERN 2 OMBYGGNAD AV BALKONGER SAMT FASADBEKLÄDNAD OCH TILLÄGGSISOLERING|A 512131 BOTTENPL VÅN 1TR FAS SEKT">
+
+      <container id="658325" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 512131 BOTTENPL VÅN 1TR FAS SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§563/1982 BÄVERN 2 OMBYGGNAD AV BALKONGER SAMT FASADBEKLÄDNAD OCH TILLÄGGSISOLERING|A 512131 BOTTENPL VÅN 1TR FAS SEKT|51475.tif">
+
+      <document id="658326" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:02ca106163c3871771cde8b50683bd01f6d06987</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>52A3AC52C30F58713BECCBC415AFCA6A</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:02ca106163c3871771cde8b50683bd01f6d06987</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>92392</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>51475.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§445/1983 SKÄLSBO 3:6 OMBYGGNAD, TILLBYGGNAD SAMT FASADBEKLÄDNAD">
+
+      <container id="721844" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OMBYGGNAD, TILLBYGGNAD SAMT FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SKÄLSBO 3:6</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1983-05-25</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>16299</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§445/1983 SKÄLSBO 3:6 OMBYGGNAD, TILLBYGGNAD SAMT FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§445/1983 SKÄLSBO 3:6 OMBYGGNAD, TILLBYGGNAD SAMT FASADBEKLÄDNAD|A 555501 FAS FLYGELBYGGN">
+
+      <container id="721855" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 555501 FAS FLYGELBYGGN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§445/1983 SKÄLSBO 3:6 OMBYGGNAD, TILLBYGGNAD SAMT FASADBEKLÄDNAD|A 555471 FAS HUVUDBYGGNAD">
+
+      <container id="721849" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 555471 FAS HUVUDBYGGNAD</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§445/1983 SKÄLSBO 3:6 OMBYGGNAD, TILLBYGGNAD SAMT FASADBEKLÄDNAD|A 555491 PL SEKT FLYGELBYGGN">
+
+      <container id="721853" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 555491 PL SEKT FLYGELBYGGN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§445/1983 SKÄLSBO 3:6 OMBYGGNAD, TILLBYGGNAD SAMT FASADBEKLÄDNAD|A 555501 FAS FLYGELBYGGN|55887.tif">
+
+      <document id="721856" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:d22cf36544ece341471ced45d0c49e8e91867cb9</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>D966A4E0DB26D55F6D70BF7766359A50</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:d22cf36544ece341471ced45d0c49e8e91867cb9</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>218120</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>55887.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§445/1983 SKÄLSBO 3:6 OMBYGGNAD, TILLBYGGNAD SAMT FASADBEKLÄDNAD|A 555451 PL SEKT (BEF) HUVUDBYGGNAD">
+
+      <container id="721845" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 555451 PL SEKT (BEF) HUVUDBYGGNAD</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§445/1983 SKÄLSBO 3:6 OMBYGGNAD, TILLBYGGNAD SAMT FASADBEKLÄDNAD|A 555471 FAS HUVUDBYGGNAD|55884.tif">
+
+      <document id="721850" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:25ff017b19dd7b1554f22d476ad502c071f87bac</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>A4CE5B7E967CA96DA93C49A2C3851A75</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:25ff017b19dd7b1554f22d476ad502c071f87bac</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>127344</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>55884.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§445/1983 SKÄLSBO 3:6 OMBYGGNAD, TILLBYGGNAD SAMT FASADBEKLÄDNAD|A 555461 PL SEKT (ÄNDR) HUVUDBYGGNAD">
+
+      <container id="721847" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 555461 PL SEKT (ÄNDR) HUVUDBYGGNAD</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§445/1983 SKÄLSBO 3:6 OMBYGGNAD, TILLBYGGNAD SAMT FASADBEKLÄDNAD|A 555491 PL SEKT FLYGELBYGGN|55886.tif">
+
+      <document id="721854" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:fc802524537fc81b90c050817dab17d7bfc777a5</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>A783565004E0D2E38FF03EA8D2522179</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:fc802524537fc81b90c050817dab17d7bfc777a5</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>244240</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>55886.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§445/1983 SKÄLSBO 3:6 OMBYGGNAD, TILLBYGGNAD SAMT FASADBEKLÄDNAD|A 555481 KOMPLETT RITNING (BEF) FLYGELBYGGN">
+
+      <container id="721851" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 555481 KOMPLETT RITNING (BEF) FLYGELBYGGN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§445/1983 SKÄLSBO 3:6 OMBYGGNAD, TILLBYGGNAD SAMT FASADBEKLÄDNAD|A 555451 PL SEKT (BEF) HUVUDBYGGNAD|55882.tif">
+
+      <document id="721846" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:082b4b7e2624c9e076ec4176f4a7f510d0abc096</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>C8AC9104782B347E64C50E934D608A77</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:082b4b7e2624c9e076ec4176f4a7f510d0abc096</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>84782</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>55882.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§445/1983 SKÄLSBO 3:6 OMBYGGNAD, TILLBYGGNAD SAMT FASADBEKLÄDNAD|A 555461 PL SEKT (ÄNDR) HUVUDBYGGNAD|55883.tif">
+
+      <document id="721848" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:355998c53547fb66f814713a8d64c8fc697fde97</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>5504583A728A55EDD322D22F03040603</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:355998c53547fb66f814713a8d64c8fc697fde97</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>81468</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>55883.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1983|§445/1983 SKÄLSBO 3:6 OMBYGGNAD, TILLBYGGNAD SAMT FASADBEKLÄDNAD|A 555481 KOMPLETT RITNING (BEF) FLYGELBYGGN|55885.tif">
+
+      <document id="721852" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:c7f8453ef01275fff107d8cf1b9df498d1b94026</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>5D938814004E16563B1DF1128E7EEF95</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:c7f8453ef01275fff107d8cf1b9df498d1b94026</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>79156</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>55885.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

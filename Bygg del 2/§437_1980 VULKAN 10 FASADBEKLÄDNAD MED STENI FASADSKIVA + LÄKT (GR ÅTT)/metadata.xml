@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§437/1980 VULKAN 10 FASADBEKLÄDNAD MED STENI FASADSKIVA + LÄKT (GR ÅTT)">
+
+      <container id="680393" type="building_case">
+         <attribute type="Ärendemening">
+            <value>FASADBEKLÄDNAD MED STENI FASADSKIVA + LÄKT (GR ÅTT)</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>VULKAN 10</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1980-04-23</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>22461</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§437/1980 VULKAN 10 FASADBEKLÄDNAD MED STENI FASADSKIVA + LÄKT (GR ÅTT)</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§437/1980 VULKAN 10 FASADBEKLÄDNAD MED STENI FASADSKIVA + LÄKT (GR ÅTT)|A 447061 FAS MOT GÅRDEN,ÖSTERLÅNGGATAN SEKT">
+
+      <container id="680394" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 447061 FAS MOT GÅRDEN,ÖSTERLÅNGGATAN SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1980|§437/1980 VULKAN 10 FASADBEKLÄDNAD MED STENI FASADSKIVA + LÄKT (GR ÅTT)|A 447061 FAS MOT GÅRDEN,ÖSTERLÅNGGATAN SEKT|44919.tif">
+
+      <document id="680395" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:a428e69e8375d37e150cbe871a0471d1557afe95</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>64C55B0837F8D23E46C926554E473E4E</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:a428e69e8375d37e150cbe871a0471d1557afe95</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>316132</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>44919.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

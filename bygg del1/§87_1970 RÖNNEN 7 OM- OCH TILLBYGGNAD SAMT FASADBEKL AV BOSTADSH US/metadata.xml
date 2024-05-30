@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§87/1970 RÖNNEN 7 OM- OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSH US">
+
+      <container id="767104" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OM- OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSH US</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>RÖNNEN 7</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1970-02-18</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>14829</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§87/1970 RÖNNEN 7 OM- OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSH US</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§87/1970 RÖNNEN 7 OM- OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSH US|A 424301 KOMPL RITN">
+
+      <container id="767105" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 424301 KOMPL RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§87/1970 RÖNNEN 7 OM- OCH TILLBYGGNAD SAMT FASADBEKL AV BOSTADSH US|A 424301 KOMPL RITN|42644.tif">
+
+      <document id="767106" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:8326e09133fbc43969b17221f8a7edda36454c82</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>4E46F3B294F698E3697129EDD0A72265</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:8326e09133fbc43969b17221f8a7edda36454c82</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>78102</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>42644.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§782/1967 BOKEN 1 FASADBEKLÄDNAD">
+
+      <container id="500003" type="building_case">
+         <attribute type="Ärendemening">
+            <value>FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>BOKEN 1</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1967-08-09</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>51947</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§782/1967 BOKEN 1 FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§782/1967 BOKEN 1 FASADBEKLÄDNAD|A 267281 FAS">
+
+      <container id="500004" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 267281 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§782/1967 BOKEN 1 FASADBEKLÄDNAD|A 267291 FAS">
+
+      <container id="500006" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 267291 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§782/1967 BOKEN 1 FASADBEKLÄDNAD|VA 1004561 VA-RITN">
+
+      <container id="500008" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1004561 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§782/1967 BOKEN 1 FASADBEKLÄDNAD|A 267281 FAS|26861.tif">
+
+      <document id="500005" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:1de2b2c17c5627ae4a13d7f32e5c049565e7a09b</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>FAA49969F0F1795661B2E7E0D66C636F</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:1de2b2c17c5627ae4a13d7f32e5c049565e7a09b</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>51714</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>26861.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§782/1967 BOKEN 1 FASADBEKLÄDNAD|A 267291 FAS|26862.tif">
+
+      <document id="500007" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:51d4e9eb71b01684e5926fa4d070b568ce847cf1</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>71999AFADDA6C1FABA6C19269077CB9C</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:51d4e9eb71b01684e5926fa4d070b568ce847cf1</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>54970</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>26862.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§782/1967 BOKEN 1 FASADBEKLÄDNAD|VA 1004561 VA-RITN|92651.tif">
+
+      <document id="500009" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:ef66ac4892e542716f805fb57aedb31a7869a021</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>986FA70953DC288CEDF3C9EEDEBF5E5F</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:ef66ac4892e542716f805fb57aedb31a7869a021</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>62062</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>92651.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

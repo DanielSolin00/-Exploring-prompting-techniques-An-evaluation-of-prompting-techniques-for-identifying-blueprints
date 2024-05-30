@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1964|§518/1964 ELDAREN 5 TILLBYGGNAD SAMT FASADBEKL AV BEF BOSTADSHUS">
+
+      <container id="498439" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD SAMT FASADBEKL AV BEF BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>ELDAREN 5</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1964-05-13</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>2580</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§518/1964 ELDAREN 5 TILLBYGGNAD SAMT FASADBEKL AV BEF BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1964|§518/1964 ELDAREN 5 TILLBYGGNAD SAMT FASADBEKL AV BEF BOSTADSHUS|A 190081 FAS PL">
+
+      <container id="498440" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 190081 FAS PL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1964|§518/1964 ELDAREN 5 TILLBYGGNAD SAMT FASADBEKL AV BEF BOSTADSHUS|A 190081 FAS PL|19127.tif">
+
+      <document id="498441" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:becc005ab2742e2218c342b448dff0f486d805eb</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>90A7095DEC1B6F3C812AF25B999FDC81</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:becc005ab2742e2218c342b448dff0f486d805eb</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>81188</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>19127.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

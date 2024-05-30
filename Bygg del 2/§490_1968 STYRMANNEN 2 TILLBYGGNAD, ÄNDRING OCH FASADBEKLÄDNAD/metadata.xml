@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§490/1968 STYRMANNEN 2 TILLBYGGNAD, ÄNDRING OCH FASADBEKLÄDNAD AV BOS TADSHUS">
+
+      <container id="826925" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD, ÄNDRING OCH FASADBEKLÄDNAD AV BOS TADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>STYRMANNEN 2</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1968-05-08</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>18502</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§490/1968 STYRMANNEN 2 TILLBYGGNAD, ÄNDRING OCH FASADBEKLÄDNAD AV BOS TADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§490/1968 STYRMANNEN 2 TILLBYGGNAD, ÄNDRING OCH FASADBEKLÄDNAD AV BOS TADSHUS|A 225851 BOTTENPL FAS SKORST-RITN SIT">
+
+      <container id="826926" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 225851 BOTTENPL FAS SKORST-RITN SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§490/1968 STYRMANNEN 2 TILLBYGGNAD, ÄNDRING OCH FASADBEKLÄDNAD AV BOS TADSHUS|A 225851 BOTTENPL FAS SKORST-RITN SIT|22709.tif">
+
+      <document id="826927" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:2985589e07bc6bbaab19386be0f91fda096f1b21</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>5AF397BE9A28572FE0557D25508C5241</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:2985589e07bc6bbaab19386be0f91fda096f1b21</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>211748</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>22709.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

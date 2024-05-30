@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1958|§414/1958 TORSRED 2:21 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS">
+
+      <container id="836381" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>TORSRED 2:21</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1958-06-04</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>20589</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§414/1958 TORSRED 2:21 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1958|§414/1958 TORSRED 2:21 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 435681 SIT SEKT">
+
+      <container id="836384" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 435681 SIT SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1958|§414/1958 TORSRED 2:21 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 435691 FAS MOT NV,SV">
+
+      <container id="836386" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 435691 FAS MOT NV,SV</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1958|§414/1958 TORSRED 2:21 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 435701 FAS MOT SO,NO">
+
+      <container id="836388" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 435701 FAS MOT SO,NO</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1958|§414/1958 TORSRED 2:21 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 435671 BOTTEN- O VINDSPL">
+
+      <container id="836382" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 435671 BOTTEN- O VINDSPL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1958|§414/1958 TORSRED 2:21 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 435681 SIT SEKT|43787.tif">
+
+      <document id="836385" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:e2483dfa95f8b5ed145003b01948195c35f71da3</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>76EB831FC543ED171D6DF73F4AFB903D</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:e2483dfa95f8b5ed145003b01948195c35f71da3</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>58596</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>43787.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1958|§414/1958 TORSRED 2:21 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 435691 FAS MOT NV,SV|43788.tif">
+
+      <document id="836387" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:04f3e721e85b88286ebaf12df2d85421828f9d95</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>308D420F5D9252C2EA122FBD4C97F43F</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:04f3e721e85b88286ebaf12df2d85421828f9d95</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>64666</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>43788.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1958|§414/1958 TORSRED 2:21 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 435701 FAS MOT SO,NO|43789.tif">
+
+      <document id="836389" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:0e9c08d170f69aba6992c4a23829ddd0b85998b6</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>5A30E19C60AD9917AC1AFAEAEC779CC6</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:0e9c08d170f69aba6992c4a23829ddd0b85998b6</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>55330</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>43789.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1958|§414/1958 TORSRED 2:21 TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 435671 BOTTEN- O VINDSPL|43786.tif">
+
+      <document id="836383" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:fbf19fea60c55c040129822649bfe4ae6d804262</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>0D8D28367A66E3168D9B56A615AFA9FC</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:fbf19fea60c55c040129822649bfe4ae6d804262</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>80876</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>43786.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

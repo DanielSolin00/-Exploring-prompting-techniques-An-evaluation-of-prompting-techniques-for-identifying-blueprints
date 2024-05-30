@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1971|§580/1971 FORS 2:154 TILLBYGGNAD AV GARAGE SAMT FASADBEKLÄDNAD AV B OSTADSHUS">
+
+      <container id="516674" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD AV GARAGE SAMT FASADBEKLÄDNAD AV B OSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>FORS 2:154</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1971-06-16</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>53005</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§580/1971 FORS 2:154 TILLBYGGNAD AV GARAGE SAMT FASADBEKLÄDNAD AV B OSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1971|§580/1971 FORS 2:154 TILLBYGGNAD AV GARAGE SAMT FASADBEKLÄDNAD AV B OSTADSHUS|A 518071 SIT">
+
+      <container id="516675" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 518071 SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1971|§580/1971 FORS 2:154 TILLBYGGNAD AV GARAGE SAMT FASADBEKLÄDNAD AV B OSTADSHUS|A 518081 PL FAS SEKT">
+
+      <container id="516677" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 518081 PL FAS SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1971|§580/1971 FORS 2:154 TILLBYGGNAD AV GARAGE SAMT FASADBEKLÄDNAD AV B OSTADSHUS|A 518071 SIT|52072.tif">
+
+      <document id="516676" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:43ef40f0d3fb69fdc9b790bd870b82d0e74d72c6</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>6065DB719387C13266F21F509D59EFE9</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:43ef40f0d3fb69fdc9b790bd870b82d0e74d72c6</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>71574</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>52072.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1971|§580/1971 FORS 2:154 TILLBYGGNAD AV GARAGE SAMT FASADBEKLÄDNAD AV B OSTADSHUS|A 518081 PL FAS SEKT|52073.tif">
+
+      <document id="516678" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:9e2c54d2de0bca439b9080936c9bfcecab8ce830</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>191277ECEDC69A41B9460B35B5278A10</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:9e2c54d2de0bca439b9080936c9bfcecab8ce830</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>154956</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>52073.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

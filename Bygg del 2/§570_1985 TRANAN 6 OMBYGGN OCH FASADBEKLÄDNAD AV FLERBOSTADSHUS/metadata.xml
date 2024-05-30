@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1985|§570/1985 TRANAN 6 OMBYGGN OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS">
+
+      <container id="668501" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OMBYGGN OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>TRANAN 6</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1985-11-27</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>20621</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§570/1985 TRANAN 6 OMBYGGN OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1985|§570/1985 TRANAN 6 OMBYGGN OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS|A 630181 FAS HUS A-D">
+
+      <container id="668522" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 630181 FAS HUS A-D</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1985|§570/1985 TRANAN 6 OMBYGGN OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS|A 630171 PL 1-4 HUS A-D">
+
+      <container id="668520" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 630171 PL 1-4 HUS A-D</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1985|§570/1985 TRANAN 6 OMBYGGN OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS|A 630081 KÄLLARPL HUS A (BEF)">
+
+      <container id="668502" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 630081 KÄLLARPL HUS A (BEF)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1985|§570/1985 TRANAN 6 OMBYGGN OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS|A 630091 KÄLLARPL HUS B (BEF)">
+
+      <container id="668504" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 630091 KÄLLARPL HUS B (BEF)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1985|§570/1985 TRANAN 6 OMBYGGN OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS|A 630101 KÄLLARPL HUS C (BEF)">
+
+      <container id="668506" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 630101 KÄLLARPL HUS C (BEF)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1985|§570/1985 TRANAN 6 OMBYGGN OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS|A 630111 KÄLLARPL HUS D (BEF)">
+
+      <container id="668508" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 630111 KÄLLARPL HUS D (BEF)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1985|§570/1985 TRANAN 6 OMBYGGN OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS|A 630121 PL 1-4 HUS A-D (BEF)">
+
+      <container id="668510" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 630121 PL 1-4 HUS A-D (BEF)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1985|§570/1985 TRANAN 6 OMBYGGN OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS|A 630131 KÄLLARPL HUS A (ÄNDR)">
+
+      <container id="668512" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 630131 KÄLLARPL HUS A (ÄNDR)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1985|§570/1985 TRANAN 6 OMBYGGN OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS|A 630141 KÄLLARPL HUS B (ÄNDR)">
+
+      <container id="668514" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 630141 KÄLLARPL HUS B (ÄNDR)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1985|§570/1985 TRANAN 6 OMBYGGN OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS|A 630151 KÄLLARPL HUS C (ÄNDR)">
+
+      <container id="668516" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 630151 KÄLLARPL HUS C (ÄNDR)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1985|§570/1985 TRANAN 6 OMBYGGN OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS|A 630181 FAS HUS A-D|63394.tif">
+
+      <document id="668523" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:fdf34fa8db91e896db421e9ee62d3ee7a94fcade</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>44A639D898B3AB49BA08C614AE31E73A</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:fdf34fa8db91e896db421e9ee62d3ee7a94fcade</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>131292</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>63394.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1985|§570/1985 TRANAN 6 OMBYGGN OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS|A 630171 PL 1-4 HUS A-D|63393.tif">
+
+      <document id="668521" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:eed8806d0d5e3f524646d9b1a930865073b83e05</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>059A3BB159BD561C499AAB5BBF11DA1D</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:eed8806d0d5e3f524646d9b1a930865073b83e05</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>102580</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>63393.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1985|§570/1985 TRANAN 6 OMBYGGN OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS|A 630161 KÄLLARPL SEKT HUS D (ÄNDR)">
+
+      <container id="668518" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 630161 KÄLLARPL SEKT HUS D (ÄNDR)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1985|§570/1985 TRANAN 6 OMBYGGN OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS|A 630081 KÄLLARPL HUS A (BEF)|63384.tif">
+
+      <document id="668503" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:064e444a9f3b29051647cbe7b4c75353b6d96436</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>E54EBA75E03EEEF98228A85E285AD73A</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:064e444a9f3b29051647cbe7b4c75353b6d96436</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>64232</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>63384.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1985|§570/1985 TRANAN 6 OMBYGGN OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS|A 630091 KÄLLARPL HUS B (BEF)|63385.tif">
+
+      <document id="668505" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:c2f6730e90b2c9533b77443d57639def66b31072</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>9CB86BE7474229EC6F3333640A8BD7DB</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:c2f6730e90b2c9533b77443d57639def66b31072</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>73062</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>63385.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1985|§570/1985 TRANAN 6 OMBYGGN OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS|A 630101 KÄLLARPL HUS C (BEF)|63386.tif">
+
+      <document id="668507" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:8f6dfbdc48e74b67de7c969afd8ccfda8203f61f</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>1A3FC45892E73803DE0B1EB760177B18</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:8f6dfbdc48e74b67de7c969afd8ccfda8203f61f</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>63248</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>63386.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1985|§570/1985 TRANAN 6 OMBYGGN OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS|A 630111 KÄLLARPL HUS D (BEF)|63387.tif">
+
+      <document id="668509" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:cbf47bd92de354b1d705d65a95358f90eacd8521</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>61659998099E52AC9C6CFA43AD0B049E</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:cbf47bd92de354b1d705d65a95358f90eacd8521</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>58282</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>63387.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1985|§570/1985 TRANAN 6 OMBYGGN OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS|A 630121 PL 1-4 HUS A-D (BEF)|63388.tif">
+
+      <document id="668511" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:7eabcb22e01a0bab4691948ac679b5cb43700571</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>A8C857304CCED352315C279BF0C7231D</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:7eabcb22e01a0bab4691948ac679b5cb43700571</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>101398</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>63388.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1985|§570/1985 TRANAN 6 OMBYGGN OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS|A 630131 KÄLLARPL HUS A (ÄNDR)|63389.tif">
+
+      <document id="668513" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:4cb72659ae6d1d047ad1920ee6053527ad4ea6ae</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>E40C98728F4CCD935749725A543D54CE</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:4cb72659ae6d1d047ad1920ee6053527ad4ea6ae</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>73328</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>63389.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1985|§570/1985 TRANAN 6 OMBYGGN OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS|A 630141 KÄLLARPL HUS B (ÄNDR)|63390.tif">
+
+      <document id="668515" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:570534db43db9575a0f4abf32b7f98de1e933b61</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>9DA956FB9BDAC22353B04C68730B02A3</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:570534db43db9575a0f4abf32b7f98de1e933b61</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>64018</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>63390.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1985|§570/1985 TRANAN 6 OMBYGGN OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS|A 630151 KÄLLARPL HUS C (ÄNDR)|63391.tif">
+
+      <document id="668517" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:b9e079f416728e47e594d0f262713b2a00a4576d</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>4AFB7405745DE8EC80CA04C3360CA59E</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:b9e079f416728e47e594d0f262713b2a00a4576d</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>67344</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>63391.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1985|§570/1985 TRANAN 6 OMBYGGN OCH FASADBEKLÄDNAD AV FLERBOSTADSHUS|A 630161 KÄLLARPL SEKT HUS D (ÄNDR)|63392.tif">
+
+      <document id="668519" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:b0eae3a1a8a7aa7dc923212a2e3d0d21b596eef8</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>0DA9AD87C2C3495C0056A00FC0974DBB</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:b0eae3a1a8a7aa7dc923212a2e3d0d21b596eef8</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>80216</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>63392.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

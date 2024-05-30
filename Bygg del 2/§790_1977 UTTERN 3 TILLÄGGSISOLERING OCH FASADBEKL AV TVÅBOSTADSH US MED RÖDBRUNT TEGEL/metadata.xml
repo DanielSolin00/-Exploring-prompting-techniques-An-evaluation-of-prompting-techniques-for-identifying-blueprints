@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§790/1977 UTTERN 3 TILLÄGGSISOLERING OCH FASADBEKL AV TVÅBOSTADSH US MED RÖDBRUNT TEGEL">
+
+      <container id="698524" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLÄGGSISOLERING OCH FASADBEKL AV TVÅBOSTADSH US MED RÖDBRUNT TEGEL</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>UTTERN 3</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1977-06-15</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>21386</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§790/1977 UTTERN 3 TILLÄGGSISOLERING OCH FASADBEKL AV TVÅBOSTADSH US MED RÖDBRUNT TEGEL</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§790/1977 UTTERN 3 TILLÄGGSISOLERING OCH FASADBEKL AV TVÅBOSTADSH US MED RÖDBRUNT TEGEL|A 361381 FAS SEKT">
+
+      <container id="698525" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 361381 FAS SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§790/1977 UTTERN 3 TILLÄGGSISOLERING OCH FASADBEKL AV TVÅBOSTADSH US MED RÖDBRUNT TEGEL|VA 1050531 VA-RITN">
+
+      <container id="698527" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1050531 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§790/1977 UTTERN 3 TILLÄGGSISOLERING OCH FASADBEKL AV TVÅBOSTADSH US MED RÖDBRUNT TEGEL|A 361381 FAS SEKT|36328.tif">
+
+      <document id="698526" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:cfa40ba401437a65f01cb01530168d7babb134fa</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>A2C0BB7BDD62727D4FA30607106A2AB3</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:cfa40ba401437a65f01cb01530168d7babb134fa</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>159372</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>36328.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1977|§790/1977 UTTERN 3 TILLÄGGSISOLERING OCH FASADBEKL AV TVÅBOSTADSH US MED RÖDBRUNT TEGEL|VA 1050531 VA-RITN|97300.tif">
+
+      <document id="698528" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:50a0a4ad6874996ebc835527c95857a01c4ddcf1</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>839E6FB35DFE4404985CD7B20A381060</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:50a0a4ad6874996ebc835527c95857a01c4ddcf1</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>124094</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>97300.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

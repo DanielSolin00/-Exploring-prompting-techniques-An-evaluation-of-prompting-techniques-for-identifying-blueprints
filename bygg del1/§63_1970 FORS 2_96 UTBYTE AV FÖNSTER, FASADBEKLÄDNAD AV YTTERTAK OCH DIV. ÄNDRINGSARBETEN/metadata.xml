@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§63/1970 FORS 2:96 UTBYTE AV FÖNSTER, FASADBEKLÄDNAD AV YTTERTAK OCH DIV. ÄNDRINGSARBETEN">
+
+      <container id="464658" type="building_case">
+         <attribute type="Ärendemening">
+            <value>UTBYTE AV FÖNSTER, FASADBEKLÄDNAD AV YTTERTAK OCH DIV. ÄNDRINGSARBETEN</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>FORS 2:96</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1970-04-14</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>52933</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§63/1970 FORS 2:96 UTBYTE AV FÖNSTER, FASADBEKLÄDNAD AV YTTERTAK OCH DIV. ÄNDRINGSARBETEN</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§63/1970 FORS 2:96 UTBYTE AV FÖNSTER, FASADBEKLÄDNAD AV YTTERTAK OCH DIV. ÄNDRINGSARBETEN|A 407871 PL">
+
+      <container id="464659" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 407871 PL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§63/1970 FORS 2:96 UTBYTE AV FÖNSTER, FASADBEKLÄDNAD AV YTTERTAK OCH DIV. ÄNDRINGSARBETEN|A 407881 FAS MOT N,Ö">
+
+      <container id="464661" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 407881 FAS MOT N,Ö</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§63/1970 FORS 2:96 UTBYTE AV FÖNSTER, FASADBEKLÄDNAD AV YTTERTAK OCH DIV. ÄNDRINGSARBETEN|A 407871 PL|40994.tif">
+
+      <document id="464660" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:776f710f2cf68adc37ff5008e4e89fee2dfcff63</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>733DD752B7F81F513C2527C0B6C5DDDE</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:776f710f2cf68adc37ff5008e4e89fee2dfcff63</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>147970</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>40994.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1970|§63/1970 FORS 2:96 UTBYTE AV FÖNSTER, FASADBEKLÄDNAD AV YTTERTAK OCH DIV. ÄNDRINGSARBETEN|A 407881 FAS MOT N,Ö|40995.tif">
+
+      <document id="464662" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:5483d4f51d99455d7b5bd0316343adff842a7491</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>42FAAB8621BEE9DAFCC6DBDAB47D34B0</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:5483d4f51d99455d7b5bd0316343adff842a7491</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>202996</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>40995.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

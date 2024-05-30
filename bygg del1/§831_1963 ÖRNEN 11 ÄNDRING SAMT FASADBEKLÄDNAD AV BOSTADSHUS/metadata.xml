@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1963|§831/1963 ÖRNEN 11 ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS">
+
+      <container id="711529" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>ÖRNEN 11</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1963-10-02</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>23870</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§831/1963 ÖRNEN 11 ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1963|§831/1963 ÖRNEN 11 ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 419451 BOTTENPL FAS">
+
+      <container id="711530" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 419451 BOTTENPL FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1963|§831/1963 ÖRNEN 11 ÄNDRING SAMT FASADBEKLÄDNAD AV BOSTADSHUS|A 419451 BOTTENPL FAS|42157.tif">
+
+      <document id="711531" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:4bbe25f544bb6111203dcf82df16aaedccf205f0</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>1B4D9F14414F46C7AC40F34B76D9658E</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:4bbe25f544bb6111203dcf82df16aaedccf205f0</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>126360</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>42157.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

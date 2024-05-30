@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§429/1982 EJDERN 1 OMBYGGNAD AV BOSTADSHUS SAMT FASADBEKLÄDNAD">
+
+      <container id="570055" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OMBYGGNAD AV BOSTADSHUS SAMT FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>EJDERN 1</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1982-04-28</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>2428</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§429/1982 EJDERN 1 OMBYGGNAD AV BOSTADSHUS SAMT FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§429/1982 EJDERN 1 OMBYGGNAD AV BOSTADSHUS SAMT FASADBEKLÄDNAD|A 509871 BOTTENPL PL 1 TR FAS">
+
+      <container id="570056" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 509871 BOTTENPL PL 1 TR FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§429/1982 EJDERN 1 OMBYGGNAD AV BOSTADSHUS SAMT FASADBEKLÄDNAD|BER  AVVÄXLINGSBALKAR  OCH  PELARE">
+
+      <container id="570058" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>BER  AVVÄXLINGSBALKAR  OCH  PELARE</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>BER</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§429/1982 EJDERN 1 OMBYGGNAD AV BOSTADSHUS SAMT FASADBEKLÄDNAD|A 509871 BOTTENPL PL 1 TR FAS|51249.tif">
+
+      <document id="570057" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:ef5bb8e1e8efb5cd4390274f78827265dfd3360a</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>C26116C3FB42688000F764C8FAFDCF43</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:ef5bb8e1e8efb5cd4390274f78827265dfd3360a</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>145964</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>51249.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1982|§429/1982 EJDERN 1 OMBYGGNAD AV BOSTADSHUS SAMT FASADBEKLÄDNAD|BER  AVVÄXLINGSBALKAR  OCH  PELARE|EJDERN 1-2.TIF">
+
+      <document id="570059" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:b3aca22370ae5383eeff6d49fd979ef89ce38155</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>4B5BFD2635871286CF5F9D185662B5C5</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:b3aca22370ae5383eeff6d49fd979ef89ce38155</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>153865</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>EJDERN 1-2.TIF</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>TIF</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

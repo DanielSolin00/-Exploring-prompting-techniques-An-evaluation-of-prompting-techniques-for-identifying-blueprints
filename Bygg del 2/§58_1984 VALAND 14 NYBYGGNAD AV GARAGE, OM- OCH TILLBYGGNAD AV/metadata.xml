@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§58/1984 VALAND 14 NYBYGGNAD AV GARAGE, OM- OCH TILLBYGGNAD AV BO STADSHUS, FASADBEKLÄDNAD OCH ÖPPEN SPIS">
+
+      <container id="839588" type="building_case">
+         <attribute type="Ärendemening">
+            <value>NYBYGGNAD AV GARAGE, OM- OCH TILLBYGGNAD AV BO STADSHUS, FASADBEKLÄDNAD OCH ÖPPEN SPIS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>VALAND 14</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1984-01-25</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>21576</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§58/1984 VALAND 14 NYBYGGNAD AV GARAGE, OM- OCH TILLBYGGNAD AV BO STADSHUS, FASADBEKLÄDNAD OCH ÖPPEN SPIS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§58/1984 VALAND 14 NYBYGGNAD AV GARAGE, OM- OCH TILLBYGGNAD AV BO STADSHUS, FASADBEKLÄDNAD OCH ÖPPEN SPIS|A 574661 PL">
+
+      <container id="839593" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 574661 PL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§58/1984 VALAND 14 NYBYGGNAD AV GARAGE, OM- OCH TILLBYGGNAD AV BO STADSHUS, FASADBEKLÄDNAD OCH ÖPPEN SPIS|A 574671 FAS">
+
+      <container id="839595" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 574671 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§58/1984 VALAND 14 NYBYGGNAD AV GARAGE, OM- OCH TILLBYGGNAD AV BO STADSHUS, FASADBEKLÄDNAD OCH ÖPPEN SPIS|A 574681 SEKT">
+
+      <container id="839597" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 574681 SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§58/1984 VALAND 14 NYBYGGNAD AV GARAGE, OM- OCH TILLBYGGNAD AV BO STADSHUS, FASADBEKLÄDNAD OCH ÖPPEN SPIS|A 574661 PL|57813.tif">
+
+      <document id="839594" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:99389f69e6db98764c7ae5eaf46ff951ce3e70a3</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>989305EFB7719648A47AF915A4FD8A54</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:99389f69e6db98764c7ae5eaf46ff951ce3e70a3</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>77668</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>57813.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§58/1984 VALAND 14 NYBYGGNAD AV GARAGE, OM- OCH TILLBYGGNAD AV BO STADSHUS, FASADBEKLÄDNAD OCH ÖPPEN SPIS|A 574671 FAS|57814.tif">
+
+      <document id="839596" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:12f26a7cba36dc08dcc36a76afcbf7895b3e5977</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>49AFCB5DAAC7D857C07DE3F3E9170AFB</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:12f26a7cba36dc08dcc36a76afcbf7895b3e5977</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>103528</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>57814.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§58/1984 VALAND 14 NYBYGGNAD AV GARAGE, OM- OCH TILLBYGGNAD AV BO STADSHUS, FASADBEKLÄDNAD OCH ÖPPEN SPIS|VA 668921 SIT KÄLLARPL">
+
+      <container id="839599" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 668921 SIT KÄLLARPL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§58/1984 VALAND 14 NYBYGGNAD AV GARAGE, OM- OCH TILLBYGGNAD AV BO STADSHUS, FASADBEKLÄDNAD OCH ÖPPEN SPIS|A 574681 SEKT|57815.tif">
+
+      <document id="839598" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:d39db5f3d7af0f028f29d72f94aded3b5f7fb960</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>36157C550F7D3746E1B1091299FA8081</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:d39db5f3d7af0f028f29d72f94aded3b5f7fb960</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>65270</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>57815.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§58/1984 VALAND 14 NYBYGGNAD AV GARAGE, OM- OCH TILLBYGGNAD AV BO STADSHUS, FASADBEKLÄDNAD OCH ÖPPEN SPIS|VA 668931 VÅN-PL ÖVERPL">
+
+      <container id="841901" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 668931 VÅN-PL ÖVERPL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§58/1984 VALAND 14 NYBYGGNAD AV GARAGE, OM- OCH TILLBYGGNAD AV BO STADSHUS, FASADBEKLÄDNAD OCH ÖPPEN SPIS|A 574651 PL UPPMÄTN RITN">
+
+      <container id="839591" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 574651 PL UPPMÄTN RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§58/1984 VALAND 14 NYBYGGNAD AV GARAGE, OM- OCH TILLBYGGNAD AV BO STADSHUS, FASADBEKLÄDNAD OCH ÖPPEN SPIS|VA 668921 SIT KÄLLARPL|67283.tif">
+
+      <document id="839600" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:39aadc6dd203e0f79fcc9a63ff663b10c66443fa</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>BE04CEDD293E219402E2D644EFA74968</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:39aadc6dd203e0f79fcc9a63ff663b10c66443fa</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>85124</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>67283.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§58/1984 VALAND 14 NYBYGGNAD AV GARAGE, OM- OCH TILLBYGGNAD AV BO STADSHUS, FASADBEKLÄDNAD OCH ÖPPEN SPIS|VA 668931 VÅN-PL ÖVERPL|67284.tif">
+
+      <document id="841902" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:76ed93fcf4149067667c1a6cb6a9cc023311cf24</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>4D2B97FB01C07A97BC59087C93C7B39E</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:76ed93fcf4149067667c1a6cb6a9cc023311cf24</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>97106</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>67284.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§58/1984 VALAND 14 NYBYGGNAD AV GARAGE, OM- OCH TILLBYGGNAD AV BO STADSHUS, FASADBEKLÄDNAD OCH ÖPPEN SPIS|A 574651 PL UPPMÄTN RITN|57812.tif">
+
+      <document id="839592" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:e9bf77b5eda5b3cf63a399e66aa33496cb45819f</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>FFBBCA46A4DD4FB18FC415ED05DA0461</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:e9bf77b5eda5b3cf63a399e66aa33496cb45819f</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>74564</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>57812.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§58/1984 VALAND 14 NYBYGGNAD AV GARAGE, OM- OCH TILLBYGGNAD AV BO STADSHUS, FASADBEKLÄDNAD OCH ÖPPEN SPIS|A 574641 SIT-PL PL FAS SEKT (GARAGE)">
+
+      <container id="839589" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 574641 SIT-PL PL FAS SEKT (GARAGE)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1984|§58/1984 VALAND 14 NYBYGGNAD AV GARAGE, OM- OCH TILLBYGGNAD AV BO STADSHUS, FASADBEKLÄDNAD OCH ÖPPEN SPIS|A 574641 SIT-PL PL FAS SEKT (GARAGE)|57811.tif">
+
+      <document id="839590" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:3f57ec1f4a16175ca066600ed970aa6bb531cf02</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>8CEED078B73CADB54B12DCD61C726239</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:3f57ec1f4a16175ca066600ed970aa6bb531cf02</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>106576</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>57811.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

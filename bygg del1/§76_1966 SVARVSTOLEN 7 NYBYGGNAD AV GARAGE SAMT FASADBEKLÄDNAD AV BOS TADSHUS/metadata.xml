@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1966|§76/1966 SVARVSTOLEN 7 NYBYGGNAD AV GARAGE SAMT FASADBEKLÄDNAD AV BOS TADSHUS">
+
+      <container id="712731" type="building_case">
+         <attribute type="Ärendemening">
+            <value>NYBYGGNAD AV GARAGE SAMT FASADBEKLÄDNAD AV BOS TADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SVARVSTOLEN 7</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1966-12-09</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>19110</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§76/1966 SVARVSTOLEN 7 NYBYGGNAD AV GARAGE SAMT FASADBEKLÄDNAD AV BOS TADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1966|§76/1966 SVARVSTOLEN 7 NYBYGGNAD AV GARAGE SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 476531 SIT-PL PL FAS">
+
+      <container id="712732" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 476531 SIT-PL PL FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1966|§76/1966 SVARVSTOLEN 7 NYBYGGNAD AV GARAGE SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 476531 SIT-PL PL FAS|47885.tif">
+
+      <document id="712733" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:6cab27c7defc6c9098d35780262927d6a6425183</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>CD2401E27AE5439D91F0158EE489AE06</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:6cab27c7defc6c9098d35780262927d6a6425183</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>75234</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>47885.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

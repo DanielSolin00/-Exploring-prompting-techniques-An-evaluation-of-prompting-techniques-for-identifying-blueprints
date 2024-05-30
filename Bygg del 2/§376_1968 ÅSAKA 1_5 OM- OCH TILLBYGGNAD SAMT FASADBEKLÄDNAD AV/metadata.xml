@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§376/1968 ÅSAKA 1:5 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS">
+
+      <container id="846776" type="building_case">
+         <attribute type="Ärendemening">
+            <value>OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>ÅSAKA 1:5</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1968-04-10</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>23130</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§376/1968 ÅSAKA 1:5 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§376/1968 ÅSAKA 1:5 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 491531 KOMPL RITN">
+
+      <container id="846779" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 491531 KOMPL RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§376/1968 ÅSAKA 1:5 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 491521 UTDR UR EK KARTA">
+
+      <container id="846777" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 491521 UTDR UR EK KARTA</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§376/1968 ÅSAKA 1:5 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 491531 KOMPL RITN|49391.tif">
+
+      <document id="846780" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:4312ced4cee673440831d38763fcf00437d28f45</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>FA95894CE6FD0E87055CE4C09FCD5FB0</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:4312ced4cee673440831d38763fcf00437d28f45</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>143250</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>49391.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§376/1968 ÅSAKA 1:5 OM- OCH TILLBYGGNAD SAMT FASADBEKLÄDNAD AV BOS TADSHUS|A 491521 UTDR UR EK KARTA|49390.tif">
+
+      <document id="846778" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:e4d4269fdd61a632b745c6b102e9d7704f4b090f</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>956B2439A7D0384981FB2C7A4DE78069</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:e4d4269fdd61a632b745c6b102e9d7704f4b090f</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>174306</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>49390.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

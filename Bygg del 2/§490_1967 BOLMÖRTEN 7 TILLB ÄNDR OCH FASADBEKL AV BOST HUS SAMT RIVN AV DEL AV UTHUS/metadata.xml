@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§490/1967 BOLMÖRTEN 7 TILLB ÄNDR OCH FASADBEKL AV BOST HUS SAMT RIVN AV DEL AV UTHUS">
+
+      <container id="554297" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLB ÄNDR OCH FASADBEKL AV BOST HUS SAMT RIVN AV DEL AV UTHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>BOLMÖRTEN 7</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1967-05-17</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>52038</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§490/1967 BOLMÖRTEN 7 TILLB ÄNDR OCH FASADBEKL AV BOST HUS SAMT RIVN AV DEL AV UTHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§490/1967 BOLMÖRTEN 7 TILLB ÄNDR OCH FASADBEKL AV BOST HUS SAMT RIVN AV DEL AV UTHUS|A 68461 FAS PL">
+
+      <container id="554298" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 68461 FAS PL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§490/1967 BOLMÖRTEN 7 TILLB ÄNDR OCH FASADBEKL AV BOST HUS SAMT RIVN AV DEL AV UTHUS|A 68461 FAS PL|6885.tif">
+
+      <document id="554299" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:dc87d37338142363cbe9e1bd74db8ac369f0d4be</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>8EA1476335737CEF2AADD6E022A4AF9D</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:dc87d37338142363cbe9e1bd74db8ac369f0d4be</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>52412</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>6885.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

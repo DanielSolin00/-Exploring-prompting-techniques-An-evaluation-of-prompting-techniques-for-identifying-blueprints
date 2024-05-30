@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§953/1967 ANTILOPEN 2 FASADBEKL AV BENSINSTATION">
+
+      <container id="546857" type="building_case">
+         <attribute type="Ärendemening">
+            <value>FASADBEKL AV BENSINSTATION</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>ANTILOPEN 2</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1967-10-11</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>318</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§953/1967 ANTILOPEN 2 FASADBEKL AV BENSINSTATION</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§953/1967 ANTILOPEN 2 FASADBEKL AV BENSINSTATION|A 232641 FAS">
+
+      <container id="546858" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 232641 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§953/1967 ANTILOPEN 2 FASADBEKL AV BENSINSTATION|VA 1000401 VA-RITN">
+
+      <container id="546862" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1000401 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§953/1967 ANTILOPEN 2 FASADBEKL AV BENSINSTATION|A 232651 TYPFAS DET">
+
+      <container id="546860" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 232651 TYPFAS DET</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§953/1967 ANTILOPEN 2 FASADBEKL AV BENSINSTATION|A 232641 FAS|23389.tif">
+
+      <document id="546859" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:78ab3f8b4cdb3aab8710b627f37f432645cc209f</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>215AA020AF4C666DF55ED65270CAB538</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:78ab3f8b4cdb3aab8710b627f37f432645cc209f</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>109122</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>23389.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§953/1967 ANTILOPEN 2 FASADBEKL AV BENSINSTATION|VA 1000401 VA-RITN|92235.tif">
+
+      <document id="546863" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:894c463c988ccaeaa72cfc88b716c5fea31b46e1</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>E68D5750C8214E7EFAD2B5F7E350EFC8</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:894c463c988ccaeaa72cfc88b716c5fea31b46e1</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>80272</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>92235.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§953/1967 ANTILOPEN 2 FASADBEKL AV BENSINSTATION|A 232651 TYPFAS DET|23390.tif">
+
+      <document id="546861" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:f83c4b2d58606443c116ff6121cdbe8f1dd07e47</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>D13A610BD15E676B431FB5D811A7348B</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:f83c4b2d58606443c116ff6121cdbe8f1dd07e47</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>172274</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>23390.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

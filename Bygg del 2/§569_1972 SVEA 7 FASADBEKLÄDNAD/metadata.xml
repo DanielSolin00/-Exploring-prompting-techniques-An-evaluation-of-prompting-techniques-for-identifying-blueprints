@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§569/1972 SVEA 7 FASADBEKLÄDNAD">
+
+      <container id="733311" type="building_case">
+         <attribute type="Ärendemening">
+            <value>FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SVEA 7</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1972-05-17</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>19134</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§569/1972 SVEA 7 FASADBEKLÄDNAD</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§569/1972 SVEA 7 FASADBEKLÄDNAD|A 225601 FAS">
+
+      <container id="733312" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 225601 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§569/1972 SVEA 7 FASADBEKLÄDNAD|A 225611 FAS">
+
+      <container id="733314" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 225611 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§569/1972 SVEA 7 FASADBEKLÄDNAD|A 225601 FAS|22684.tif">
+
+      <document id="733313" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:3081dad6272fec34d43918fec38fa49882543002</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>A0D442331194CA3F968C694DCC16BEAB</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:3081dad6272fec34d43918fec38fa49882543002</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>120450</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>22684.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§569/1972 SVEA 7 FASADBEKLÄDNAD|A 225611 FAS|22685.tif">
+
+      <document id="733315" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:0eeba6d20170fd7f8c4d3f5925db186f30b2eb74</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>7C4EC55127A97F6C6B761F235C4276A2</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:0eeba6d20170fd7f8c4d3f5925db186f30b2eb74</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>130520</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>22685.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

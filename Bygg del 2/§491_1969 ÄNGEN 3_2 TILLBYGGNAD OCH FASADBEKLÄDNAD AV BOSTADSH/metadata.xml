@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§491/1969 ÄNGEN 3:2 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS">
+
+      <container id="840059" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>ÄNGEN 3:2</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1969-06-11</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>23726</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§491/1969 ÄNGEN 3:2 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§491/1969 ÄNGEN 3:2 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 439321 KÄLLAR- O BOTTENPL FAS SO,NO,SV SEKT">
+
+      <container id="840060" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 439321 KÄLLAR- O BOTTENPL FAS SO,NO,SV SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§491/1969 ÄNGEN 3:2 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 439321 KÄLLAR- O BOTTENPL FAS SO,NO,SV SEKT|44152.tif">
+
+      <document id="840061" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:8e81523807031762840bcdde5f6b588bf4129bf9</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>F48D98EE7C7348F11D4F6C984408E9BE</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:8e81523807031762840bcdde5f6b588bf4129bf9</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>143160</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>44152.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

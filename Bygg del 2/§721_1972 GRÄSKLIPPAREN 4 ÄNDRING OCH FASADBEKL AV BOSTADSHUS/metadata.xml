@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§721/1972 GRÄSKLIPPAREN 4 ÄNDRING OCH FASADBEKL AV BOSTADSHUS">
+
+      <container id="504282" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING OCH FASADBEKL AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>GRÄSKLIPPAREN 4</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1972-06-28</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>54338</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§721/1972 GRÄSKLIPPAREN 4 ÄNDRING OCH FASADBEKL AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§721/1972 GRÄSKLIPPAREN 4 ÄNDRING OCH FASADBEKL AV BOSTADSHUS|A 473841 FAS MOT NO">
+
+      <container id="504287" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 473841 FAS MOT NO</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§721/1972 GRÄSKLIPPAREN 4 ÄNDRING OCH FASADBEKL AV BOSTADSHUS|A 473851 FAS MOT NV">
+
+      <container id="504289" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 473851 FAS MOT NV</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§721/1972 GRÄSKLIPPAREN 4 ÄNDRING OCH FASADBEKL AV BOSTADSHUS|A 473861 FAS MOT SV">
+
+      <container id="504291" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 473861 FAS MOT SV</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§721/1972 GRÄSKLIPPAREN 4 ÄNDRING OCH FASADBEKL AV BOSTADSHUS|A 473871 FAS MOT SO">
+
+      <container id="504293" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 473871 FAS MOT SO</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§721/1972 GRÄSKLIPPAREN 4 ÄNDRING OCH FASADBEKL AV BOSTADSHUS|A 473841 FAS MOT NO|47616.tif">
+
+      <document id="504288" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:942cc3c17b1a53709b460db636a6b20acd41c46f</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>BF5944029194EC8D7C9CB36CE90EA7CD</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:942cc3c17b1a53709b460db636a6b20acd41c46f</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>41968</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>47616.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§721/1972 GRÄSKLIPPAREN 4 ÄNDRING OCH FASADBEKL AV BOSTADSHUS|A 473851 FAS MOT NV|47617.tif">
+
+      <document id="504290" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:0c8bb637edb493db1970d52181c5547666949438</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>3A6555243674C2B26DB68C4C260883C7</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:0c8bb637edb493db1970d52181c5547666949438</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>40040</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>47617.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§721/1972 GRÄSKLIPPAREN 4 ÄNDRING OCH FASADBEKL AV BOSTADSHUS|A 473861 FAS MOT SV|47618.tif">
+
+      <document id="504292" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:d29aff7fc8858174a8cabaa36e1a9296b86e11ca</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>DCDC609DFC7B46AE883A921129BEA82C</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:d29aff7fc8858174a8cabaa36e1a9296b86e11ca</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>46374</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>47618.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§721/1972 GRÄSKLIPPAREN 4 ÄNDRING OCH FASADBEKL AV BOSTADSHUS|A 473871 FAS MOT SO|47619.tif">
+
+      <document id="504294" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:6c49864bf2eef437e6d0f43b08b1a5481ca6972b</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>2047B6BC319342001488A41F29951509</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:6c49864bf2eef437e6d0f43b08b1a5481ca6972b</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>43746</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>47619.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§721/1972 GRÄSKLIPPAREN 4 ÄNDRING OCH FASADBEKL AV BOSTADSHUS|A 473821 FAS MOT NO UPPMÄTN.RITN">
+
+      <container id="504283" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 473821 FAS MOT NO UPPMÄTN.RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§721/1972 GRÄSKLIPPAREN 4 ÄNDRING OCH FASADBEKL AV BOSTADSHUS|A 473831 FAS MOT SO UPPMÄTN.RITN">
+
+      <container id="504285" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 473831 FAS MOT SO UPPMÄTN.RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§721/1972 GRÄSKLIPPAREN 4 ÄNDRING OCH FASADBEKL AV BOSTADSHUS|A 473821 FAS MOT NO UPPMÄTN.RITN|47614.tif">
+
+      <document id="504284" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:c8fbc60f3d69ce406c948edbb27b8605c1e54d71</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>436ACA38795699D7407FD9CA5AE5F7E5</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:c8fbc60f3d69ce406c948edbb27b8605c1e54d71</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>77644</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>47614.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1972|§721/1972 GRÄSKLIPPAREN 4 ÄNDRING OCH FASADBEKL AV BOSTADSHUS|A 473831 FAS MOT SO UPPMÄTN.RITN|47615.tif">
+
+      <document id="504286" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:60525e2ec37e84179244b6b329801076d91755df</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>AEF215B884D1C923FFEA80C64A60E57D</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:60525e2ec37e84179244b6b329801076d91755df</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>78696</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>47615.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

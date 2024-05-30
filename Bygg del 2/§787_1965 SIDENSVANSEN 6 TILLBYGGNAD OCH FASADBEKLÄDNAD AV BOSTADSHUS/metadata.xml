@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§787/1965 SIDENSVANSEN 6 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS">
+
+      <container id="680252" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SIDENSVANSEN 6</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1965-10-06</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>15111</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§787/1965 SIDENSVANSEN 6 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§787/1965 SIDENSVANSEN 6 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 350631 KÄLLARPL">
+
+      <container id="680255" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 350631 KÄLLARPL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§787/1965 SIDENSVANSEN 6 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 350641 BOTTENPL">
+
+      <container id="680257" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 350641 BOTTENPL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§787/1965 SIDENSVANSEN 6 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 350691 SEKT A-A">
+
+      <container id="680267" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 350691 SEKT A-A</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§787/1965 SIDENSVANSEN 6 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 350651 FAS MOT NV">
+
+      <container id="680259" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 350651 FAS MOT NV</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§787/1965 SIDENSVANSEN 6 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 350661 FAS MOT NO">
+
+      <container id="680261" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 350661 FAS MOT NO</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§787/1965 SIDENSVANSEN 6 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 350671 FAS MOT SO">
+
+      <container id="680263" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 350671 FAS MOT SO</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§787/1965 SIDENSVANSEN 6 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 350681 FAS MOT SV">
+
+      <container id="680265" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 350681 FAS MOT SV</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§787/1965 SIDENSVANSEN 6 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 350621 SIT SEKT B-B">
+
+      <container id="680253" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 350621 SIT SEKT B-B</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§787/1965 SIDENSVANSEN 6 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 350631 KÄLLARPL|35252.tif">
+
+      <document id="680256" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:f27b160061a4b86596722329172d8e59d7eb208f</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>190256436B63A962BD40334C71A34013</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:f27b160061a4b86596722329172d8e59d7eb208f</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>66484</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35252.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§787/1965 SIDENSVANSEN 6 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 350641 BOTTENPL|35253.tif">
+
+      <document id="680258" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:477b3e810c5ce72257655d0d398dd7c3ac6e3f44</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>2A6C4995AEF1F454BC20FA3A94E0124E</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:477b3e810c5ce72257655d0d398dd7c3ac6e3f44</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>64470</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35253.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§787/1965 SIDENSVANSEN 6 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 350691 SEKT A-A|35258.tif">
+
+      <document id="680268" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:f4fb7800bba6d25edc469379bf7ef1def0ac0183</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>8E6A385D3FC2245851F38279F4B8E240</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:f4fb7800bba6d25edc469379bf7ef1def0ac0183</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>68540</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35258.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§787/1965 SIDENSVANSEN 6 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 350651 FAS MOT NV|35254.tif">
+
+      <document id="680260" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:cc9504b26d90e25ea10f555b84f6212cc7c6b44d</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>34A3C7841CA3FB33D2F0B80A8C7B6CD7</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:cc9504b26d90e25ea10f555b84f6212cc7c6b44d</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>67148</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35254.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§787/1965 SIDENSVANSEN 6 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 350661 FAS MOT NO|35255.tif">
+
+      <document id="680262" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:a184356c40b88b258d305dfd3f91bcf4c07caee6</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>6525547F951133074F4100C85D62E6EB</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:a184356c40b88b258d305dfd3f91bcf4c07caee6</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>69278</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35255.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§787/1965 SIDENSVANSEN 6 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 350671 FAS MOT SO|35256.tif">
+
+      <document id="680264" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:c2dfe73c1d66b9ddb589fcd17e62a96f1737192c</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>C997A1C5A203C5CC5CA91B930A9DCC3B</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:c2dfe73c1d66b9ddb589fcd17e62a96f1737192c</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>68124</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35256.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§787/1965 SIDENSVANSEN 6 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 350681 FAS MOT SV|35257.tif">
+
+      <document id="680266" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:9c118df3b8d10f05e44f7a85a94ad51d6aa906f4</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>4135B541DFCB2EA54DBDA8804545DFC7</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:9c118df3b8d10f05e44f7a85a94ad51d6aa906f4</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>76050</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35257.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§787/1965 SIDENSVANSEN 6 TILLBYGGNAD OCH FASADBEKLÄDNAD AV BOSTADSHUS|A 350621 SIT SEKT B-B|35251.tif">
+
+      <document id="680254" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:d84150b9a4273f0731b66572168508694965c880</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>7D2BE95E236CE3391CE2E30A596EDABF</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:d84150b9a4273f0731b66572168508694965c880</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>67446</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35251.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

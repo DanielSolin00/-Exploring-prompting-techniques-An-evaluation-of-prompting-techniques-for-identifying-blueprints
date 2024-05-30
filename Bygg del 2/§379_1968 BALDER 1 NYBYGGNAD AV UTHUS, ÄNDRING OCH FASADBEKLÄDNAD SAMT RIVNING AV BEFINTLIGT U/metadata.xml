@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§379/1968 BALDER 1 NYBYGGNAD AV UTHUS, ÄNDRING OCH FASADBEKLÄDNAD SAMT RIVNING AV BEFINTLIGT UTHUS">
+
+      <container id="585871" type="building_case">
+         <attribute type="Ärendemening">
+            <value>NYBYGGNAD AV UTHUS, ÄNDRING OCH FASADBEKLÄDNAD SAMT RIVNING AV BEFINTLIGT UTHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>BALDER 1</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1968-04-10</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>820</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§379/1968 BALDER 1 NYBYGGNAD AV UTHUS, ÄNDRING OCH FASADBEKLÄDNAD SAMT RIVNING AV BEFINTLIGT UTHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§379/1968 BALDER 1 NYBYGGNAD AV UTHUS, ÄNDRING OCH FASADBEKLÄDNAD SAMT RIVNING AV BEFINTLIGT UTHUS|A 159721 FAS PL SEKT">
+
+      <container id="585872" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 159721 FAS PL SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§379/1968 BALDER 1 NYBYGGNAD AV UTHUS, ÄNDRING OCH FASADBEKLÄDNAD SAMT RIVNING AV BEFINTLIGT UTHUS|A 159731 FAS PL SEKT SIT">
+
+      <container id="585874" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 159731 FAS PL SEKT SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§379/1968 BALDER 1 NYBYGGNAD AV UTHUS, ÄNDRING OCH FASADBEKLÄDNAD SAMT RIVNING AV BEFINTLIGT UTHUS|A 159741 FAS PL SEKT SIT">
+
+      <container id="585876" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 159741 FAS PL SEKT SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§379/1968 BALDER 1 NYBYGGNAD AV UTHUS, ÄNDRING OCH FASADBEKLÄDNAD SAMT RIVNING AV BEFINTLIGT UTHUS|A 159721 FAS PL SEKT|16052.tif">
+
+      <document id="585873" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:21da04eabf00b691d239ab8ad95bd27ea252655e</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>584DD3DFB6D98F936368A7DA5A36C778</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:21da04eabf00b691d239ab8ad95bd27ea252655e</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>170184</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>16052.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§379/1968 BALDER 1 NYBYGGNAD AV UTHUS, ÄNDRING OCH FASADBEKLÄDNAD SAMT RIVNING AV BEFINTLIGT UTHUS|A 159731 FAS PL SEKT SIT|16053.tif">
+
+      <document id="585875" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:94cb331320cd961dd241bbc9f413295dfc145433</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>04EF5A3CAE3448A4585109E3260D7DE5</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:94cb331320cd961dd241bbc9f413295dfc145433</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>64632</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>16053.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1968|§379/1968 BALDER 1 NYBYGGNAD AV UTHUS, ÄNDRING OCH FASADBEKLÄDNAD SAMT RIVNING AV BEFINTLIGT UTHUS|A 159741 FAS PL SEKT SIT|16054.tif">
+
+      <document id="585877" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:5f7a64de4f6d10fe18931ba24fdfcfc4580f3f73</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>AA7D2A87E4726B39CE320C708E2F0557</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:5f7a64de4f6d10fe18931ba24fdfcfc4580f3f73</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>97238</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>16054.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§496/1969 SADELN 2 ÄNDRING OCH FASADBEKL PÅ BOSTADSHUS">
+
+      <container id="702762" type="building_case">
+         <attribute type="Ärendemening">
+            <value>ÄNDRING OCH FASADBEKL PÅ BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SADELN 2</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1969-06-11</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>14895</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§496/1969 SADELN 2 ÄNDRING OCH FASADBEKL PÅ BOSTADSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§496/1969 SADELN 2 ÄNDRING OCH FASADBEKL PÅ BOSTADSHUS|A 220601 FAS SIT">
+
+      <container id="702763" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 220601 FAS SIT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§496/1969 SADELN 2 ÄNDRING OCH FASADBEKL PÅ BOSTADSHUS|VA 1037181 VA-RITN">
+
+      <container id="702765" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1037181 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§496/1969 SADELN 2 ÄNDRING OCH FASADBEKL PÅ BOSTADSHUS|A 220601 FAS SIT|22184.tif">
+
+      <document id="702764" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:ac0acbd9dc57714e0317f622de5cea32aaf44bf9</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>360E0A573C8A5E11F02D7ABDF418E275</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:ac0acbd9dc57714e0317f622de5cea32aaf44bf9</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>64256</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>22184.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1969|§496/1969 SADELN 2 ÄNDRING OCH FASADBEKL PÅ BOSTADSHUS|VA 1037181 VA-RITN|95954.tif">
+
+      <document id="702766" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:909bbf8ad43ee52dc0506544a3e4c935c0f3414e</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>2B46C96CBB58024B5F6F912160CAFBFF</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:909bbf8ad43ee52dc0506544a3e4c935c0f3414e</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>125268</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>95954.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

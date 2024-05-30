@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§634/1978 BOKHÅLLAREN 3 TILLÄGGSISOLERING OCH FASADBEKL AV BOST HUS">
+
+      <container id="476311" type="building_case">
+         <attribute type="Ärendemening">
+            <value>TILLÄGGSISOLERING OCH FASADBEKL AV BOST HUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>BOKHÅLLAREN 3</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1978-05-24</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>51978</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§634/1978 BOKHÅLLAREN 3 TILLÄGGSISOLERING OCH FASADBEKL AV BOST HUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§634/1978 BOKHÅLLAREN 3 TILLÄGGSISOLERING OCH FASADBEKL AV BOST HUS|A 263471 FAS">
+
+      <container id="476318" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 263471 FAS</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§634/1978 BOKHÅLLAREN 3 TILLÄGGSISOLERING OCH FASADBEKL AV BOST HUS|A 263461 FAS MOT V,N">
+
+      <container id="476316" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 263461 FAS MOT V,N</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§634/1978 BOKHÅLLAREN 3 TILLÄGGSISOLERING OCH FASADBEKL AV BOST HUS|A 263441 SEKT KÄLLARPL">
+
+      <container id="476312" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 263441 SEKT KÄLLARPL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§634/1978 BOKHÅLLAREN 3 TILLÄGGSISOLERING OCH FASADBEKL AV BOST HUS|A 263471 FAS|26477.tif">
+
+      <document id="476319" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:b6b3233b73126b2b81d2b8c4afdcf480c9f924a6</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>7837E1BF192BC5DB66F5388465189FFE</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:b6b3233b73126b2b81d2b8c4afdcf480c9f924a6</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>249824</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>26477.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§634/1978 BOKHÅLLAREN 3 TILLÄGGSISOLERING OCH FASADBEKL AV BOST HUS|A 263451 BOTTENPL ÖVERPL">
+
+      <container id="476314" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 263451 BOTTENPL ÖVERPL</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§634/1978 BOKHÅLLAREN 3 TILLÄGGSISOLERING OCH FASADBEKL AV BOST HUS|A 263461 FAS MOT V,N|26476.tif">
+
+      <document id="476317" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:3b8fe992fd21f6904fe9d3e178bbf8b7ef9317da</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>9461A81886B69B37DD38E8BB82342BD2</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:3b8fe992fd21f6904fe9d3e178bbf8b7ef9317da</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>267966</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>26476.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§634/1978 BOKHÅLLAREN 3 TILLÄGGSISOLERING OCH FASADBEKL AV BOST HUS|A 263441 SEKT KÄLLARPL|26474.tif">
+
+      <document id="476313" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:50775cd66762afef8149709f986fb14caf30566b</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>2D885E9F3562E543D42200E7E96BFE2C</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:50775cd66762afef8149709f986fb14caf30566b</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>248310</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>26474.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1978|§634/1978 BOKHÅLLAREN 3 TILLÄGGSISOLERING OCH FASADBEKL AV BOST HUS|A 263451 BOTTENPL ÖVERPL|26475.tif">
+
+      <document id="476315" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:a534366e1b67cc02fdf629bd0e1d84d71c94ee91</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>8E3DE668D5352FCA3751BD18D1BB65CC</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:a534366e1b67cc02fdf629bd0e1d84d71c94ee91</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>236198</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>26475.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

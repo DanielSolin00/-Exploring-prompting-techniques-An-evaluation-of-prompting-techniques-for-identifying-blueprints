@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§866/1967 SKOFTEBYN 3:1 UTBYTE AV FÖNSTER SAMT FASADBEKLÄDNAD AV BOSTA DSHUS">
+
+      <container id="759882" type="building_case">
+         <attribute type="Ärendemening">
+            <value>UTBYTE AV FÖNSTER SAMT FASADBEKLÄDNAD AV BOSTA DSHUS</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>SKOFTEBYN 3:1</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1967-09-13</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>15845</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§866/1967 SKOFTEBYN 3:1 UTBYTE AV FÖNSTER SAMT FASADBEKLÄDNAD AV BOSTA DSHUS</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§866/1967 SKOFTEBYN 3:1 UTBYTE AV FÖNSTER SAMT FASADBEKLÄDNAD AV BOSTA DSHUS|A 380501 FAS (NUV.)">
+
+      <container id="759883" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 380501 FAS (NUV.)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§866/1967 SKOFTEBYN 3:1 UTBYTE AV FÖNSTER SAMT FASADBEKLÄDNAD AV BOSTA DSHUS|A 380511 FAS (BLIV.)">
+
+      <container id="759885" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 380511 FAS (BLIV.)</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§866/1967 SKOFTEBYN 3:1 UTBYTE AV FÖNSTER SAMT FASADBEKLÄDNAD AV BOSTA DSHUS|A 380501 FAS (NUV.)|38245.tif">
+
+      <document id="759884" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:4d269c83947ae6ef85d08a0587ce352158ff8202</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>93B53AA372397B81EFBC9A80BD5AE9A5</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:4d269c83947ae6ef85d08a0587ce352158ff8202</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>105532</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>38245.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1967|§866/1967 SKOFTEBYN 3:1 UTBYTE AV FÖNSTER SAMT FASADBEKLÄDNAD AV BOSTA DSHUS|A 380511 FAS (BLIV.)|38246.tif">
+
+      <document id="759886" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:51d9f0382ebcbc0072318b68e8d267c06ef030e4</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>AA31BE301DD64FBD52CB85C702D152F6</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:51d9f0382ebcbc0072318b68e8d267c06ef030e4</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>81862</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>38246.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>

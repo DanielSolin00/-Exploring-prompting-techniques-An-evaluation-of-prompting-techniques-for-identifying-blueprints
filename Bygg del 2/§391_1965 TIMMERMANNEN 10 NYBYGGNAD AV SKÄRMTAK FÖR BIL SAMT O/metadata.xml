@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§391/1965 TIMMERMANNEN 10 NYBYGGNAD AV SKÄRMTAK FÖR BIL SAMT OMFÄRGNING AV FASADER">
+
+      <container id="837508" type="building_case">
+         <attribute type="Ärendemening">
+            <value>NYBYGGNAD AV SKÄRMTAK FÖR BIL SAMT OMFÄRGNING AV FASADER</value>
+         </attribute>
+         <attribute type="Fastighetsbeteckning">
+            <value>TIMMERMANNEN 10</value>
+         </attribute>
+         <attribute type="Beslutsdatum">
+            <value>1965-05-05</value>
+         </attribute>
+         <attribute type="Arkivnummer">
+            <value>19917</value>
+         </attribute>
+         <attribute type="Ärendetyp">
+            <value>Bygglovsärende</value>
+         </attribute>
+         <attribute type="Diarienummer">
+            <value>§391/1965 TIMMERMANNEN 10 NYBYGGNAD AV SKÄRMTAK FÖR BIL SAMT OMFÄRGNING AV FASADER</value>
+         </attribute>
+         <attribute type="Registreringsdatum">
+            <value>1900-01-01</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§391/1965 TIMMERMANNEN 10 NYBYGGNAD AV SKÄRMTAK FÖR BIL SAMT OMFÄRGNING AV FASADER|VA 1047661 VA-RITN">
+
+      <container id="837511" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>VA 1047661 VA-RITN</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>VA</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§391/1965 TIMMERMANNEN 10 NYBYGGNAD AV SKÄRMTAK FÖR BIL SAMT OMFÄRGNING AV FASADER|A 355891 SIT-PL PL FAS SEKT">
+
+      <container id="837509" type="building_record">
+         <attribute type="Arkivobjektid">
+            <value>A 355891 SIT-PL PL FAS SEKT</value>
+         </attribute>
+         <attribute type="Handlingstyp">
+            <value>A</value>
+         </attribute>
+      </container>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§391/1965 TIMMERMANNEN 10 NYBYGGNAD AV SKÄRMTAK FÖR BIL SAMT OMFÄRGNING AV FASADER|VA 1047661 VA-RITN|97008.tif">
+
+      <document id="837512" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:e6f1c3d7ecfb90a650eaa97e57b7709b095c57a4</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>6743B520CF0A7847EA8C414F646B2A1C</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:e6f1c3d7ecfb90a650eaa97e57b7709b095c57a4</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>134876</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>97008.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+
+   <objects xmlns="http://www.iipax.com/lta_dip"
+            basepath="|Trollhättans Kommun|Bygg|1965|§391/1965 TIMMERMANNEN 10 NYBYGGNAD AV SKÄRMTAK FÖR BIL SAMT OMFÄRGNING AV FASADER|A 355891 SIT-PL PL FAS SEKT|35778.tif">
+
+      <document id="837510" type="lta_file">
+         <attribute type="Personuppgifter">
+            <value>0 - Inga personuppgifter</value>
+         </attribute>
+         <attribute type="Sekretess">
+            <value>0 - Ingen sekretess</value>
+         </attribute>
+         <attribute type="Kontrollsumma">
+            <value>SHA-1:2d2c60b4ba4bb2b266db5d6b86bcac9a2576c30c</value>
+         </attribute>
+         <attribute type="Beständigt länk-ID">
+            <value>EEF55D94B739608F696CA7A33A93E742</value>
+         </attribute>
+         <attribute type="Övrigt skydd">
+            <value>0 - Inget skydd</value>
+         </attribute>
+         <attribute type="Kontrollvärde">
+            <value>SHA1:2d2c60b4ba4bb2b266db5d6b86bcac9a2576c30c</value>
+         </attribute>
+         <attribute type="Storlek">
+            <value>227010</value>
+         </attribute>
+         <attribute type="Filnamn">
+            <value>35778.tif</value>
+         </attribute>
+         <attribute type="Filändelse ">
+            <value>tif</value>
+         </attribute>
+      </document>
+   </objects>
+</data>
